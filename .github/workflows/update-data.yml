@@ -1,0 +1,51 @@
+name: Update RDSS data
+
+on:
+  schedule:
+    - cron: '23 1 * * *'   # 06:53 IST daily
+    - cron: '23 13 * * *'  # 18:53 IST daily
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/**', 'package.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # If the RDSS site ever blocks GitHub's servers, set the repository variable RDSS_RUNNER
+    # to "self-hosted" and register a runner on a computer in India.
+    runs-on: ${{ vars.RDSS_RUNNER || 'ubuntu-latest' }}
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Collect RDSS figures
+        run: node scripts/collect.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "rdss-bot"
+          git config user.email "rdss-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No change"
+          else
+            git commit -m "Data: RDSS snapshot $(TZ=Asia/Kolkata date '+%F %H:%M')"
+            git pull --rebase --autostash origin main
+            git push
+          fi

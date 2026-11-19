@@ -1,0 +1,13 @@
+{
+  "name": "rdss-bihar-data",
+  "private": true,
+  "type": "module",
+  "description": "Daily snapshot of Bihar, SBPDCL and NBPDCL figures from the public RDSS dashboard, with a comparison dashboard",
+  "scripts": {
+    "collect": "node scripts/collect.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0",
+    "xlsx": "^0.18.5"
+  }
+}
