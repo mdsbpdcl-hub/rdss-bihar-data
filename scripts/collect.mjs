@@ -58,7 +58,7 @@ async function attempt(name, fn, tries = 2) {
 }
 
 // Open a public RDSS page and read its State / Discom table once it has finished loading
-async function readTable(page, url) {
+async function readTable(page, url, minRows = 2) {
   await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 120000 });
   const grab = () => page.evaluate(() => {
     const isHead = (tr) => [...tr.children].some((c) => /^(state|discom)$/i.test(c.textContent.trim()));
@@ -80,7 +80,7 @@ async function readTable(page, url) {
   let last = null;
   while (Date.now() - t0 < 120000) {
     const t = await grab();
-    if (t && !t.loading && t.rows.length >= 2) {
+    if (t && !t.loading && t.rows.length >= minRows) {
       // wait until two reads agree, so a half-drawn table is never saved
       if (last && JSON.stringify(last.rows) === JSON.stringify(t.rows)) return t;
       last = t;
@@ -104,15 +104,25 @@ async function fetchXlsx(ctx, file) {
 // Smart-metering and loss-reduction "Physical Progress" and "Financial Progress" tiles for India
 async function readTiles(page) {
   await page.goto(`${SITE}/dashboard`, { waitUntil: 'domcontentloaded', timeout: 120000 });
-  await page.waitForFunction(() => /Physical Progress\s*[\d.]+\s*%[\s\S]*Physical Progress\s*[\d.]+\s*%/.test(document.body.innerText), null, { timeout: 90000, polling: 1000 });
-  const txt = await page.evaluate(() => document.body.innerText);
-  const part = (a, b) => { const i = txt.indexOf(a); const j = b ? txt.indexOf(b, i + 1) : txt.length; return i < 0 ? '' : txt.slice(i, j < 0 ? txt.length : j); };
   const pick = (s, re) => { const m = s.match(re); return m ? num(m[1]) : null; };
-  const sm = part('Smart Metering', 'Loss Reduction'), lr = part('Loss Reduction');
-  return {
-    sm_physical: pick(sm, /Physical Progress\s*([\d.]+)\s*%/), sm_financial: pick(sm, /Financial Progress\s*([\d.]+)\s*%/),
-    lr_physical: pick(lr, /Physical Progress\s*([\d.]+)\s*%/), lr_financial: pick(lr, /Financial Progress\s*([\d.]+)\s*%/),
+  const read = async () => {
+    const txt = await page.evaluate(() => document.body.innerText);
+    const i = txt.indexOf('Smart Metering'), j = txt.indexOf('Loss Reduction', i + 1);
+    if (i < 0 || j < 0) return null;
+    const sm = txt.slice(i, j), lr = txt.slice(j);
+    return {
+      sm_physical: pick(sm, /Physical Progress\s*([\d.]+)\s*%/), sm_financial: pick(sm, /Financial Progress\s*([\d.]+)\s*%/),
+      lr_physical: pick(lr, /Physical Progress\s*([\d.]+)\s*%/), lr_financial: pick(lr, /Financial Progress\s*([\d.]+)\s*%/),
+    };
   };
+  // the tiles count up from 0, so wait until all four are non-zero and two reads agree
+  const t0 = Date.now(); let last = null;
+  while (Date.now() - t0 < 90000) {
+    const v = await read();
+    if (v && Object.values(v).every((x) => x > 0)) { if (last && JSON.stringify(last) === JSON.stringify(v)) return v; last = v; }
+    await wait(2000);
+  }
+  throw new Error('dashboard tiles did not settle');
 }
 
 const tidyStates = (p) => ({ ...p, rows: p.rows.map((r) => ({ ...r, name: stateLabel(r.name) })) });
@@ -142,7 +152,7 @@ async function main() {
     const st = await attempt(`progress:${id}`, async () => tidyStates(parseProgress(await readTable(page, `${SITE}${m.path}?type=${id}`))));
     const br = st?.rows.find((r) => key(r.name) === 'BIHAR');
     if (br?.id) biharId = br.id;
-    const ds = await attempt(`progress:${id}:bihar`, async () => parseProgress(await readTable(page, `${SITE}${m.path}?chartfor=state&type=${id}&id=${biharId}&sectionfor=TableSection`)));
+    const ds = await attempt(`progress:${id}:bihar`, async () => parseProgress(await readTable(page, `${SITE}${m.path}?chartfor=state&type=${id}&id=${biharId}&sectionfor=TableSection`, 1)));
     out.progress[id] = {
       ...m,
       states: st ? st.rows : prev.progress?.[id]?.states || [],

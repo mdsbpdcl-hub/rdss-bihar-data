@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Bihar on RDSS · Smart Metering, Loss Reduction &amp; Finances vs States and DISCOMs</title>
+<meta name="description" content="Bihar, SBPDCL and NBPDCL progress under the Revamped Distribution Sector Scheme (RDSS): smart meters, loss reduction works, funds, AT&C loss and ACS-ARR gap, compared with every state and DISCOM. Updated daily.">
+<link rel="stylesheet" href="assets/style.css">
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap top-in">
+    <div>
+      <p class="eyebrow">Revamped Distribution Sector Scheme · Ministry of Power</p>
+      <h1>Bihar on RDSS</h1>
+    </div>
+    <div class="stamp">
+      <div><span class="dot" id="fresh-dot"></span><span id="fresh">Loading…</span></div>
+      <div class="muted" id="fresh-sub"></div>
+    </div>
+  </div>
+  <div class="wrap">
+    <p class="lede" id="lede">&nbsp;</p>
+    <div class="kpis" id="kpis"></div>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="card" id="works">
+    <div class="card-h">
+      <div><h2>Bihar's works under RDSS</h2></div>
+      <label class="pick">Show
+        <select id="works-who"></select>
+      </label>
+    </div>
+    <div class="tracks" id="tracks"></div>
+  </section>
+
+  <section class="card" id="discoms">
+    <div class="card-h">
+      <div><h2>SBPDCL and NBPDCL side by side</h2></div>
+    </div>
+    <div class="scroll" id="cmp-box"></div>
+  </section>
+
+  <section class="card" id="ranks">
+    <div class="card-h">
+      <div>
+        <h2>Rank among states and DISCOMs</h2>
+        <p class="hint">1 = best</p>
+      </div>
+    </div>
+    <div class="scroll" id="rank-box"></div>
+  </section>
+
+  <section class="card" id="compare">
+    <div class="card-h">
+      <div><h2>Bihar against every state</h2></div>
+      <label class="pick">Measure
+        <select id="metric"></select>
+      </label>
+    </div>
+    <div class="legend" id="legend"></div>
+    <div class="two" id="compare-two">
+      <div><h3>States &amp; UTs</h3><div class="chart" id="chart-states"></div><button type="button" class="more" id="more-states" hidden></button></div>
+      <div id="discom-col"><h3>DISCOMs</h3><div class="chart" id="chart-discoms"></div><button type="button" class="more" id="more-discoms" hidden></button></div>
+    </div>
+  </section>
+
+  <section class="card" id="years">
+    <div class="card-h">
+      <div><h2>Year by year</h2></div>
+      <label class="pick">Measure
+        <select id="metric-year"></select>
+      </label>
+    </div>
+    <div class="chart" id="chart-years"></div>
+  </section>
+
+  <section class="card" id="trend">
+    <div class="card-h">
+      <div>
+        <h2>Day by day</h2>
+        <p class="hint" id="trend-hint"></p>
+      </div>
+      <label class="pick">Measure
+        <select id="metric-trend"></select>
+      </label>
+    </div>
+    <div class="chart" id="chart-trend"></div>
+  </section>
+
+  <section class="about" id="notes">
+    <details>
+      <summary>About the data</summary>
+      <ul>
+        <li><b>Source:</b> the public RDSS dashboard, <a href="https://rdss.powermin.gov.in/dashboard" target="_blank" rel="noopener">rdss.powermin.gov.in</a>. A scheduled job opens its state-wise progress pages twice a day and downloads the yearly Excel files it links to. Only public pages are read.</li>
+        <li><b>Smart metering</b> progress is meters <i>communicating</i> as a share of meters sanctioned. <b>Loss reduction</b> progress is works <i>installed</i> as a share of works sanctioned; it can pass 100% where more was installed than sanctioned.</li>
+        <li><b>Physical progress</b> is the overall figure RDSS publishes for each state.</li>
+        <li><b>Funds</b> are in INR crore. GBS is the Gross Budgetary Support (central grant). "GBS released %" is GBS released as a share of GBS sanctioned.</li>
+        <li><b>AT&amp;C loss, ACS-ARR gap, payable and receivable days</b> are yearly figures from the Integrated Rating, shown for the latest financial year with figures for most states. Lower is better for all four.</li>
+        <li><b>Ranks</b> count only states with a sanctioned project, or with a reported value for the yearly measures.</li>
+        <li>Download the data: <a href="data/latest.json">latest.json</a> · <a href="data/latest.csv">latest.csv</a> · <a href="data/history.csv">history.csv</a></li>
+      </ul>
+    </details>
+  </section>
+
+</main>
+
+<div class="tip" id="tip" hidden></div>
+<script src="assets/app.js"></script>
+</body>
+</html>
