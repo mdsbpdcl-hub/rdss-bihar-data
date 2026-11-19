@@ -152,7 +152,9 @@ async function main() {
     const st = await attempt(`progress:${id}`, async () => tidyStates(parseProgress(await readTable(page, `${SITE}${m.path}?type=${id}`))));
     const br = st?.rows.find((r) => key(r.name) === 'BIHAR');
     if (br?.id) biharId = br.id;
-    const ds = await attempt(`progress:${id}:bihar`, async () => parseProgress(await readTable(page, `${SITE}${m.path}?chartfor=state&type=${id}&id=${biharId}&sectionfor=TableSection`, 1)));
+    // no Bihar split to read when Bihar has nothing sanctioned for this item
+    const none = st && !(br?.sanctioned > 0);
+    const ds = none ? { rows: [] } : await attempt(`progress:${id}:bihar`, async () => parseProgress(await readTable(page, `${SITE}${m.path}?chartfor=state&type=${id}&id=${biharId}&sectionfor=TableSection`, 1)));
     out.progress[id] = {
       ...m,
       states: st ? st.rows : prev.progress?.[id]?.states || [],
