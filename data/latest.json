@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-19T18:40:31.224Z",
+ "fetched_at": "2026-11-19T18:50:35.685Z",
  "source": "https://rdss.powermin.gov.in/dashboard",
  "progress": {
   "cm": {
@@ -8209,132 +8209,125 @@
  "sources": {
   "annual:atc": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "annual:acs_arr": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "annual:payable": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "annual:receivable": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "tiles": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:cm": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:cm:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:dm": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:dm:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:fm": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:fm:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:bm": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
-  },
-  "progress:bm:bihar": {
-   "ok": false,
-   "at": null,
-   "error": "table did not finish loading: https://rdss.powermin.gov.in/all-state-progress?chartfor=state&type=bm&id=5&sectionfor=TableSection"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:LT": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:LT:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:HT": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:HT:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:DTR": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:DTR:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:SUB": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "progress:SUB:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "physical:sm": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "physical:sm:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "physical:ls": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "physical:ls:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "funds:sanctioned_cost": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "funds:sanctioned_cost:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "funds:gbs_sanctioned": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "funds:gbs_sanctioned:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "funds:gbs_released": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   },
   "funds:gbs_released:bihar": {
    "ok": true,
-   "at": "2026-11-19T18:40:31.224Z"
+   "at": "2026-11-19T18:50:35.685Z"
   }
  },
- "errors": [
-  "progress:bm:bihar: table did not finish loading: https://rdss.powermin.gov.in/all-state-progress?chartfor=state&type=bm&id=5&sectionfor=TableSection"
- ],
- "ok": false
+ "errors": [],
+ "ok": true
 }
