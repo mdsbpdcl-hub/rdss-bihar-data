@@ -1,0 +1,8340 @@
+{
+ "fetched_at": "2026-11-19T18:24:32.446Z",
+ "source": "https://rdss.powermin.gov.in/dashboard",
+ "progress": {
+  "cm": {
+   "label": "Consumer meters",
+   "unit": "nos.",
+   "path": "/all-state-progress",
+   "done": "Communicating",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 83573,
+     "awarded": 69080,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 5308345,
+     "awarded": 5671063,
+     "done": 3460841,
+     "pct": 65.2
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 287446,
+     "awarded": 287446,
+     "done": 103132,
+     "pct": 35.88
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": 6364798,
+     "awarded": 6460098,
+     "done": 5899465,
+     "pct": 92.69
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 2350000,
+     "awarded": 2350000,
+     "done": 2161490,
+     "pct": 91.98
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 5962115,
+     "awarded": 7070288,
+     "done": 4438578,
+     "pct": 74.45
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 741160,
+     "awarded": 741160,
+     "done": 37016,
+     "pct": 4.99
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": 16487100,
+     "awarded": 16471994,
+     "done": 5954957,
+     "pct": 36.12
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 2960768,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 2800945,
+     "awarded": 2876187,
+     "done": 1130672,
+     "pct": 40.37
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 1407045,
+     "awarded": 1407046,
+     "done": 1216819,
+     "pct": 86.48
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": 1341306,
+     "awarded": 1341306,
+     "done": 858758,
+     "pct": 64.02
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sanctioned": 0,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 13289361,
+     "awarded": 196340,
+     "done": 174311,
+     "pct": 1.31
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 12980102,
+     "awarded": 5037575,
+     "done": 4039106,
+     "pct": 31.12
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 23564747,
+     "awarded": 24808656,
+     "done": 14422890,
+     "pct": 61.21
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": 154400,
+     "awarded": 154400,
+     "done": 75415,
+     "pct": 48.84
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 460000,
+     "awarded": 460000,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": 289383,
+     "awarded": 289383,
+     "done": 85151,
+     "pct": 29.43
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 317210,
+     "awarded": 317210,
+     "done": 60510,
+     "pct": 19.08
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": 403767,
+     "awarded": 403767,
+     "done": 212770,
+     "pct": 52.7
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 8784807,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 14274956,
+     "awarded": 14280085,
+     "done": 5419561,
+     "pct": 37.97
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 144680,
+     "awarded": 144680,
+     "done": 112495,
+     "pct": 77.75
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 30000000,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": 447489,
+     "awarded": 447489,
+     "done": 329112,
+     "pct": 73.55
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 26979055,
+     "awarded": 26979055,
+     "done": 10443219,
+     "pct": 38.71
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 1587870,
+     "awarded": 1587870,
+     "done": 727943,
+     "pct": 45.84
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 18717969,
+     "awarded": 3714273,
+     "done": 638297,
+     "pct": 3.41
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 198490397,
+    "awarded": 123566451,
+    "done": 62002508,
+    "pct": 31.24
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 1030000,
+     "awarded": 1030000,
+     "done": 927208,
+     "pct": 90.02
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 1320000,
+     "awarded": 1320000,
+     "done": 1234282,
+     "pct": 93.51
+    }
+   ]
+  },
+  "dm": {
+   "label": "DT meters",
+   "unit": "nos.",
+   "path": "/all-state-progress",
+   "done": "Communicating",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 1148,
+     "awarded": 1105,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 293140,
+     "awarded": 293140,
+     "done": 147766,
+     "pct": 50.41
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 10116,
+     "awarded": 10116,
+     "done": 1462,
+     "pct": 14.45
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": 77547,
+     "awarded": 94907,
+     "done": 59043,
+     "pct": 76.14
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 250726,
+     "awarded": 242534,
+     "done": 205286,
+     "pct": 81.88
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 210644,
+     "awarded": 267001,
+     "done": 145468,
+     "pct": 69.06
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sanctioned": 766,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 8369,
+     "awarded": 8369,
+     "done": 5112,
+     "pct": 61.08
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": 300487,
+     "awarded": 316987,
+     "done": 221436,
+     "pct": 73.69
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 94813,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 39012,
+     "awarded": 39826,
+     "done": 24919,
+     "pct": 63.88
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 88037,
+     "awarded": 82196,
+     "done": 41991,
+     "pct": 47.7
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": 19512,
+     "awarded": 19512,
+     "done": 2035,
+     "pct": 10.43
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 87615,
+     "awarded": 92387,
+     "done": 21035,
+     "pct": 24.01
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 419396,
+     "awarded": 424116,
+     "done": 221768,
+     "pct": 52.88
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 410905,
+     "awarded": 435205,
+     "done": 376156,
+     "pct": 91.54
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": 11451,
+     "awarded": 11451,
+     "done": 2396,
+     "pct": 20.92
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 11419,
+     "awarded": 11419,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": 2300,
+     "awarded": 2300,
+     "done": 1518,
+     "pct": 66
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 6276,
+     "awarded": 6276,
+     "done": 1170,
+     "pct": 18.64
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": 3105,
+     "awarded": 3105,
+     "done": 121,
+     "pct": 3.9
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 184044,
+     "awarded": 184044,
+     "done": 31457,
+     "pct": 17.09
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 434608,
+     "awarded": 434608,
+     "done": 54648,
+     "pct": 12.57
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 3229,
+     "awarded": 3229,
+     "done": 1487,
+     "pct": 46.05
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 472500,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": 14908,
+     "awarded": 14160,
+     "done": 9910,
+     "pct": 66.47
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 1516383,
+     "awarded": 1526801,
+     "done": 448082,
+     "pct": 29.55
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 59212,
+     "awarded": 59212,
+     "done": 21247,
+     "pct": 35.88
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 305419,
+     "awarded": 305419,
+     "done": 103193,
+     "pct": 33.79
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 5337087,
+    "awarded": 4889425,
+    "done": 2148706,
+    "pct": 40.26
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 143683,
+     "awarded": 135491,
+     "done": 107392,
+     "pct": 74.74
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 107043,
+     "awarded": 107043,
+     "done": 97894,
+     "pct": 91.45
+    }
+   ]
+  },
+  "fm": {
+   "label": "Feeder meters",
+   "unit": "nos.",
+   "path": "/all-state-progress",
+   "done": "Communicating",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 114,
+     "awarded": 65,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 18292,
+     "awarded": 16591,
+     "done": 13950,
+     "pct": 76.26
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 579,
+     "awarded": 579,
+     "done": 274,
+     "pct": 47.32
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": 2782,
+     "awarded": 3441,
+     "done": 2879,
+     "pct": 103.49
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 6427,
+     "awarded": 6297,
+     "done": 6272,
+     "pct": 97.59
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 5670,
+     "awarded": 7773,
+     "done": 6148,
+     "pct": 108.43
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sanctioned": 2695,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 827,
+     "awarded": 827,
+     "done": 827,
+     "pct": 100
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 7433,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 1269,
+     "awarded": 1737,
+     "done": 1645,
+     "pct": 129.63
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 2608,
+     "awarded": 1485,
+     "done": 1472,
+     "pct": 56.44
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": 1226,
+     "awarded": 1226,
+     "done": 893,
+     "pct": 72.84
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 3519,
+     "awarded": 3020,
+     "done": 2906,
+     "pct": 82.58
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 29708,
+     "awarded": 28828,
+     "done": 25994,
+     "pct": 87.5
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 28108,
+     "awarded": 28108,
+     "done": 33589,
+     "pct": 119.5
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": 357,
+     "awarded": 357,
+     "done": 239,
+     "pct": 66.95
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 904,
+     "awarded": 904,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": 398,
+     "awarded": 398,
+     "done": 256,
+     "pct": 64.32
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 368,
+     "awarded": 368,
+     "done": 180,
+     "pct": 48.91
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": 180,
+     "awarded": 180,
+     "done": 145,
+     "pct": 80.56
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 12563,
+     "awarded": 12563,
+     "done": 12563,
+     "pct": 100
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 25629,
+     "awarded": 22714,
+     "done": 18006,
+     "pct": 70.26
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 633,
+     "awarded": 633,
+     "done": 460,
+     "pct": 72.67
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 16974,
+     "awarded": 10570,
+     "done": 9350,
+     "pct": 55.08
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": 473,
+     "awarded": 473,
+     "done": 473,
+     "pct": 100
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 27000,
+     "awarded": 20874,
+     "done": 27807,
+     "pct": 102.99
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 2602,
+     "awarded": 2602,
+     "done": 2773,
+     "pct": 106.57
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 11874,
+     "awarded": 11874,
+     "done": 12108,
+     "pct": 101.97
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 211212,
+    "awarded": 184487,
+    "done": 181209,
+    "pct": 85.79
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 3806,
+     "awarded": 3676,
+     "done": 3651,
+     "pct": 95.93
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 2621,
+     "awarded": 2621,
+     "done": 2621,
+     "pct": 100
+    }
+   ]
+  },
+  "bm": {
+   "label": "Boundary meters",
+   "unit": "nos.",
+   "path": "/all-state-progress",
+   "done": "Communicating",
+   "states": [
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 767,
+     "awarded": 767,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 109,
+     "awarded": 109,
+     "done": 5,
+     "pct": 4.59
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 0,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 1050,
+     "awarded": 542,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sanctioned": 60,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 0,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 682,
+     "awarded": 682,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 0,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 2506,
+     "awarded": 1213,
+     "done": 36,
+     "pct": 1.44
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 0,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 1106,
+     "awarded": 1106,
+     "done": 181,
+     "pct": 16.37
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 420,
+     "awarded": 420,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 24,
+     "awarded": 24,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 1499,
+     "awarded": 1499,
+     "done": 144,
+     "pct": 9.61
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 0,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 1300,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 9523,
+    "awarded": 6362,
+    "done": 366,
+    "pct": 3.84
+   },
+   "bihar_discoms": []
+  },
+  "LT": {
+   "label": "LT lines",
+   "unit": "ckm",
+   "path": "/all-state-progress-loss",
+   "done": "Installed",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 464,
+     "awarded": 464,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 36737.31,
+     "awarded": 37362.64,
+     "done": 12350.81,
+     "pct": 33.62
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 4899.04,
+     "awarded": 4897.59,
+     "done": 1009.71,
+     "pct": 20.61
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": 19420.64,
+     "awarded": 19660.38,
+     "done": 13734.7,
+     "pct": 70.72
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 70862.98,
+     "awarded": 70860.42,
+     "done": 75976.67,
+     "pct": 107.22
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 62269.38,
+     "awarded": 57708.56,
+     "done": 35078.13,
+     "pct": 56.33
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 252,
+     "awarded": 252,
+     "done": 252.2,
+     "pct": 100.08
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": 28832,
+     "awarded": 25004.56,
+     "done": 7827.18,
+     "pct": 27.15
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 17673.05,
+     "awarded": 15527.55,
+     "done": 7799.05,
+     "pct": 44.13
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 6829.11,
+     "awarded": 6900.95,
+     "done": 276.26,
+     "pct": 4.05
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 31190.34,
+     "awarded": 28482.88,
+     "done": 15840.91,
+     "pct": 50.79
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": 32955,
+     "awarded": 32955,
+     "done": 25643.8,
+     "pct": 77.81
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sanctioned": 287.27,
+     "awarded": 142.91,
+     "done": 176,
+     "pct": 61.27
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 11131.99,
+     "awarded": 11117.51,
+     "done": 2691.11,
+     "pct": 24.17
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sanctioned": 1069.5,
+     "awarded": 1069.5,
+     "done": 374.3,
+     "pct": 35
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 39743.09,
+     "awarded": 39288.56,
+     "done": 29902.89,
+     "pct": 75.24
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 53805.98,
+     "awarded": 52847.09,
+     "done": 41569.07,
+     "pct": 77.26
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": 3912.77,
+     "awarded": 3912.77,
+     "done": 699.12,
+     "pct": 17.87
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 6283.36,
+     "awarded": 3622.86,
+     "done": 1858.1,
+     "pct": 29.57
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": 913.8,
+     "awarded": 601.38,
+     "done": 505.94,
+     "pct": 55.37
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 1468.89,
+     "awarded": 1468.89,
+     "done": 382.45,
+     "pct": 26.04
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": 245.84,
+     "awarded": 255,
+     "done": 24.1,
+     "pct": 9.81
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 7988.62,
+     "awarded": 6514.27,
+     "done": 414.66,
+     "pct": 5.19
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 129302.93,
+     "awarded": 92070.34,
+     "done": 31574.87,
+     "pct": 24.42
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 1159.15,
+     "awarded": 1159.15,
+     "done": 376.87,
+     "pct": 32.51
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 19577.45,
+     "awarded": 19577.49,
+     "done": 465.16,
+     "pct": 2.38
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": 9202.63,
+     "awarded": 7619.41,
+     "done": 7578.99,
+     "pct": 82.36
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 182494.48,
+     "awarded": 174054,
+     "done": 146704.59,
+     "pct": 80.39
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 9207.36,
+     "awarded": 9173.82,
+     "done": 4175.73,
+     "pct": 45.35
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 132919.1,
+     "awarded": 132919,
+     "done": 91976,
+     "pct": 69.2
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 923099.19,
+    "awarded": 857490.61,
+    "done": 557239.49,
+    "pct": 60.37
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 34735.43,
+     "awarded": 34732.73,
+     "done": 37967.76,
+     "pct": 109.31
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 36127.55,
+     "awarded": 36127.69,
+     "done": 38008.9,
+     "pct": 105.21
+    }
+   ]
+  },
+  "HT": {
+   "label": "HT lines",
+   "unit": "ckm",
+   "path": "/all-state-progress-loss",
+   "done": "Installed",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 513.5,
+     "awarded": 513.5,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 53484.92,
+     "awarded": 54028.72,
+     "done": 27345.03,
+     "pct": 51.13
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 3542,
+     "awarded": 3538.6,
+     "done": 765.73,
+     "pct": 21.62
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": 11740.52,
+     "awarded": 15696.71,
+     "done": 4294.03,
+     "pct": 36.57
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 43752.46,
+     "awarded": 43932.98,
+     "done": 32228.56,
+     "pct": 73.66
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 22289.71,
+     "awarded": 20844.65,
+     "done": 16463.58,
+     "pct": 73.86
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sanctioned": 6.59,
+     "awarded": 18.46,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 160.59,
+     "awarded": 160.59,
+     "done": 69.15,
+     "pct": 43.06
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": 26125.02,
+     "awarded": 23818.86,
+     "done": 18771.51,
+     "pct": 71.85
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 16611.93,
+     "awarded": 16833.18,
+     "done": 7471.45,
+     "pct": 44.98
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 7440.57,
+     "awarded": 7350.25,
+     "done": 80.83,
+     "pct": 1.09
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 9645.62,
+     "awarded": 8831.74,
+     "done": 2478.57,
+     "pct": 25.7
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": 8553,
+     "awarded": 8553,
+     "done": 2873.55,
+     "pct": 33.6
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sanctioned": 234.35,
+     "awarded": 81.01,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 5406.03,
+     "awarded": 5394.32,
+     "done": 2193.53,
+     "pct": 40.58
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sanctioned": 1472.48,
+     "awarded": 1463.48,
+     "done": 37.6,
+     "pct": 2.55
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 71229.25,
+     "awarded": 68521.35,
+     "done": 40220.74,
+     "pct": 56.47
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 96964.92,
+     "awarded": 95252.21,
+     "done": 38351.47,
+     "pct": 39.55
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": 1521.54,
+     "awarded": 1521.54,
+     "done": 83.6,
+     "pct": 5.49
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 5169.89,
+     "awarded": 4399.03,
+     "done": 409.99,
+     "pct": 7.93
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": 449.49,
+     "awarded": 127.13,
+     "done": 116.63,
+     "pct": 25.95
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 2179.69,
+     "awarded": 2179.69,
+     "done": 563.03,
+     "pct": 25.83
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": 214.03,
+     "awarded": 192.09,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 20913.9,
+     "awarded": 17233.41,
+     "done": 1287.33,
+     "pct": 6.16
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 242991.8,
+     "awarded": 213218.41,
+     "done": 44629.93,
+     "pct": 18.37
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 1720.02,
+     "awarded": 1720.02,
+     "done": 199.13,
+     "pct": 11.58
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 46179.26,
+     "awarded": 46179.22,
+     "done": 2562.66,
+     "pct": 5.55
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": 1300.24,
+     "awarded": 1130.03,
+     "done": 821.2,
+     "pct": 63.16
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 91151.05,
+     "awarded": 88454,
+     "done": 69529.08,
+     "pct": 76.28
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 6569,
+     "awarded": 6552.89,
+     "done": 2868.59,
+     "pct": 43.67
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 6876.63,
+     "awarded": 5183.45,
+     "done": 1884.71,
+     "pct": 27.41
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 806410.12,
+    "awarded": 762924.65,
+    "done": 318601.35,
+    "pct": 39.51
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 23634.87,
+     "awarded": 23783.69,
+     "done": 16518.68,
+     "pct": 69.89
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 20117.58,
+     "awarded": 20149.28,
+     "done": 15709.88,
+     "pct": 78.09
+    }
+   ]
+  },
+  "DTR": {
+   "label": "Distribution transformers",
+   "unit": "nos.",
+   "path": "/all-state-progress-loss",
+   "done": "Installed",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 443,
+     "awarded": 443,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": 50866,
+     "awarded": 57569,
+     "done": 21612,
+     "pct": 42.49
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 1906,
+     "awarded": 1909,
+     "done": 600,
+     "pct": 31.48
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": 9301,
+     "awarded": 8887,
+     "done": 5723,
+     "pct": 61.53
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 52389,
+     "awarded": 52325,
+     "done": 54077,
+     "pct": 103.22
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": 19910,
+     "awarded": 19545,
+     "done": 11736,
+     "pct": 58.95
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": 459,
+     "awarded": 459,
+     "done": 433,
+     "pct": 94.34
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": 31555,
+     "awarded": 29040,
+     "done": 14077,
+     "pct": 44.61
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 7849,
+     "awarded": 5728,
+     "done": 3197,
+     "pct": 40.73
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 10163,
+     "awarded": 10159,
+     "done": 951,
+     "pct": 9.36
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 21144,
+     "awarded": 19777,
+     "done": 9060,
+     "pct": 42.85
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": 5395,
+     "awarded": 5395,
+     "done": 4697,
+     "pct": 87.06
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sanctioned": 205,
+     "awarded": 136,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 3048,
+     "awarded": 2995,
+     "done": 985,
+     "pct": 32.34
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sanctioned": 756,
+     "awarded": 756,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 45133,
+     "awarded": 43676,
+     "done": 24611,
+     "pct": 54.53
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 40210,
+     "awarded": 38423,
+     "done": 18674,
+     "pct": 46.44
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": 827,
+     "awarded": 820,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": 4534,
+     "awarded": 2595,
+     "done": 993,
+     "pct": 21.9
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": 325,
+     "awarded": 0,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": 1176,
+     "awarded": 1176,
+     "done": 356,
+     "pct": 30.31
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": 158,
+     "awarded": 158,
+     "done": 58,
+     "pct": 36.71
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 18190,
+     "awarded": 17678,
+     "done": 3557,
+     "pct": 19.56
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 114614,
+     "awarded": 93799,
+     "done": 33863,
+     "pct": 29.55
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 58,
+     "awarded": 58,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": 120331,
+     "awarded": 120331,
+     "done": 8349,
+     "pct": 6.94
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": 1067,
+     "awarded": 989,
+     "done": 936,
+     "pct": 87.72
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 27840,
+     "awarded": 19393,
+     "done": 10220,
+     "pct": 36.71
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 422,
+     "awarded": 404,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 1437,
+     "awarded": 917,
+     "done": 477,
+     "pct": 33.19
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 591714.96,
+    "awarded": 555541.85,
+    "done": 229246.38,
+    "pct": 38.74
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 25570,
+     "awarded": 25562,
+     "done": 26259,
+     "pct": 102.69
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 26819,
+     "awarded": 26763,
+     "done": 27818,
+     "pct": 103.72
+    }
+   ]
+  },
+  "SUB": {
+   "label": "Substations",
+   "unit": "nos.",
+   "path": "/all-state-progress-loss",
+   "done": "Installed",
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": 2,
+     "awarded": 2,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": 5,
+     "awarded": 5,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": 167,
+     "awarded": 167,
+     "done": 24,
+     "pct": 14.37
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": 96,
+     "awarded": 26,
+     "done": 26,
+     "pct": 27.08
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": 157,
+     "awarded": 137,
+     "done": 70,
+     "pct": 44.59
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": 48,
+     "awarded": 48,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": 3,
+     "awarded": 3,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": 2,
+     "awarded": 1,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sanctioned": 14,
+     "awarded": 14,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": 383,
+     "awarded": 383,
+     "done": 362,
+     "pct": 94.52
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": 597,
+     "awarded": 596,
+     "done": 322,
+     "pct": 53.94
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": 180,
+     "awarded": 176,
+     "done": 122,
+     "pct": 67.78
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": 238,
+     "awarded": 240,
+     "done": 205,
+     "pct": 86.13
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": 4,
+     "awarded": 4,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": 2002,
+     "awarded": 2002,
+     "done": 47,
+     "pct": 2.35
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": 6,
+     "awarded": 6,
+     "done": 0,
+     "pct": 0
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": 82,
+     "awarded": 84,
+     "done": 84,
+     "pct": 102.44
+    }
+   ],
+   "india": {
+    "name": "Total",
+    "id": 999999999,
+    "sanctioned": 3986,
+    "awarded": 3894,
+    "done": 1262,
+    "pct": 31.66
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": 91,
+     "awarded": 91,
+     "done": 8,
+     "pct": 8.79
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": 76,
+     "awarded": 76,
+     "done": 16,
+     "pct": 21.05
+    }
+   ]
+  }
+ },
+ "physical": {
+  "sm": {
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 64.45
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 35.16
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 92.49
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 91.02
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 74.28
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 5.72
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 36.79
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 40.72
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 84.15
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 63.26
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 1.48
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 31.92
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 61.79
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 46.96
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 29.76
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 19.1
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 52.34
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0.49
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 37.27
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 77.04
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0.03
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 73.35
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 38.28
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 45.58
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 3.96
+    }
+   ],
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 88.18
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 93.36
+    }
+   ]
+  },
+  "ls": {
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 0
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 50.51
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 40.98
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 66.28
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 58.37
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 61.72
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 3.37
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 89.68
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 53.82
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 22.63
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 9.32
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 53.61
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 66.35
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 7.45
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 38.83
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 26.03
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 60.27
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 47.48
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 26.71
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 30.71
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 59.72
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 44.92
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 48.93
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 29.39
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 25.38
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 24.43
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 20.83
+    },
+    {
+     "name": "Telangana",
+     "id": 31,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 5.64
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 60.16
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 49.8
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 36.54
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 68.38
+    }
+   ],
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 57.66
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sanctioned": null,
+     "awarded": null,
+     "done": null,
+     "pct": 58.97
+    }
+   ]
+  }
+ },
+ "funds": {
+  "sanctioned_cost": {
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sm": 53.26,
+     "sm_pma": 0.3,
+     "lr": 247.12,
+     "lr_pma": 6.83,
+     "total": 307.51
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sm": 3939.28,
+     "sm_pma": 15.42,
+     "lr": 10549.69,
+     "lr_pma": 153.63,
+     "total": 14658.02
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sm": 182.53,
+     "sm_pma": 1.03,
+     "lr": 1026.63,
+     "lr_pma": 15.4,
+     "total": 1225.59
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sm": 4029.08,
+     "sm_pma": 20.46,
+     "lr": 3344.42,
+     "lr_pma": 50.17,
+     "total": 7444.13
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sm": 2013.66,
+     "sm_pma": 7.55,
+     "lr": 10403.39,
+     "lr_pma": 156.05,
+     "total": 12580.65
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sm": 4089.97,
+     "sm_pma": 15.34,
+     "lr": 3961.05,
+     "lr_pma": 59.42,
+     "total": 8125.79
+    },
+    {
+     "name": "Daman and Diu",
+     "id": 37,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 0,
+     "lr_pma": 0,
+     "total": 0
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sm": 13.33,
+     "sm_pma": 0.05,
+     "lr": 318.85,
+     "lr_pma": 4.78,
+     "total": 337.02
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sm": 467.42,
+     "sm_pma": 1.75,
+     "lr": 243.43,
+     "lr_pma": 3.65,
+     "total": 716.25
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sm": 10583.38,
+     "sm_pma": 39.69,
+     "lr": 5999.11,
+     "lr_pma": 90,
+     "total": 16712.18
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sm": 2025.75,
+     "sm_pma": 18.18,
+     "lr": 6693.15,
+     "lr_pma": 124.14,
+     "total": 8861.22
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sm": 1778.49,
+     "sm_pma": 10,
+     "lr": 2292.92,
+     "lr_pma": 34.38,
+     "total": 4115.79
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sm": 1057.67,
+     "sm_pma": 5.95,
+     "lr": 4959.58,
+     "lr_pma": 74.4,
+     "total": 6097.59
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sm": 854.81,
+     "sm_pma": 3.21,
+     "lr": 3294.46,
+     "lr_pma": 48.21,
+     "total": 4200.69
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sm": 0,
+     "sm_pma": 0.13,
+     "lr": 44.12,
+     "lr_pma": 0.66,
+     "total": 44.91
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sm": 8200.44,
+     "sm_pma": 30.76,
+     "lr": 3060.66,
+     "lr_pma": 45.82,
+     "total": 11337.68
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 862.84,
+     "lr_pma": 12.95,
+     "total": 875.79
+    },
+    {
+     "name": "Lakshadweep",
+     "id": 18,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 0,
+     "lr_pma": 0,
+     "total": 0
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sm": 8877.45,
+     "sm_pma": 33.18,
+     "lr": 9291.95,
+     "lr_pma": 136.56,
+     "total": 18339.14
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sm": 15206.63,
+     "sm_pma": 91.47,
+     "lr": 17127.71,
+     "lr_pma": 41.55,
+     "total": 32467.36
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sm": 120.48,
+     "sm_pma": 0.68,
+     "lr": 617.33,
+     "lr_pma": 9.26,
+     "total": 747.74
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sm": 307.82,
+     "sm_pma": 1.73,
+     "lr": 1213.99,
+     "lr_pma": 18.22,
+     "total": 1541.76
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sm": 180.59,
+     "sm_pma": 1.02,
+     "lr": 317.01,
+     "lr_pma": 4.76,
+     "total": 503.38
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sm": 206.41,
+     "sm_pma": 1.16,
+     "lr": 459.23,
+     "lr_pma": 6.89,
+     "total": 673.68
+    },
+    {
+     "name": "Odisha",
+     "id": 25,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 0,
+     "lr_pma": 0,
+     "total": 0
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sm": 250.16,
+     "sm_pma": 0.94,
+     "lr": 83.14,
+     "lr_pma": 1.24,
+     "total": 335.48
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sm": 5746.95,
+     "sm_pma": 21.55,
+     "lr": 3816.16,
+     "lr_pma": 57.24,
+     "total": 9641.9
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sm": 9678.51,
+     "sm_pma": 36.3,
+     "lr": 18423.19,
+     "lr_pma": 268.86,
+     "total": 28406.85
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sm": 96.89,
+     "sm_pma": 0.55,
+     "lr": 414.26,
+     "lr_pma": 6.21,
+     "total": 517.91
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sm": 19163.5,
+     "sm_pma": 71.86,
+     "lr": 9426.91,
+     "lr_pma": 141.4,
+     "total": 28803.67
+    },
+    {
+     "name": "Telangana",
+     "id": 31,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 118.64,
+     "lr_pma": 0,
+     "total": 118.64
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sm": 316.77,
+     "sm_pma": 1.78,
+     "lr": 589.44,
+     "lr_pma": 8.71,
+     "total": 916.7
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sm": 1099.84,
+     "sm_pma": 6.19,
+     "lr": 2276.61,
+     "lr_pma": 35.02,
+     "total": 3417.66
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sm": 19721.29,
+     "sm_pma": 38.3,
+     "lr": 21326.13,
+     "lr_pma": 319.47,
+     "total": 41405.19
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sm": 12623.12,
+     "sm_pma": 47.34,
+     "lr": 7115.86,
+     "lr_pma": 106.74,
+     "total": 19893.05
+    }
+   ],
+   "india": {
+    "name": "Total..",
+    "id": 999999999,
+    "sm": 132885.47,
+    "sm_pma": 523.87,
+    "lr": 149918.96,
+    "lr_pma": 2042.62,
+    "total": 285370.92
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sm": 964.46,
+     "sm_pma": 3.62,
+     "lr": 4755.41,
+     "lr_pma": 71.33,
+     "total": 5794.81
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sm": 1049.21,
+     "sm_pma": 3.93,
+     "lr": 5647.99,
+     "lr_pma": 84.72,
+     "total": 6785.84
+    }
+   ]
+  },
+  "gbs_sanctioned": {
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sm": 11.98,
+     "sm_pma": 0.27,
+     "lr": 222.4,
+     "lr_pma": 6.14,
+     "total": 240.79
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sm": 616.86,
+     "sm_pma": 9.25,
+     "lr": 6240.69,
+     "lr_pma": 92.17,
+     "total": 6958.97
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sm": 41.05,
+     "sm_pma": 0.92,
+     "lr": 924.05,
+     "lr_pma": 13.86,
+     "total": 979.88
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sm": 902.02,
+     "sm_pma": 18.41,
+     "lr": 3009.98,
+     "lr_pma": 45.15,
+     "total": 3975.56
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sm": 302.06,
+     "sm_pma": 4.53,
+     "lr": 6242.04,
+     "lr_pma": 93.63,
+     "total": 6642.26
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sm": 613.5,
+     "sm_pma": 9.2,
+     "lr": 2345.1,
+     "lr_pma": 32.24,
+     "total": 3000.04
+    },
+    {
+     "name": "Daman and Diu",
+     "id": 37,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 0,
+     "lr_pma": 0,
+     "total": 0
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sm": 2,
+     "sm_pma": 0.03,
+     "lr": 191.3,
+     "lr_pma": 2.87,
+     "total": 196.2
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sm": 70.11,
+     "sm_pma": 1.05,
+     "lr": 146.06,
+     "lr_pma": 2.19,
+     "total": 219.41
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sm": 1587.52,
+     "sm_pma": 23.81,
+     "lr": 3599.47,
+     "lr_pma": 53.99,
+     "total": 5264.79
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sm": 303.86,
+     "sm_pma": 10.91,
+     "lr": 4015.88,
+     "lr_pma": 74.53,
+     "total": 4405.18
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sm": 400.15,
+     "sm_pma": 9,
+     "lr": 2063.6,
+     "lr_pma": 30.94,
+     "total": 2503.69
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sm": 237.98,
+     "sm_pma": 5.35,
+     "lr": 4463.66,
+     "lr_pma": 66.96,
+     "total": 4773.95
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sm": 128.21,
+     "sm_pma": 1.92,
+     "lr": 1928.43,
+     "lr_pma": 28.92,
+     "total": 2087.48
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sm": 0,
+     "sm_pma": 5.24,
+     "lr": 26.45,
+     "lr_pma": 5.55,
+     "total": 37.24
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sm": 1230.07,
+     "sm_pma": 18.45,
+     "lr": 1833,
+     "lr_pma": 27.49,
+     "total": 3109.01
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 776.55,
+     "lr_pma": 11.65,
+     "total": 788.2
+    },
+    {
+     "name": "Lakshadweep",
+     "id": 18,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 0,
+     "lr_pma": 0,
+     "total": 0
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sm": 1326.88,
+     "sm_pma": 19.91,
+     "lr": 5575.15,
+     "lr_pma": 81.95,
+     "total": 7003.89
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sm": 2281.01,
+     "sm_pma": 90.48,
+     "lr": 10276.49,
+     "lr_pma": 24.94,
+     "total": 12672.92
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sm": 27.1,
+     "sm_pma": 0.61,
+     "lr": 555.58,
+     "lr_pma": 8.33,
+     "total": 591.62
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sm": 69.25,
+     "sm_pma": 1.56,
+     "lr": 1092.57,
+     "lr_pma": 16.38,
+     "total": 1179.76
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sm": 40.63,
+     "sm_pma": 0.91,
+     "lr": 285.3,
+     "lr_pma": 4.28,
+     "total": 331.12
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sm": 46.43,
+     "sm_pma": 1.04,
+     "lr": 413.3,
+     "lr_pma": 6.2,
+     "total": 466.97
+    },
+    {
+     "name": "Odisha",
+     "id": 25,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 0,
+     "lr_pma": 0,
+     "total": 0
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sm": 37.52,
+     "sm_pma": 0.56,
+     "lr": 49.88,
+     "lr_pma": 0.74,
+     "total": 88.7
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sm": 862.04,
+     "sm_pma": 12.93,
+     "lr": 2289.68,
+     "lr_pma": 34.34,
+     "total": 3198.99
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sm": 1451.8,
+     "sm_pma": 21.77,
+     "lr": 11053.55,
+     "lr_pma": 161.31,
+     "total": 12688.43
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sm": 21.8,
+     "sm_pma": 0.49,
+     "lr": 372.84,
+     "lr_pma": 5.59,
+     "total": 400.72
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sm": 2874.54,
+     "sm_pma": 43.12,
+     "lr": 5656.15,
+     "lr_pma": 84.85,
+     "total": 8658.66
+    },
+    {
+     "name": "Telangana",
+     "id": 31,
+     "sm": 0,
+     "sm_pma": 0,
+     "lr": 71.18,
+     "lr_pma": 0,
+     "total": 71.18
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sm": 71.27,
+     "sm_pma": 1.6,
+     "lr": 530.49,
+     "lr_pma": 7.83,
+     "total": 611.19
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sm": 247.44,
+     "sm_pma": 5.57,
+     "lr": 2102.45,
+     "lr_pma": 31.52,
+     "total": 2386.98
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sm": 2904.85,
+     "sm_pma": 14.65,
+     "lr": 12840.7,
+     "lr_pma": 191.68,
+     "total": 15951.88
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sm": 1893.47,
+     "sm_pma": 28.4,
+     "lr": 4269.51,
+     "lr_pma": 64.04,
+     "total": 6255.42
+    }
+   ],
+   "india": {
+    "name": "Total..",
+    "id": 999999999,
+    "sm": 20603.4,
+    "sm_pma": 361.94,
+    "lr": 95463.48,
+    "lr_pma": 1312.26,
+    "total": 117741.08
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": 52,
+     "sm": 144.67,
+     "sm_pma": 2.17,
+     "lr": 2853.29,
+     "lr_pma": 42.8,
+     "total": 3042.93
+    },
+    {
+     "name": "SBPDCL",
+     "id": 53,
+     "sm": 157.39,
+     "sm_pma": 2.36,
+     "lr": 3388.75,
+     "lr_pma": 50.83,
+     "total": 3599.33
+    }
+   ]
+  },
+  "gbs_released": {
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "id": 1,
+     "sm": 0,
+     "lr": 40.96,
+     "total": 40.96
+    },
+    {
+     "name": "Andhra Pradesh",
+     "id": 2,
+     "sm": 139.44,
+     "lr": 3231,
+     "total": 3370.44
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "id": 3,
+     "sm": 6.24,
+     "lr": 298.47,
+     "total": 304.71
+    },
+    {
+     "name": "Assam",
+     "id": 4,
+     "sm": 759.97,
+     "lr": 1954.74,
+     "total": 2714.72
+    },
+    {
+     "name": "Bihar",
+     "id": 5,
+     "sm": 268.97,
+     "lr": 3709.52,
+     "total": 3978.49
+    },
+    {
+     "name": "Chhattisgarh",
+     "id": 6,
+     "sm": 224.76,
+     "lr": 1060.74,
+     "total": 1285.5
+    },
+    {
+     "name": "Delhi",
+     "id": 9,
+     "sm": 0,
+     "lr": 0,
+     "total": 0
+    },
+    {
+     "name": "Goa",
+     "id": 10,
+     "sm": 0,
+     "lr": 40.48,
+     "total": 40.48
+    },
+    {
+     "name": "Gujarat",
+     "id": 11,
+     "sm": 194.48,
+     "lr": 1844.14,
+     "total": 2038.62
+    },
+    {
+     "name": "Haryana",
+     "id": 12,
+     "sm": 0,
+     "lr": 854.77,
+     "total": 854.77
+    },
+    {
+     "name": "Himachal Pradesh",
+     "id": 13,
+     "sm": 50,
+     "lr": 470.06,
+     "total": 520.06
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "id": 14,
+     "sm": 120.88,
+     "lr": 2248.27,
+     "total": 2369.15
+    },
+    {
+     "name": "Jharkhand",
+     "id": 8,
+     "sm": 35.08,
+     "lr": 563.32,
+     "total": 598.4
+    },
+    {
+     "name": "Karnataka",
+     "id": 15,
+     "sm": 0,
+     "lr": 10.14,
+     "total": 10.14
+    },
+    {
+     "name": "Kerala",
+     "id": 16,
+     "sm": 0.01,
+     "lr": 517.77,
+     "total": 517.78
+    },
+    {
+     "name": "Ladakh",
+     "id": 17,
+     "sm": 0,
+     "lr": 218.83,
+     "total": 218.83
+    },
+    {
+     "name": "Madhya Pradesh",
+     "id": 19,
+     "sm": 197.8,
+     "lr": 3297,
+     "total": 3494.8
+    },
+    {
+     "name": "Maharashtra",
+     "id": 20,
+     "sm": 487.32,
+     "lr": 4690.5,
+     "total": 5177.82
+    },
+    {
+     "name": "Manipur",
+     "id": 21,
+     "sm": 8.54,
+     "lr": 212.27,
+     "total": 220.81
+    },
+    {
+     "name": "Meghalaya",
+     "id": 22,
+     "sm": 0,
+     "lr": 403.97,
+     "total": 403.97
+    },
+    {
+     "name": "Mizoram",
+     "id": 23,
+     "sm": 5.49,
+     "lr": 97.82,
+     "total": 103.31
+    },
+    {
+     "name": "Nagaland",
+     "id": 24,
+     "sm": 4.68,
+     "lr": 206.15,
+     "total": 210.83
+    },
+    {
+     "name": "Puducherry",
+     "id": 26,
+     "sm": 3.31,
+     "lr": 14.09,
+     "total": 17.4
+    },
+    {
+     "name": "Punjab",
+     "id": 27,
+     "sm": 0.52,
+     "lr": 949.57,
+     "total": 950.09
+    },
+    {
+     "name": "Rajasthan",
+     "id": 28,
+     "sm": 170.97,
+     "lr": 4180.62,
+     "total": 4351.59
+    },
+    {
+     "name": "Sikkim",
+     "id": 29,
+     "sm": 9.33,
+     "lr": 196.48,
+     "total": 205.81
+    },
+    {
+     "name": "Tamil Nadu",
+     "id": 30,
+     "sm": 0,
+     "lr": 1497.71,
+     "total": 1497.71
+    },
+    {
+     "name": "Telangana",
+     "id": 31,
+     "sm": 0,
+     "lr": 35.65,
+     "total": 35.65
+    },
+    {
+     "name": "Tripura",
+     "id": 33,
+     "sm": 28.73,
+     "lr": 294,
+     "total": 322.73
+    },
+    {
+     "name": "Uttar Pradesh",
+     "id": 35,
+     "sm": 684.67,
+     "lr": 7097.09,
+     "total": 7781.76
+    },
+    {
+     "name": "Uttarakhand",
+     "id": 34,
+     "sm": 22.64,
+     "lr": 791.11,
+     "total": 813.75
+    },
+    {
+     "name": "West Bengal",
+     "id": 36,
+     "sm": 81.87,
+     "lr": 1811.86,
+     "total": 1893.73
+    }
+   ],
+   "india": {
+    "name": "Total..",
+    "id": null,
+    "sm": 3505.7,
+    "lr": 42839.12,
+    "total": 46344.82
+   },
+   "bihar_discoms": [
+    {
+     "name": "NBPDCL",
+     "id": null,
+     "sm": 123.4,
+     "lr": 1665.1,
+     "total": 1788.5
+    },
+    {
+     "name": "SBPDCL",
+     "id": null,
+     "sm": 145.57,
+     "lr": 2044.42,
+     "total": 2189.99
+    }
+   ]
+  }
+ },
+ "annual": {
+  "atc": {
+   "years": [
+    "FY 2020-21",
+    "FY 2021-22",
+    "FY 2022-23",
+    "FY 2023-24",
+    "FY 2024-25"
+   ],
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "values": [
+      51.94000112963498,
+      19.8,
+      19.769146778656438,
+      20.75829082982371,
+      24.14
+     ]
+    },
+    {
+     "name": "Andhra Pradesh",
+     "values": [
+      28.358481536290043,
+      10.547378071123397,
+      7.736339332814532,
+      12.050131795924973,
+      7.87
+     ]
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "values": [
+      52.21216004685469,
+      48.8940106522132,
+      51.69607481472845,
+      44.55980313007508,
+      46.2
+     ]
+    },
+    {
+     "name": "Assam",
+     "values": [
+      18.73055453736895,
+      16.953477229963948,
+      16.220374553097198,
+      14.028474808057016,
+      15.44
+     ]
+    },
+    {
+     "name": "Bihar",
+     "values": [
+      33.26734105676211,
+      32.418156923962364,
+      23.451111376963514,
+      20.317278742842753,
+      15.51
+     ]
+    },
+    {
+     "name": "Chandigarh",
+     "values": [
+      13.8134319731823,
+      13.312591184153362,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Chhattisgarh",
+     "values": [
+      19.646102498087817,
+      18.12936053009755,
+      16.142369007702605,
+      15.87819807977897,
+      14.25
+     ]
+    },
+    {
+     "name": "DNH & DD",
+     "values": [
+      4.9734310948407074,
+      3.7660595262430627,
+      3.1733272565289483,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Delhi",
+     "values": [
+      8.94194748668404,
+      8.115600158913601,
+      10.66685093818199,
+      11.820924931029776,
+      8.36
+     ]
+    },
+    {
+     "name": "Goa",
+     "values": [
+      13.091682375106641,
+      13.279740749174579,
+      17.091167520256683,
+      8.29976923053923,
+      10.39
+     ]
+    },
+    {
+     "name": "Gujarat",
+     "values": [
+      11.560942265085192,
+      10.134183455750955,
+      10.66899062405964,
+      9.118338709518435,
+      8.25
+     ]
+    },
+    {
+     "name": "Haryana",
+     "values": [
+      17.04741059900773,
+      13.72013782586852,
+      12.005903062930209,
+      11.303195794824767,
+      4.26
+     ]
+    },
+    {
+     "name": "Himachal Pradesh",
+     "values": [
+      14.023916528414547,
+      12.901514044762665,
+      10.565454421967738,
+      10.982079338187276,
+      19.44
+     ]
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "values": [
+      59.276763442019,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Jharkhand",
+     "values": [
+      43.085521620498696,
+      33.79416248873806,
+      27.463209793897484,
+      31.169725824144802,
+      28.19
+     ]
+    },
+    {
+     "name": "Karnataka",
+     "values": [
+      16.264475623056548,
+      11.451434423738167,
+      14.193853582914445,
+      12.007839113601124,
+      11.92
+     ]
+    },
+    {
+     "name": "Kerala",
+     "values": [
+      7.800790305165353,
+      8.08,
+      6.866750871958617,
+      8.816400364353893,
+      6.61
+     ]
+    },
+    {
+     "name": "Ladakh",
+     "values": [
+      null,
+      48.290643715869074,
+      38.61077243061033,
+      42.45537333189298,
+      26.82
+     ]
+    },
+    {
+     "name": "Lakshadweep",
+     "values": [
+      11.632551173240143,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Madhya Pradesh",
+     "values": [
+      41.47432443292308,
+      22.553116922063147,
+      20.45161807844959,
+      23.28118424199016,
+      22.76
+     ]
+    },
+    {
+     "name": "Maharashtra",
+     "values": [
+      24.81926554714843,
+      14.377009537812809,
+      16.971303245001277,
+      23.854545418606314,
+      17.69
+     ]
+    },
+    {
+     "name": "Manipur",
+     "values": [
+      20.323790365109424,
+      23.616352611359144,
+      13.822297642128387,
+      13.409415328314966,
+      12.9
+     ]
+    },
+    {
+     "name": "Meghalaya",
+     "values": [
+      28.787271187175474,
+      27.299512612472288,
+      17.751488668513463,
+      17.51388630617955,
+      17.52
+     ]
+    },
+    {
+     "name": "Mizoram",
+     "values": [
+      29.04666220138424,
+      36.22620703262684,
+      26.52650477569763,
+      34.84550983431138,
+      32.31
+     ]
+    },
+    {
+     "name": "Nagaland",
+     "values": [
+      45.14530814396766,
+      41.28448832702777,
+      47.28412963838652,
+      47.108554904915124,
+      48.86
+     ]
+    },
+    {
+     "name": "Odisha",
+     "values": [
+      27.405600675385873,
+      31.263446922160863,
+      21.671295656576593,
+      19.527089401407444,
+      null
+     ]
+    },
+    {
+     "name": "Puducherry",
+     "values": [
+      20.056980248898643,
+      11.08302683841033,
+      21.830551047345566,
+      17.746031011199573,
+      14.72
+     ]
+    },
+    {
+     "name": "Punjab",
+     "values": [
+      18.54006916445592,
+      11.66824362108431,
+      11.263152517051754,
+      10.964031454761463,
+      19.21
+     ]
+    },
+    {
+     "name": "Rajasthan",
+     "values": [
+      26.178162856964814,
+      17.485878368331182,
+      15.435296879285433,
+      22.07666732951471,
+      15.18
+     ]
+    },
+    {
+     "name": "Sikkim",
+     "values": [
+      25.91966794615146,
+      30.76966802216892,
+      36.10314065365547,
+      27.836778651987935,
+      21.84
+     ]
+    },
+    {
+     "name": "Tamil Nadu",
+     "values": [
+      11.930408801658174,
+      13.460775571698056,
+      10.915364078351722,
+      11.392813709494062,
+      10.96
+     ]
+    },
+    {
+     "name": "Telangana",
+     "values": [
+      13.332083543469508,
+      10.649335148616302,
+      18.649671458615703,
+      19.167635274947354,
+      19.84
+     ]
+    },
+    {
+     "name": "Tripura",
+     "values": [
+      37.36318870678469,
+      33.24878692465062,
+      24.912649514065762,
+      24.219267472953398,
+      29.61
+     ]
+    },
+    {
+     "name": "Uttar Pradesh",
+     "values": [
+      27.09545476786074,
+      30.048468493822448,
+      22.18089236589475,
+      16.392392323257692,
+      19.54
+     ]
+    },
+    {
+     "name": "Uttarakhand",
+     "values": [
+      15.391420912777656,
+      14.147073588228514,
+      15.342865163168899,
+      14.649401700488404,
+      15.08
+     ]
+    },
+    {
+     "name": "West Bengal",
+     "values": [
+      19.53863115091391,
+      14.692073776067447,
+      17.319905058045634,
+      17.106174087864186,
+      17.17
+     ]
+    }
+   ],
+   "discoms": [
+    {
+     "name": "Andaman & Nicobar PD",
+     "state": "Andaman and Nicobar Islands",
+     "values": [
+      51.94000112963498,
+      19.8,
+      19.769146778656438,
+      20.75829082982371,
+      24.14
+     ]
+    },
+    {
+     "name": "APCPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      22.725680877656245,
+      10.0266835369646,
+      10.332490640663162,
+      11.370933003305925,
+      7.95
+     ]
+    },
+    {
+     "name": "APEPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      20.85286136793799,
+      7.774068949719433,
+      5.940395266774645,
+      10.411719455642594,
+      7.7
+     ]
+    },
+    {
+     "name": "APSPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      38.71752722030096,
+      13.581914957706495,
+      8.081843514292487,
+      13.9473318728725,
+      7.99
+     ]
+    },
+    {
+     "name": "Arunachal PD",
+     "state": "Arunachal Pradesh",
+     "values": [
+      52.21216004685469,
+      48.8940106522132,
+      51.69607481472845,
+      44.55980313007508,
+      46.2
+     ]
+    },
+    {
+     "name": "APDCL",
+     "state": "Assam",
+     "values": [
+      18.73055453736895,
+      16.953477229963948,
+      16.220374553097198,
+      14.028474808057016,
+      15.44
+     ]
+    },
+    {
+     "name": "NBPDCL",
+     "state": "Bihar",
+     "values": [
+      27.775236010601784,
+      28.900999985076833,
+      21.42146795643334,
+      17.05513064651258,
+      14.49
+     ]
+    },
+    {
+     "name": "SBPDCL",
+     "state": "Bihar",
+     "values": [
+      37.57917799060535,
+      35.2734993571187,
+      25.04502972109602,
+      22.89180544268311,
+      16.35
+     ]
+    },
+    {
+     "name": "Chandigarh PD",
+     "state": "Chandigarh",
+     "values": [
+      13.8134319731823,
+      13.312591184153362,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "CSPDCL",
+     "state": "Chhattisgarh",
+     "values": [
+      19.646102498087817,
+      18.12936053009755,
+      16.142369007702605,
+      15.87819807977897,
+      14.25
+     ]
+    },
+    {
+     "name": "Daman & Diu PD",
+     "state": "DNH & DD",
+     "values": [
+      4.477270073386093,
+      4.454092669145432,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHPDCL",
+     "state": "DNH & DD",
+     "values": [
+      5.174431822096475,
+      3.5049628513507214,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHDDPDCL",
+     "state": "DNH & DD",
+     "values": [
+      null,
+      null,
+      3.1733272565289483,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "NDMC",
+     "state": "Delhi",
+     "values": [
+      null,
+      8.33,
+      10.66685093818199,
+      11.820924931029776,
+      8.36
+     ]
+    },
+    {
+     "name": "BRPL",
+     "state": "Delhi",
+     "values": [
+      9.637676527208066,
+      8.949198787173648,
+      6.918970212697457,
+      6.584536569878892,
+      null
+     ]
+    },
+    {
+     "name": "BYPL",
+     "state": "Delhi",
+     "values": [
+      9.41034965796793,
+      7.986052942671564,
+      7.373919701709742,
+      7.843497974227541,
+      null
+     ]
+    },
+    {
+     "name": "TPDDL",
+     "state": "Delhi",
+     "values": [
+      7.673692219319893,
+      7.1093008118534575,
+      6.3539000370633385,
+      5.9105400795369425,
+      null
+     ]
+    },
+    {
+     "name": "Goa PD",
+     "state": "Goa",
+     "values": [
+      13.091682375106641,
+      13.279740749174579,
+      17.091167520256683,
+      8.29976923053923,
+      10.39
+     ]
+    },
+    {
+     "name": "DGVCL",
+     "state": "Gujarat",
+     "values": [
+      7.399988191732536,
+      4.7541113650156,
+      1.6534236823542507,
+      1.305727166471865,
+      4.26
+     ]
+    },
+    {
+     "name": "MGVCL",
+     "state": "Gujarat",
+     "values": [
+      9.959964053784166,
+      8.733850468026167,
+      9.18629933796349,
+      6.899919241855114,
+      8.37
+     ]
+    },
+    {
+     "name": "PGVCL",
+     "state": "Gujarat",
+     "values": [
+      17.86473166434657,
+      16.70189613352775,
+      18.410638101116426,
+      15.835591262153992,
+      12.73
+     ]
+    },
+    {
+     "name": "Torrent Power Ahmedabad",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      4.035463826027775,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Torrent Power Surat",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      3.68777288932001,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "UGVCL",
+     "state": "Gujarat",
+     "values": [
+      6.7561778764661105,
+      6.7127231903294415,
+      9.346460540927938,
+      8.318940738137147,
+      8.25
+     ]
+    },
+    {
+     "name": "DHBVNL",
+     "state": "Haryana",
+     "values": [
+      16.932935475491195,
+      13.55118572907494,
+      13.165960594927478,
+      12.7319541466709,
+      8.37
+     ]
+    },
+    {
+     "name": "UHBVNL",
+     "state": "Haryana",
+     "values": [
+      17.20527960665417,
+      13.955731177491845,
+      10.324271366535454,
+      9.153794982660544,
+      12.73
+     ]
+    },
+    {
+     "name": "HPSEBL",
+     "state": "Himachal Pradesh",
+     "values": [
+      14.023916528414547,
+      12.901514044762665,
+      10.565454421967738,
+      10.982079338187276,
+      19.44
+     ]
+    },
+    {
+     "name": "JPDCL",
+     "state": "Jammu and Kashmir",
+     "values": [
+      null,
+      49.09,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "KPDCL",
+     "state": "Jammu and Kashmir",
+     "values": [
+      null,
+      64.57,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "JKPDD",
+     "state": "Jammu and Kashmir",
+     "values": [
+      59.276763442019,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "JBVNL",
+     "state": "Jharkhand",
+     "values": [
+      43.085521620498696,
+      33.79416248873806,
+      27.463209793897484,
+      31.169725824144802,
+      28.19
+     ]
+    },
+    {
+     "name": "BESCOM",
+     "state": "Karnataka",
+     "values": [
+      15.92611130142517,
+      11.231425690620505,
+      12.780007433482192,
+      10.148673948380557,
+      12.5
+     ]
+    },
+    {
+     "name": "CHESCOM",
+     "state": "Karnataka",
+     "values": [
+      20.266618297200196,
+      11.319729642058984,
+      10.217987767197755,
+      9.382678902763152,
+      8.76
+     ]
+    },
+    {
+     "name": "GESCOM",
+     "state": "Karnataka",
+     "values": [
+      20.02147097517058,
+      10.541624348794636,
+      19.257995108353263,
+      9.614286617573642,
+      13.48
+     ]
+    },
+    {
+     "name": "HESCOM",
+     "state": "Karnataka",
+     "values": [
+      14.15718274343887,
+      13.496122395991042,
+      18.119713106668023,
+      17.920499050285148,
+      12.14
+     ]
+    },
+    {
+     "name": "MESCOM",
+     "state": "Karnataka",
+     "values": [
+      12.276061362829743,
+      9.021107162282744,
+      9.195861216305639,
+      14.170281784872978,
+      10.02
+     ]
+    },
+    {
+     "name": "KSEBL",
+     "state": "Kerala",
+     "values": [
+      7.800790305165353,
+      7.692890853777107,
+      6.865478394947898,
+      8.826174274334933,
+      6.61
+     ]
+    },
+    {
+     "name": "TCED",
+     "state": "Kerala",
+     "values": [
+      null,
+      16.46,
+      7.082797018851396,
+      7.189224456140737,
+      6.94
+     ]
+    },
+    {
+     "name": "Ladakh PD",
+     "state": "Ladakh",
+     "values": [
+      null,
+      48.290643715869074,
+      38.61077243061033,
+      42.45537333189298,
+      26.82
+     ]
+    },
+    {
+     "name": "Lakshadweep ED",
+     "state": "Lakshadweep",
+     "values": [
+      11.632551173240143,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "MPMaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      49.04394940355563,
+      26.395110897803033,
+      22.886069126535578,
+      29.087959379697352,
+      29.6
+     ]
+    },
+    {
+     "name": "MPPaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      30.281662171338105,
+      11.606430732995303,
+      12.599659242100202,
+      12.333798761258363,
+      12.78
+     ]
+    },
+    {
+     "name": "MPPoKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      45.39214801335539,
+      30.98120772350928,
+      27.091092398352703,
+      29.520864263839837,
+      26.66
+     ]
+    },
+    {
+     "name": "AEML",
+     "state": "Maharashtra",
+     "values": [
+      8.89381001661712,
+      6.7478953969500495,
+      6.481037370729652,
+      6.118218552940836,
+      null
+     ]
+    },
+    {
+     "name": "MSEDCL",
+     "state": "Maharashtra",
+     "values": [
+      27.16601266013221,
+      15.464208602924048,
+      17.376616888854226,
+      24.383311733272414,
+      18.09
+     ]
+    },
+    {
+     "name": "BEST",
+     "state": "Maharashtra",
+     "values": [
+      8.181875093450119,
+      8.410451216736908,
+      4.175446572957543,
+      6.684180019645882,
+      5.07
+     ]
+    },
+    {
+     "name": "TPML",
+     "state": "Maharashtra",
+     "values": [
+      0.18016180990323796,
+      2.0738230481867443,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "MSPDCL",
+     "state": "Manipur",
+     "values": [
+      20.323790365109424,
+      23.616352611359144,
+      13.822297642128387,
+      13.409415328314966,
+      12.9
+     ]
+    },
+    {
+     "name": "MePDCL",
+     "state": "Meghalaya",
+     "values": [
+      28.787271187175474,
+      27.299512612472288,
+      17.751488668513463,
+      17.51388630617955,
+      17.52
+     ]
+    },
+    {
+     "name": "Mizoram PD",
+     "state": "Mizoram",
+     "values": [
+      29.04666220138424,
+      36.22620703262684,
+      26.52650477569763,
+      34.84550983431138,
+      32.31
+     ]
+    },
+    {
+     "name": "Nagaland PD",
+     "state": "Nagaland",
+     "values": [
+      45.14530814396766,
+      41.28448832702777,
+      47.28412963838652,
+      47.108554904915124,
+      48.86
+     ]
+    },
+    {
+     "name": "TPNODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      27.125181634801468,
+      17.248864013305713,
+      14.61156953256149,
+      null
+     ]
+    },
+    {
+     "name": "TPSODL",
+     "state": "Odisha",
+     "values": [
+      20.4745965596737,
+      34.26382178470817,
+      30.592592398302838,
+      26.75082402188471,
+      null
+     ]
+    },
+    {
+     "name": "TPWODL",
+     "state": "Odisha",
+     "values": [
+      22.430031891746893,
+      30.202830236442306,
+      20.26311848725021,
+      17.904881322878854,
+      null
+     ]
+    },
+    {
+     "name": "TPCODL",
+     "state": "Odisha",
+     "values": [
+      25.93689173911854,
+      33.54348217795529,
+      22.63988089164781,
+      21.645593000478893,
+      null
+     ]
+    },
+    {
+     "name": "NESCO Utility",
+     "state": "Odisha",
+     "values": [
+      25.58631096556495,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "SOUTHCO Utility",
+     "state": "Odisha",
+     "values": [
+      35.373105010646135,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "WESCO Utility",
+     "state": "Odisha",
+     "values": [
+      30.270315004905058,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "Puducherry PD",
+     "state": "Puducherry",
+     "values": [
+      20.056980248898643,
+      11.08302683841033,
+      21.830551047345566,
+      17.746031011199573,
+      14.72
+     ]
+    },
+    {
+     "name": "PSPCL",
+     "state": "Punjab",
+     "values": [
+      18.54006916445592,
+      11.66824362108431,
+      11.263152517051754,
+      10.964031454761463,
+      19.21
+     ]
+    },
+    {
+     "name": "AVVNL",
+     "state": "Rajasthan",
+     "values": [
+      21.444180982705625,
+      12.73169443164925,
+      10.003731453567415,
+      15.488653394765864,
+      9.22
+     ]
+    },
+    {
+     "name": "JdVVNL",
+     "state": "Rajasthan",
+     "values": [
+      31.001648530987392,
+      21.881081219559153,
+      20.99184748407144,
+      28.723265810920203,
+      21.42
+     ]
+    },
+    {
+     "name": "JVVNL",
+     "state": "Rajasthan",
+     "values": [
+      25.082114682971934,
+      16.811792398408848,
+      14.59326910135842,
+      20.83001503425647,
+      13.75
+     ]
+    },
+    {
+     "name": "Sikkim PD",
+     "state": "Sikkim",
+     "values": [
+      25.91966794615146,
+      30.76966802216892,
+      36.10314065365547,
+      27.836778651987935,
+      21.84
+     ]
+    },
+    {
+     "name": "TANGEDCO",
+     "state": "Tamil Nadu",
+     "values": [
+      11.930408801658174,
+      13.460775571698056,
+      10.915364078351722,
+      11.392813709494062,
+      null
+     ]
+    },
+    {
+     "name": "TSNPDCL",
+     "state": "Telangana",
+     "values": [
+      9.03372073529171,
+      14.111660346202276,
+      22.186828215705546,
+      19.996193758704138,
+      23.22
+     ]
+    },
+    {
+     "name": "TSSPDCL",
+     "state": "Telangana",
+     "values": [
+      15.48288882001674,
+      9.136728603752802,
+      17.201745584507623,
+      18.837746696332058,
+      18.51
+     ]
+    },
+    {
+     "name": "TSECL",
+     "state": "Tripura",
+     "values": [
+      37.36318870678469,
+      33.24878692465062,
+      24.912649514065762,
+      24.219267472953398,
+      29.61
+     ]
+    },
+    {
+     "name": "DVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      32.085991854432315,
+      28.621701473782913,
+      24.043658420839936,
+      19.99906830025109,
+      19.7
+     ]
+    },
+    {
+     "name": "KESCO",
+     "state": "Uttar Pradesh",
+     "values": [
+      12.44791746352334,
+      15.541781494110573,
+      11.33045187811229,
+      9.597370483783063,
+      14.29
+     ]
+    },
+    {
+     "name": "MVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      32.201140989632854,
+      34.877111513865614,
+      23.457505225658483,
+      15.525253763575206,
+      17.7
+     ]
+    },
+    {
+     "name": "NPCL",
+     "state": "Uttar Pradesh",
+     "values": [
+      9.76670401668865,
+      8.49936914423829,
+      8.361376959931642,
+      7.813648244830146,
+      null
+     ]
+    },
+    {
+     "name": "PaVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      17.84644214007101,
+      22.293703598347395,
+      17.056195881072778,
+      14.245143208153964,
+      11.91
+     ]
+    },
+    {
+     "name": "PuVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      32.450919647033764,
+      40.33232275832746,
+      27.266430063655797,
+      17.328116994286727,
+      30.7
+     ]
+    },
+    {
+     "name": "UPCL",
+     "state": "Uttarakhand",
+     "values": [
+      15.391420912777656,
+      14.147073588228514,
+      15.342865163168899,
+      14.649401700488404,
+      15.08
+     ]
+    },
+    {
+     "name": "CESC",
+     "state": "West Bengal",
+     "values": [
+      14.038832226827967,
+      8.102032838154809,
+      8.282860337197608,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "IPCL",
+     "state": "West Bengal",
+     "values": [
+      3.5229257915439502,
+      4.023117152250828,
+      6.559770558489247,
+      4.074868103338111,
+      null
+     ]
+    },
+    {
+     "name": "WBSEDCL",
+     "state": "West Bengal",
+     "values": [
+      21.3437913196438,
+      16.674370349895693,
+      17.319905058045634,
+      17.106174087864186,
+      17.17
+     ]
+    }
+   ],
+   "india": [
+    22.32,
+    16.44,
+    15.10927543589865,
+    16.12,
+    15.04
+   ],
+   "file": "https://rdss.powermin.gov.in:8443/dashboard/ATC%20Loss.xlsx"
+  },
+  "acs_arr": {
+   "years": [
+    "FY 2020-21",
+    "FY 2021-22",
+    "FY 2022-23",
+    "FY 2023-24",
+    "FY 2024-25"
+   ],
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "values": [
+      24.90213911597828,
+      2.83,
+      1.9522467114905169,
+      2.509397846077327,
+      2.51
+     ]
+    },
+    {
+     "name": "Andhra Pradesh",
+     "values": [
+      1.392154972700797,
+      0.5466833483051117,
+      0.3296655639479331,
+      0.9641846652657131,
+      -0.88
+     ]
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "values": [
+      0.1157255343082122,
+      0,
+      0.00001838295637224263,
+      0.000030353442489250426,
+      0
+     ]
+    },
+    {
+     "name": "Assam",
+     "values": [
+      0.4025398844928736,
+      -0.5209137235426571,
+      0.6123711914846259,
+      -0.24006218371398358,
+      -0.21
+     ]
+    },
+    {
+     "name": "Bihar",
+     "values": [
+      1.2145084668659187,
+      1.2939899493506628,
+      0.17884401930636074,
+      0.020597656616708093,
+      -0.24
+     ]
+    },
+    {
+     "name": "Chandigarh",
+     "values": [
+      -0.4732195199287368,
+      0.5202272291052221,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Chhattisgarh",
+     "values": [
+      0.4511602203622411,
+      0.29172518320425844,
+      0.11466069462834394,
+      -0.023093027778285702,
+      -0.45
+     ]
+    },
+    {
+     "name": "DNH & DD",
+     "values": [
+      -0.29204068834749286,
+      -0.1405222235234822,
+      -0.04755952001883745,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Delhi",
+     "values": [
+      -0.628604145019569,
+      -0.77,
+      0.7416478821114989,
+      -1.0445799734612677,
+      null
+     ]
+    },
+    {
+     "name": "Goa",
+     "values": [
+      0.49417516993738175,
+      0.8154277456923777,
+      0.3956183958136137,
+      0.40487361064707805,
+      0.03
+     ]
+    },
+    {
+     "name": "Gujarat",
+     "values": [
+      -0.21699791746168362,
+      -0.006071894209844331,
+      0.038212666746423096,
+      -0.38650575988222524,
+      -0.42
+     ]
+    },
+    {
+     "name": "Haryana",
+     "values": [
+      -0.15285906632819302,
+      -0.20397000122239373,
+      -0.041071001091705917,
+      -0.08572826211757878,
+      0.33
+     ]
+    },
+    {
+     "name": "Himachal Pradesh",
+     "values": [
+      -0.004713770932039729,
+      0.09481667783963932,
+      0.7401909834959008,
+      0.4078747191610237,
+      0.33
+     ]
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "values": [
+      2.1132909643547944,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Jharkhand",
+     "values": [
+      2.106792524702784,
+      1.8077187649331163,
+      2.325349823972659,
+      2.7613127532493227,
+      0.37
+     ]
+    },
+    {
+     "name": "Karnataka",
+     "values": [
+      1.0540960918972244,
+      -0.46326493382445033,
+      0.4797836322884761,
+      0.5451889130670509,
+      0.99
+     ]
+    },
+    {
+     "name": "Kerala",
+     "values": [
+      0.0347245193506156,
+      -0.07,
+      0.33478562973377013,
+      -0.04614556366436773,
+      null
+     ]
+    },
+    {
+     "name": "Ladakh",
+     "values": [
+      0.4,
+      0.8229010024961756,
+      1.8711566556695125,
+      0.4416689499282942,
+      null
+     ]
+    },
+    {
+     "name": "Lakshadweep",
+     "values": [
+      19.440838741887163,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Madhya Pradesh",
+     "values": [
+      1.6521062576414351,
+      0.2937168992761654,
+      -0.4758864962819187,
+      0.5458784094571323,
+      0.13
+     ]
+    },
+    {
+     "name": "Maharashtra",
+     "values": [
+      1.105737699606773,
+      0.08278616383353476,
+      1.45,
+      0.84,
+      0.34
+     ]
+    },
+    {
+     "name": "Manipur",
+     "values": [
+      0.5350271015158468,
+      0.8244944880930634,
+      0.8752040028790216,
+      0.2501737856303139,
+      0.82
+     ]
+    },
+    {
+     "name": "Meghalaya",
+     "values": [
+      1.2444944028277702,
+      0.05664706073505865,
+      0.9259245234956159,
+      0.8978400730931853,
+      null
+     ]
+    },
+    {
+     "name": "Mizoram",
+     "values": [
+      4.434523939444166,
+      4.975288694992158,
+      0.8072146321223439,
+      1.7265453634597856,
+      null
+     ]
+    },
+    {
+     "name": "Nagaland",
+     "values": [
+      5.834886366146167,
+      5.719755342586474,
+      0.13451217763026957,
+      -0.088701112083033,
+      null
+     ]
+    },
+    {
+     "name": "Odisha",
+     "values": [
+      0.3418637262295414,
+      0.25799644004489863,
+      -0.1757326336395133,
+      0.13320749777964203,
+      null
+     ]
+    },
+    {
+     "name": "Puducherry",
+     "values": [
+      0.47901613946678445,
+      -1.0813869097875601,
+      0.885117019396187,
+      0.19732601796779736,
+      null
+     ]
+    },
+    {
+     "name": "Punjab",
+     "values": [
+      0.08321076091567203,
+      -0.17615474900468353,
+      0.17715012238580652,
+      -0.07527842457215161,
+      null
+     ]
+    },
+    {
+     "name": "Rajasthan",
+     "values": [
+      0.7445829805714252,
+      -0.23313313062218288,
+      0.14527054852698473,
+      0.3134973800724312,
+      0.3
+     ]
+    },
+    {
+     "name": "Sikkim",
+     "values": [
+      0.27285668945900987,
+      0.2686393076612994,
+      -0.24208771053737177,
+      -0.10705182810027392,
+      null
+     ]
+    },
+    {
+     "name": "Tamil Nadu",
+     "values": [
+      2.1157402467678406,
+      1.7879294165646673,
+      0.9611332687104968,
+      0.2704444284245131,
+      -0.15
+     ]
+    },
+    {
+     "name": "Telangana",
+     "values": [
+      1.295159330555868,
+      1.439849641182489,
+      1.1117728761286605,
+      1.494776387899158,
+      1.24
+     ]
+    },
+    {
+     "name": "Tripura",
+     "values": [
+      0.2,
+      0.5314362354059314,
+      1.0662049220122753,
+      0.9670468113526738,
+      0.74
+     ]
+    },
+    {
+     "name": "Uttar Pradesh",
+     "values": [
+      1.4991696444902995,
+      1.4168839796991746,
+      1.7644311309160097,
+      0.5621373529030889,
+      0.3
+     ]
+    },
+    {
+     "name": "Uttarakhand",
+     "values": [
+      0.03989736929789078,
+      -0.4888747059830054,
+      0.7393152265088512,
+      0.12739366254843,
+      0.12
+     ]
+    },
+    {
+     "name": "West Bengal",
+     "values": [
+      0.7308691291156899,
+      -0.28210672046296814,
+      0.340258424573066,
+      0.19608556263512877,
+      0.06
+     ]
+    }
+   ],
+   "discoms": [
+    {
+     "name": "Andaman & Nicobar PD",
+     "state": "Andaman and Nicobar Islands",
+     "values": [
+      24.90213911597828,
+      2.83,
+      1.9522467114905169,
+      2.509397846077327,
+      2.51
+     ]
+    },
+    {
+     "name": "APCPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      1.0251312383896325,
+      0.6404361863900583,
+      0.7738643501495073,
+      1.3309909023993978,
+      -1.14
+     ]
+    },
+    {
+     "name": "APEPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      1.396531830348395,
+      -0.08080342644596428,
+      0.07071590478842893,
+      0.6823342615193893,
+      -0.09
+     ]
+    },
+    {
+     "name": "APSPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      1.552390799679194,
+      0.9570344747819686,
+      0.33910221709899613,
+      1.0227723035050307,
+      -1.49
+     ]
+    },
+    {
+     "name": "Arunachal PD",
+     "state": "Arunachal Pradesh",
+     "values": [
+      0.1157255343082122,
+      0,
+      0.00001838295637224263,
+      0.000030353442489250426,
+      0
+     ]
+    },
+    {
+     "name": "APDCL",
+     "state": "Assam",
+     "values": [
+      0.4025398844928736,
+      -0.5209137235426571,
+      0.6123711914846259,
+      -0.24006218371398358,
+      -0.21
+     ]
+    },
+    {
+     "name": "NBPDCL",
+     "state": "Bihar",
+     "values": [
+      1.057647876482985,
+      0.9747428044823785,
+      0.43251745251708407,
+      -0.2667836502490335,
+      -0.33
+     ]
+    },
+    {
+     "name": "SBPDCL",
+     "state": "Bihar",
+     "values": [
+      1.3429008148200907,
+      1.5643035456768475,
+      -0.024058148733877793,
+      0.25083405119393287,
+      -0.17
+     ]
+    },
+    {
+     "name": "Chandigarh PD",
+     "state": "Chandigarh",
+     "values": [
+      -0.4732195199287368,
+      0.5202272291052221,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "CSPDCL",
+     "state": "Chhattisgarh",
+     "values": [
+      0.4511602203622411,
+      0.29172518320425844,
+      0.11466069462834394,
+      -0.023093027778285702,
+      -0.45
+     ]
+    },
+    {
+     "name": "Daman & Diu PD",
+     "state": "DNH & DD",
+     "values": [
+      -0.05270640452165498,
+      -0.1552004734428154,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHPDCL",
+     "state": "DNH & DD",
+     "values": [
+      -0.38760953658431063,
+      -0.13494543947048765,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHDDPDCL",
+     "state": "DNH & DD",
+     "values": [
+      null,
+      null,
+      -0.04755952001883745,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "NDMC",
+     "state": "Delhi",
+     "values": [
+      null,
+      -0.77,
+      0.7416478821114989,
+      -1.0445799734612677,
+      null
+     ]
+    },
+    {
+     "name": "BRPL",
+     "state": "Delhi",
+     "values": [
+      -0.690854514267893,
+      -0.2573437276773376,
+      0.0005978582221919382,
+      -0.164011007696244,
+      -0.93
+     ]
+    },
+    {
+     "name": "BYPL",
+     "state": "Delhi",
+     "values": [
+      -1.0456958864502557,
+      -0.013698630136987688,
+      0.10441355999396507,
+      -0.2652445419769114,
+      -1
+     ]
+    },
+    {
+     "name": "TPDDL",
+     "state": "Delhi",
+     "values": [
+      -0.23476874196472064,
+      -0.35225455391433513,
+      -0.2678931573744956,
+      -1.1856482020209054,
+      -1.59
+     ]
+    },
+    {
+     "name": "Goa PD",
+     "state": "Goa",
+     "values": [
+      0.49417516993738175,
+      0.8154277456923777,
+      0.3956183958136137,
+      0.40487361064707805,
+      0.03
+     ]
+    },
+    {
+     "name": "DGVCL",
+     "state": "Gujarat",
+     "values": [
+      -0.24523650889350268,
+      0.0707112239563914,
+      -0.021316735146414523,
+      -0.0949042995399001,
+      -0.45
+     ]
+    },
+    {
+     "name": "MGVCL",
+     "state": "Gujarat",
+     "values": [
+      -0.1286790496311454,
+      -0.04704415111857685,
+      0.008407995500539833,
+      -0.552853454008468,
+      -0.38
+     ]
+    },
+    {
+     "name": "PGVCL",
+     "state": "Gujarat",
+     "values": [
+      -0.21910298339577938,
+      -0.03843576958368988,
+      0.052785107591490465,
+      -0.4727154402372822,
+      -0.46
+     ]
+    },
+    {
+     "name": "Torrent Power Ahmedabad",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      -0.5485186135836528,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Torrent Power Surat",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      -0.24336162438426623,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "UGVCL",
+     "state": "Gujarat",
+     "values": [
+      -0.23189004344173014,
+      -0.012052620147376736,
+      0.08888434881732898,
+      -0.4687441540228203,
+      -0.35
+     ]
+    },
+    {
+     "name": "DHBVNL",
+     "state": "Haryana",
+     "values": [
+      -0.10609711343962136,
+      -0.11013015481490207,
+      -0.013143016743052627,
+      -0.048368961178479886,
+      0.25
+     ]
+    },
+    {
+     "name": "UHBVNL",
+     "state": "Haryana",
+     "values": [
+      -0.2175148596238179,
+      -0.335164201565906,
+      -0.08164041113714848,
+      -0.14196199550401722,
+      0.46
+     ]
+    },
+    {
+     "name": "HPSEBL",
+     "state": "Himachal Pradesh",
+     "values": [
+      -0.004713770932039729,
+      0.09481667783963932,
+      0.7401909834959008,
+      0.4078747191610237,
+      0.33
+     ]
+    },
+    {
+     "name": "JPDCL",
+     "state": "Jammu and Kashmir",
+     "values": [
+      3.55,
+      0.98,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "KPDCL",
+     "state": "Jammu and Kashmir",
+     "values": [
+      3.97,
+      1.77,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "JKPDD",
+     "state": "Jammu and Kashmir",
+     "values": [
+      2.1132909643547944,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "JBVNL",
+     "state": "Jharkhand",
+     "values": [
+      2.106792524702784,
+      1.8077187649331163,
+      2.325349823972659,
+      2.7613127532493227,
+      0.37
+     ]
+    },
+    {
+     "name": "BESCOM",
+     "state": "Karnataka",
+     "values": [
+      0.9946753759499494,
+      -0.09022163720936138,
+      0.3623819347383952,
+      0.35226446877793016,
+      1.38
+     ]
+    },
+    {
+     "name": "CHESCOM",
+     "state": "Karnataka",
+     "values": [
+      1.2288603567207366,
+      -0.8816539395474248,
+      0.011707290797236425,
+      0.156196709042824,
+      0.79
+     ]
+    },
+    {
+     "name": "GESCOM",
+     "state": "Karnataka",
+     "values": [
+      1.2739781723856307,
+      -0.7314193136483409,
+      1.1066481566828266,
+      0.29705765732041733,
+      0.82
+     ]
+    },
+    {
+     "name": "HESCOM",
+     "state": "Karnataka",
+     "values": [
+      1.1093882717736419,
+      -0.4355938907972572,
+      1.0000516360084655,
+      0.9995051201134837,
+      0.59
+     ]
+    },
+    {
+     "name": "MESCOM",
+     "state": "Karnataka",
+     "values": [
+      0.6830899081442263,
+      -1.5200814339649318,
+      -0.5531980641168008,
+      1.328106441297396,
+      0.18
+     ]
+    },
+    {
+     "name": "KSEBL",
+     "state": "Kerala",
+     "values": [
+      0.0347245193506156,
+      -0.07,
+      0.33731544566514593,
+      -0.046279526258209636,
+      -0.29
+     ]
+    },
+    {
+     "name": "TCED",
+     "state": "Kerala",
+     "values": [
+      null,
+      0.81,
+      -0.1504290098327825,
+      -0.022095897182403235,
+      -0.08
+     ]
+    },
+    {
+     "name": "Ladakh PD",
+     "state": "Ladakh",
+     "values": [
+      0.4,
+      0.8229010024961756,
+      1.8711566556695125,
+      0.4416689499282942,
+      -0.35
+     ]
+    },
+    {
+     "name": "Lakshadweep ED",
+     "state": "Lakshadweep",
+     "values": [
+      19.440838741887163,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "MPMaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      1.7525589885932509,
+      0.2573427939865418,
+      -0.9722222677311381,
+      0.9132480571522832,
+      0.56
+     ]
+    },
+    {
+     "name": "MPPaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      1.1199908466951802,
+      0.3496532147232765,
+      -0.2531225493593725,
+      0.004171487836540422,
+      -0.29
+     ]
+    },
+    {
+     "name": "MPPoKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      2.1336811261206527,
+      0.2703403759953229,
+      -0.18309776401940425,
+      0.7569304671943815,
+      0.15
+     ]
+    },
+    {
+     "name": "AEML",
+     "state": "Maharashtra",
+     "values": [
+      0.3728802838728402,
+      -0.5490286038942758,
+      -0.07454942981948776,
+      -0.9747040215511111,
+      null
+     ]
+    },
+    {
+     "name": "MSEDCL",
+     "state": "Maharashtra",
+     "values": [
+      1.1884274495267384,
+      0.07998845633861595,
+      1.5636378039665741,
+      0.894921333173623,
+      0.37
+     ]
+    },
+    {
+     "name": "BEST",
+     "state": "Maharashtra",
+     "values": [
+      0.9397277117715079,
+      1.6412570615633637,
+      2.062159957124811,
+      0.0452136337494764,
+      -0.68
+     ]
+    },
+    {
+     "name": "TPML",
+     "state": "Maharashtra",
+     "values": [
+      0.09614813871347838,
+      -0.09939374739721796,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "MSPDCL",
+     "state": "Manipur",
+     "values": [
+      0.5350271015158468,
+      0.8244944880930634,
+      0.8752040028790216,
+      0.2501737856303139,
+      0.82
+     ]
+    },
+    {
+     "name": "MePDCL",
+     "state": "Meghalaya",
+     "values": [
+      1.2444944028277702,
+      0.05664706073505865,
+      0.9259245234956159,
+      0.8978400730931853,
+      -0.18
+     ]
+    },
+    {
+     "name": "Mizoram PD",
+     "state": "Mizoram",
+     "values": [
+      4.434523939444166,
+      4.975288694992158,
+      0.8072146321223439,
+      1.7265453634597856,
+      -0.14
+     ]
+    },
+    {
+     "name": "Nagaland PD",
+     "state": "Nagaland",
+     "values": [
+      5.834886366146167,
+      5.719755342586474,
+      0.13451217763026957,
+      -0.088701112083033,
+      -0.11
+     ]
+    },
+    {
+     "name": "TPNODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      0.32611222145673135,
+      -0.203151150559723,
+      -0.2211460552026132,
+      null
+     ]
+    },
+    {
+     "name": "TPSODL",
+     "state": "Odisha",
+     "values": [
+      -1.0933897854229486,
+      0.37850687802229643,
+      0.7744631068772438,
+      0.5378442504677476,
+      null
+     ]
+    },
+    {
+     "name": "TPWODL",
+     "state": "Odisha",
+     "values": [
+      -1.6440642603797198,
+      -0.0210346455659014,
+      -0.5498690140045914,
+      0.4108767252195733,
+      null
+     ]
+    },
+    {
+     "name": "TPCODL",
+     "state": "Odisha",
+     "values": [
+      0.06743978505285853,
+      0.4577727922340653,
+      -0.06827930102032287,
+      -0.11476946144642586,
+      null
+     ]
+    },
+    {
+     "name": "NESCO Utility",
+     "state": "Odisha",
+     "values": [
+      0.45185451277930966,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "SOUTHCO Utility",
+     "state": "Odisha",
+     "values": [
+      2.1396926271296435,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "WESCO Utility",
+     "state": "Odisha",
+     "values": [
+      0.733740702234317,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "Puducherry PD",
+     "state": "Puducherry",
+     "values": [
+      0.47901613946678445,
+      -1.0813869097875601,
+      0.885117019396187,
+      0.19732601796779736,
+      -0.32
+     ]
+    },
+    {
+     "name": "PSPCL",
+     "state": "Punjab",
+     "values": [
+      0.08321076091567203,
+      -0.17615474900468353,
+      0.17715012238580652,
+      -0.07527842457215161,
+      -0.31
+     ]
+    },
+    {
+     "name": "AVVNL",
+     "state": "Rajasthan",
+     "values": [
+      0.38058876553547094,
+      -0.583714077557711,
+      0.1817475024399764,
+      0.11154775355758684,
+      0.8
+     ]
+    },
+    {
+     "name": "JdVVNL",
+     "state": "Rajasthan",
+     "values": [
+      1.1802690061246395,
+      0.1796205998363405,
+      0.11635668748401606,
+      0.4788798507809222,
+      0.06
+     ]
+    },
+    {
+     "name": "JVVNL",
+     "state": "Rajasthan",
+     "values": [
+      0.602467312774178,
+      -0.36393047278227986,
+      0.14336395711587002,
+      0.3099728763976639,
+      0.16
+     ]
+    },
+    {
+     "name": "Sikkim PD",
+     "state": "Sikkim",
+     "values": [
+      0.27285668945900987,
+      0.2686393076612994,
+      -0.24208771053737177,
+      -0.10705182810027392,
+      -2.3
+     ]
+    },
+    {
+     "name": "TANGEDCO",
+     "state": "Tamil Nadu",
+     "values": [
+      2.1157402467678406,
+      1.7879294165646673,
+      0.9611332687104968,
+      0.2704444284245131,
+      null
+     ]
+    },
+    {
+     "name": "TSNPDCL",
+     "state": "Telangana",
+     "values": [
+      0.6840620078278832,
+      1.5237992317523492,
+      1.185974713755006,
+      1.346948886272127,
+      1.49
+     ]
+    },
+    {
+     "name": "TSSPDCL",
+     "state": "Telangana",
+     "values": [
+      1.5969830759407282,
+      1.403352440734226,
+      1.0808830674930272,
+      1.5548868733736976,
+      1.14
+     ]
+    },
+    {
+     "name": "TSECL",
+     "state": "Tripura",
+     "values": [
+      0.2,
+      0.5314362354059314,
+      1.0662049220122753,
+      0.9670468113526738,
+      0.74
+     ]
+    },
+    {
+     "name": "DVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      1.3626758858584234,
+      1.4480474272863884,
+      2.0831044264669547,
+      0.9250405022276205,
+      0.16
+     ]
+    },
+    {
+     "name": "KESCO",
+     "state": "Uttar Pradesh",
+     "values": [
+      2.329461912055238,
+      1.0519814192218844,
+      0.047646389983558635,
+      0.6854731725650343,
+      0.5
+     ]
+    },
+    {
+     "name": "MVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      1.8063546534309305,
+      2.4519577255825658,
+      2.392666601090207,
+      0.5125172509613876,
+      0.79
+     ]
+    },
+    {
+     "name": "NPCL",
+     "state": "Uttar Pradesh",
+     "values": [
+      -1.4697009992538428,
+      -1.0920423391457064,
+      -0.7762887548183581,
+      -0.579287898182109,
+      null
+     ]
+    },
+    {
+     "name": "PaVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      1.0992048576081457,
+      0.5721435276200397,
+      0.16000061367851437,
+      -0.06505856958904221,
+      -0.24
+     ]
+    },
+    {
+     "name": "PuVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      2.001557105474146,
+      1.8099522914703599,
+      3.168126513209864,
+      1.007090640131521,
+      0.59
+     ]
+    },
+    {
+     "name": "UPCL",
+     "state": "Uttarakhand",
+     "values": [
+      0.03989736929789078,
+      -0.4888747059830054,
+      0.7393152265088512,
+      0.12739366254843,
+      0.12
+     ]
+    },
+    {
+     "name": "CESC",
+     "state": "West Bengal",
+     "values": [
+      -0.015677795655672178,
+      -0.6658272692455007,
+      -0.2039241977295081,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "IPCL",
+     "state": "West Bengal",
+     "values": [
+      -0.42741323821822963,
+      0.33765851212949105,
+      0.7951819556236961,
+      0.01646423608532821,
+      null
+     ]
+    },
+    {
+     "name": "WBSEDCL",
+     "state": "West Bengal",
+     "values": [
+      0.9217467104469197,
+      -0.2157333890412101,
+      0.340258424573066,
+      0.19608556263512877,
+      0.06
+     ]
+    }
+   ],
+   "india": [
+    0.9186153286533747,
+    0.3941683458942036,
+    0.5671325232114315,
+    0.38556164601562415,
+    0.07
+   ],
+   "file": "https://rdss.powermin.gov.in:8443/dashboard/ACS_ARR.xlsx"
+  },
+  "payable": {
+   "years": [
+    "FY 2020-21",
+    "FY 2021-22",
+    "FY 2022-23",
+    "FY 2023-24",
+    "FY 2024-25"
+   ],
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Andhra Pradesh",
+     "values": [
+      217,
+      166,
+      91.23621416702277,
+      105.48153315216678,
+      105
+     ]
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Assam",
+     "values": [
+      65,
+      37,
+      29.433010746751837,
+      70,
+      62
+     ]
+    },
+    {
+     "name": "Bihar",
+     "values": [
+      111,
+      162,
+      103.66515117712161,
+      109.08629099752957,
+      97
+     ]
+    },
+    {
+     "name": "Chandigarh",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Chhattisgarh",
+     "values": [
+      202,
+      181,
+      114,
+      108,
+      82
+     ]
+    },
+    {
+     "name": "DNH & DD",
+     "values": [
+      37,
+      32,
+      27.449710704621108,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Delhi",
+     "values": [
+      null,
+      null,
+      271,
+      274,
+      263
+     ]
+    },
+    {
+     "name": "Goa",
+     "values": [
+      null,
+      null,
+      26.79083535096156,
+      20.432012637585984,
+      null
+     ]
+    },
+    {
+     "name": "Gujarat",
+     "values": [
+      0,
+      0,
+      2.3174469000796516,
+      2.903956999089884,
+      4
+     ]
+    },
+    {
+     "name": "Haryana",
+     "values": [
+      55,
+      46,
+      62.79507894762339,
+      37.78077419885071,
+      46
+     ]
+    },
+    {
+     "name": "Himachal Pradesh",
+     "values": [
+      91,
+      67,
+      43.888257832476604,
+      70.73156098057628,
+      80
+     ]
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Jharkhand",
+     "values": [
+      555,
+      537,
+      432.58231602697253,
+      420.44258886796507,
+      384
+     ]
+    },
+    {
+     "name": "Karnataka",
+     "values": [
+      201,
+      185,
+      165,
+      179,
+      137
+     ]
+    },
+    {
+     "name": "Kerala",
+     "values": [
+      79,
+      78,
+      95.52382861655937,
+      91,
+      69
+     ]
+    },
+    {
+     "name": "Ladakh",
+     "values": [
+      null,
+      null,
+      153.27715794785738,
+      213.4289239696006,
+      null
+     ]
+    },
+    {
+     "name": "Lakshadweep",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Madhya Pradesh",
+     "values": [
+      230,
+      217,
+      209.7477064485173,
+      210.94056637956888,
+      208
+     ]
+    },
+    {
+     "name": "Maharashtra",
+     "values": [
+      178,
+      177,
+      113,
+      109,
+      94
+     ]
+    },
+    {
+     "name": "Manipur",
+     "values": [
+      129,
+      100,
+      104.03530830812593,
+      75.9841628117833,
+      74
+     ]
+    },
+    {
+     "name": "Meghalaya",
+     "values": [
+      478,
+      284,
+      272.7404351866773,
+      211.95265666320714,
+      193
+     ]
+    },
+    {
+     "name": "Mizoram",
+     "values": [
+      null,
+      null,
+      98.69406930429544,
+      169.54647925192705,
+      null
+     ]
+    },
+    {
+     "name": "Nagaland",
+     "values": [
+      null,
+      null,
+      30.986646615912818,
+      26.09105730167851,
+      null
+     ]
+    },
+    {
+     "name": "Odisha",
+     "values": [
+      null,
+      null,
+      55.54586742790388,
+      54.15029999206555,
+      57
+     ]
+    },
+    {
+     "name": "Puducherry",
+     "values": [
+      null,
+      null,
+      55.050699110110884,
+      73.29602397542499,
+      null
+     ]
+    },
+    {
+     "name": "Punjab",
+     "values": [
+      65,
+      45,
+      54.873154418497045,
+      40.316416235813705,
+      45
+     ]
+    },
+    {
+     "name": "Rajasthan",
+     "values": [
+      256,
+      144,
+      87.69342876789545,
+      62.887543190146424,
+      51
+     ]
+    },
+    {
+     "name": "Sikkim",
+     "values": [
+      null,
+      null,
+      496.4635101393882,
+      388.4321528236925,
+      null
+     ]
+    },
+    {
+     "name": "Tamil Nadu",
+     "values": [
+      212,
+      200,
+      170.13237814503398,
+      184.21785472607718,
+      78
+     ]
+    },
+    {
+     "name": "Telangana",
+     "values": [
+      297,
+      369,
+      309.9232524157847,
+      310.48007984437317,
+      295
+     ]
+    },
+    {
+     "name": "Tripura",
+     "values": [
+      63,
+      49,
+      54.16652406684339,
+      93.60605556521791,
+      91
+     ]
+    },
+    {
+     "name": "Uttar Pradesh",
+     "values": [
+      208,
+      212,
+      179,
+      163,
+      159
+     ]
+    },
+    {
+     "name": "Uttarakhand",
+     "values": [
+      43,
+      24,
+      44.93747236511779,
+      38.943937975405575,
+      72
+     ]
+    },
+    {
+     "name": "West Bengal",
+     "values": [
+      175,
+      147,
+      142.7697146464097,
+      162.1914781271379,
+      172
+     ]
+    }
+   ],
+   "discoms": [
+    {
+     "name": "Andaman & Nicobar PD",
+     "state": "Andaman and Nicobar Islands",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "APCPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      246,
+      193,
+      157.63621625883258,
+      86.02424457316876,
+      83
+     ]
+    },
+    {
+     "name": "APEPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      186,
+      122,
+      81.00748493450456,
+      103.42892328174946,
+      113
+     ]
+    },
+    {
+     "name": "APSPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      227,
+      187,
+      65.58804094783372,
+      118.54240008410457,
+      109
+     ]
+    },
+    {
+     "name": "Arunachal PD",
+     "state": "Arunachal Pradesh",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "APDCL",
+     "state": "Assam",
+     "values": [
+      65,
+      37,
+      29.433010746751837,
+      70,
+      62
+     ]
+    },
+    {
+     "name": "NBPDCL",
+     "state": "Bihar",
+     "values": [
+      86,
+      130,
+      82.57416793832998,
+      84.65829806326873,
+      69
+     ]
+    },
+    {
+     "name": "SBPDCL",
+     "state": "Bihar",
+     "values": [
+      132,
+      189,
+      120.52717986416914,
+      128.6588989837542,
+      121
+     ]
+    },
+    {
+     "name": "Chandigarh PD",
+     "state": "Chandigarh",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "CSPDCL",
+     "state": "Chhattisgarh",
+     "values": [
+      202,
+      181,
+      114,
+      108,
+      82
+     ]
+    },
+    {
+     "name": "Daman & Diu PD",
+     "state": "DNH & DD",
+     "values": [
+      37,
+      32,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHPDCL",
+     "state": "DNH & DD",
+     "values": [
+      37,
+      32,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHDDPDCL",
+     "state": "DNH & DD",
+     "values": [
+      null,
+      null,
+      27.449710704621108,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "BRPL",
+     "state": "Delhi",
+     "values": [
+      null,
+      null,
+      303.184598647438,
+      295,
+      280
+     ]
+    },
+    {
+     "name": "BYPL",
+     "state": "Delhi",
+     "values": [
+      null,
+      null,
+      569,
+      570,
+      596
+     ]
+    },
+    {
+     "name": "TPDDL",
+     "state": "Delhi",
+     "values": [
+      null,
+      null,
+      38,
+      41,
+      29
+     ]
+    },
+    {
+     "name": "Goa PD",
+     "state": "Goa",
+     "values": [
+      null,
+      null,
+      26.79083535096156,
+      20.432012637585984,
+      null
+     ]
+    },
+    {
+     "name": "DGVCL",
+     "state": "Gujarat",
+     "values": [
+      0,
+      0,
+      1.8011045907095666,
+      1.4480788296090596,
+      2
+     ]
+    },
+    {
+     "name": "MGVCL",
+     "state": "Gujarat",
+     "values": [
+      0,
+      0,
+      2.838228766260333,
+      7.0390658870806195,
+      8
+     ]
+    },
+    {
+     "name": "PGVCL",
+     "state": "Gujarat",
+     "values": [
+      0,
+      0,
+      3.1653189173507457,
+      3.468043194221305,
+      5
+     ]
+    },
+    {
+     "name": "Torrent Power Ahmedabad",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      20,
+      25,
+      25
+     ]
+    },
+    {
+     "name": "Torrent Power Surat",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      37,
+      60,
+      41
+     ]
+    },
+    {
+     "name": "UGVCL",
+     "state": "Gujarat",
+     "values": [
+      0,
+      0,
+      0,
+      1,
+      2
+     ]
+    },
+    {
+     "name": "DHBVNL",
+     "state": "Haryana",
+     "values": [
+      57,
+      48,
+      64.84818159671991,
+      38.10682116210675,
+      50
+     ]
+    },
+    {
+     "name": "UHBVNL",
+     "state": "Haryana",
+     "values": [
+      53,
+      42,
+      59.85063564703415,
+      37.298053731840085,
+      40
+     ]
+    },
+    {
+     "name": "HPSEBL",
+     "state": "Himachal Pradesh",
+     "values": [
+      91,
+      67,
+      43.888257832476604,
+      70.73156098057628,
+      80
+     ]
+    },
+    {
+     "name": "JKPDD",
+     "state": "Jammu and Kashmir",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "JBVNL",
+     "state": "Jharkhand",
+     "values": [
+      555,
+      537,
+      432.58231602697253,
+      420.44258886796507,
+      384
+     ]
+    },
+    {
+     "name": "BESCOM",
+     "state": "Karnataka",
+     "values": [
+      158,
+      172,
+      153.4079671475473,
+      175.36515891846506,
+      134
+     ]
+    },
+    {
+     "name": "CHESCOM",
+     "state": "Karnataka",
+     "values": [
+      273,
+      185,
+      159.7834440499356,
+      177.15169035292618,
+      145
+     ]
+    },
+    {
+     "name": "GESCOM",
+     "state": "Karnataka",
+     "values": [
+      218,
+      166,
+      68,
+      157.67895323987952,
+      61
+     ]
+    },
+    {
+     "name": "HESCOM",
+     "state": "Karnataka",
+     "values": [
+      279,
+      244,
+      285.13640774027033,
+      233.40232700864746,
+      181
+     ]
+    },
+    {
+     "name": "MESCOM",
+     "state": "Karnataka",
+     "values": [
+      155,
+      128,
+      98,
+      122,
+      154
+     ]
+    },
+    {
+     "name": "KSEBL",
+     "state": "Kerala",
+     "values": [
+      79,
+      78,
+      96.13717234544882,
+      91,
+      69
+     ]
+    },
+    {
+     "name": "Ladakh PD",
+     "state": "Ladakh",
+     "values": [
+      null,
+      null,
+      153.27715794785738,
+      213.4289239696006,
+      null
+     ]
+    },
+    {
+     "name": "Lakshadweep ED",
+     "state": "Lakshadweep",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "MPMaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      409,
+      374,
+      337.40052348460233,
+      329.90786010237156,
+      323
+     ]
+    },
+    {
+     "name": "MPPaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      31,
+      32,
+      37.491814422831055,
+      43.61796564206299,
+      39
+     ]
+    },
+    {
+     "name": "MPPoKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      280,
+      321,
+      317.4936596338788,
+      289,
+      298
+     ]
+    },
+    {
+     "name": "AEML",
+     "state": "Maharashtra",
+     "values": [
+      null,
+      null,
+      38,
+      37,
+      25
+     ]
+    },
+    {
+     "name": "MSEDCL",
+     "state": "Maharashtra",
+     "values": [
+      178,
+      177,
+      112.51950775814164,
+      108.53345200189389,
+      94
+     ]
+    },
+    {
+     "name": "BEST",
+     "state": "Maharashtra",
+     "values": [
+      null,
+      null,
+      6.2985363167677795,
+      55.343446930098075,
+      null
+     ]
+    },
+    {
+     "name": "MSPDCL",
+     "state": "Manipur",
+     "values": [
+      129,
+      100,
+      104.03530830812593,
+      75.9841628117833,
+      74
+     ]
+    },
+    {
+     "name": "MePDCL",
+     "state": "Meghalaya",
+     "values": [
+      478,
+      284,
+      272.7404351866773,
+      211.95265666320714,
+      193
+     ]
+    },
+    {
+     "name": "Mizoram PD",
+     "state": "Mizoram",
+     "values": [
+      null,
+      null,
+      98.69406930429544,
+      169.54647925192705,
+      null
+     ]
+    },
+    {
+     "name": "Nagaland PD",
+     "state": "Nagaland",
+     "values": [
+      null,
+      null,
+      30.986646615912818,
+      26.09105730167851,
+      null
+     ]
+    },
+    {
+     "name": "TPNODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      56.71485947808698,
+      63.329114631575585,
+      56
+     ]
+    },
+    {
+     "name": "TPSODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      37.21701234614585,
+      39.441363415336056,
+      41
+     ]
+    },
+    {
+     "name": "TPWODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      60.26927455444768,
+      52.463928066268885,
+      64
+     ]
+    },
+    {
+     "name": "TPCODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      53.276524460427176,
+      54.52573955010136,
+      54
+     ]
+    },
+    {
+     "name": "Puducherry PD",
+     "state": "Puducherry",
+     "values": [
+      null,
+      null,
+      55.050699110110884,
+      73.29602397542499,
+      null
+     ]
+    },
+    {
+     "name": "PSPCL",
+     "state": "Punjab",
+     "values": [
+      65,
+      45,
+      54.873154418497045,
+      40.316416235813705,
+      45
+     ]
+    },
+    {
+     "name": "AVVNL",
+     "state": "Rajasthan",
+     "values": [
+      224,
+      80,
+      61.66995965048095,
+      57.14337358462986,
+      52
+     ]
+    },
+    {
+     "name": "JdVVNL",
+     "state": "Rajasthan",
+     "values": [
+      298,
+      164,
+      99.9808823702064,
+      69.42511966852295,
+      57
+     ]
+    },
+    {
+     "name": "JVVNL",
+     "state": "Rajasthan",
+     "values": [
+      239,
+      173,
+      96.42003071522598,
+      61.08796839631101,
+      46
+     ]
+    },
+    {
+     "name": "Sikkim PD",
+     "state": "Sikkim",
+     "values": [
+      null,
+      null,
+      496.4635101393882,
+      388.4321528236925,
+      null
+     ]
+    },
+    {
+     "name": "TANGEDCO",
+     "state": "Tamil Nadu",
+     "values": [
+      212,
+      200,
+      170.13237814503398,
+      184.21785472607718,
+      78
+     ]
+    },
+    {
+     "name": "TSNPDCL",
+     "state": "Telangana",
+     "values": [
+      278,
+      356,
+      285.0873397876389,
+      284.18352683752556,
+      280
+     ]
+    },
+    {
+     "name": "TSSPDCL",
+     "state": "Telangana",
+     "values": [
+      306,
+      375,
+      320.4955589454562,
+      321.226125030021,
+      302
+     ]
+    },
+    {
+     "name": "TSECL",
+     "state": "Tripura",
+     "values": [
+      63,
+      49,
+      54.16652406684339,
+      93.60605556521791,
+      91
+     ]
+    },
+    {
+     "name": "DVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      250,
+      251,
+      256.4831140006298,
+      244.47322635299378,
+      228
+     ]
+    },
+    {
+     "name": "KESCO",
+     "state": "Uttar Pradesh",
+     "values": [
+      145,
+      338,
+      199,
+      179,
+      171
+     ]
+    },
+    {
+     "name": "MVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      271,
+      263,
+      220,
+      195,
+      198
+     ]
+    },
+    {
+     "name": "NPCL",
+     "state": "Uttar Pradesh",
+     "values": [
+      null,
+      null,
+      45.40521221560883,
+      36.7403416610262,
+      40
+     ]
+    },
+    {
+     "name": "PaVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      90,
+      98,
+      32.81746009612255,
+      26.2243100423854,
+      20
+     ]
+    },
+    {
+     "name": "PuVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      296,
+      282,
+      257.2032616886325,
+      236.75469354146637,
+      240
+     ]
+    },
+    {
+     "name": "UPCL",
+     "state": "Uttarakhand",
+     "values": [
+      43,
+      24,
+      44.93747236511779,
+      38.943937975405575,
+      72
+     ]
+    },
+    {
+     "name": "CESC",
+     "state": "West Bengal",
+     "values": [
+      null,
+      null,
+      59.147852170727234,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "IPCL",
+     "state": "West Bengal",
+     "values": [
+      null,
+      null,
+      124.35163901505214,
+      149,
+      108
+     ]
+    },
+    {
+     "name": "WBSEDCL",
+     "state": "West Bengal",
+     "values": [
+      175,
+      147,
+      142.7697146464097,
+      162.1914781271379,
+      172
+     ]
+    }
+   ],
+   "india": [
+    178,
+    163,
+    131,
+    131.6319813754376,
+    113
+   ],
+   "file": "https://rdss.powermin.gov.in:8443/dashboard/Payable%20Days.xlsx"
+  },
+  "receivable": {
+   "years": [
+    "FY 2020-21",
+    "FY 2021-22",
+    "FY 2022-23",
+    "FY 2023-24",
+    "FY 2024-25"
+   ],
+   "states": [
+    {
+     "name": "Andaman and Nicobar Islands",
+     "values": [
+      null,
+      null,
+      null,
+      null,
+      null
+     ]
+    },
+    {
+     "name": "Andhra Pradesh",
+     "values": [
+      122,
+      103,
+      97,
+      109.67834142622176,
+      91
+     ]
+    },
+    {
+     "name": "Arunachal Pradesh",
+     "values": [
+      null,
+      null,
+      247.14500876305684,
+      275.8853658980869,
+      null
+     ]
+    },
+    {
+     "name": "Assam",
+     "values": [
+      119,
+      91,
+      70,
+      50,
+      46
+     ]
+    },
+    {
+     "name": "Bihar",
+     "values": [
+      246,
+      252,
+      217,
+      232.91038548377136,
+      227
+     ]
+    },
+    {
+     "name": "Chandigarh",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Chhattisgarh",
+     "values": [
+      191,
+      170,
+      98,
+      96,
+      82
+     ]
+    },
+    {
+     "name": "DNH & DD",
+     "values": [
+      42,
+      36,
+      31.782453971330245,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Delhi",
+     "values": [
+      null,
+      null,
+      12,
+      10,
+      8
+     ]
+    },
+    {
+     "name": "Goa",
+     "values": [
+      null,
+      null,
+      117.89527386424508,
+      110.65964071324433,
+      null
+     ]
+    },
+    {
+     "name": "Gujarat",
+     "values": [
+      18,
+      17,
+      13,
+      7,
+      6
+     ]
+    },
+    {
+     "name": "Haryana",
+     "values": [
+      35,
+      27,
+      19,
+      48,
+      61
+     ]
+    },
+    {
+     "name": "Himachal Pradesh",
+     "values": [
+      23,
+      21,
+      20,
+      22,
+      27
+     ]
+    },
+    {
+     "name": "Jammu and Kashmir",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Jharkhand",
+     "values": [
+      449,
+      439,
+      289,
+      281,
+      363
+     ]
+    },
+    {
+     "name": "Karnataka",
+     "values": [
+      119,
+      110,
+      90,
+      53,
+      76
+     ]
+    },
+    {
+     "name": "Kerala",
+     "values": [
+      62,
+      53,
+      45,
+      48,
+      37
+     ]
+    },
+    {
+     "name": "Ladakh",
+     "values": [
+      null,
+      null,
+      22.32881444344626,
+      37.969658287245835,
+      null
+     ]
+    },
+    {
+     "name": "Lakshadweep",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "Madhya Pradesh",
+     "values": [
+      199,
+      171,
+      141,
+      166,
+      174
+     ]
+    },
+    {
+     "name": "Maharashtra",
+     "values": [
+      231,
+      202,
+      202,
+      200,
+      187
+     ]
+    },
+    {
+     "name": "Manipur",
+     "values": [
+      451,
+      425,
+      403,
+      391,
+      432
+     ]
+    },
+    {
+     "name": "Meghalaya",
+     "values": [
+      233,
+      233,
+      224,
+      195,
+      134
+     ]
+    },
+    {
+     "name": "Mizoram",
+     "values": [
+      null,
+      null,
+      38.44663218823347,
+      81.73170617290981,
+      null
+     ]
+    },
+    {
+     "name": "Nagaland",
+     "values": [
+      null,
+      null,
+      433.617975351275,
+      486.17430036459876,
+      null
+     ]
+    },
+    {
+     "name": "Odisha",
+     "values": [
+      null,
+      null,
+      39,
+      30,
+      23
+     ]
+    },
+    {
+     "name": "Puducherry",
+     "values": [
+      null,
+      null,
+      200.03846471507723,
+      180.57814074224171,
+      null
+     ]
+    },
+    {
+     "name": "Punjab",
+     "values": [
+      84,
+      86,
+      88,
+      89.22349199031132,
+      81
+     ]
+    },
+    {
+     "name": "Rajasthan",
+     "values": [
+      50,
+      46,
+      26,
+      24.948904835786387,
+      26
+     ]
+    },
+    {
+     "name": "Sikkim",
+     "values": [
+      null,
+      null,
+      327.168354531778,
+      313.6780496712057,
+      null
+     ]
+    },
+    {
+     "name": "Tamil Nadu",
+     "values": [
+      88,
+      71,
+      55,
+      58.14856440991714,
+      56
+     ]
+    },
+    {
+     "name": "Telangana",
+     "values": [
+      195,
+      164,
+      182,
+      219,
+      257
+     ]
+    },
+    {
+     "name": "Tripura",
+     "values": [
+      75,
+      84,
+      96,
+      204,
+      193
+     ]
+    },
+    {
+     "name": "Uttar Pradesh",
+     "values": [
+      520,
+      526,
+      380,
+      309.81077638725463,
+      295
+     ]
+    },
+    {
+     "name": "Uttarakhand",
+     "values": [
+      55,
+      17,
+      18,
+      18,
+      21
+     ]
+    },
+    {
+     "name": "West Bengal",
+     "values": [
+      72,
+      64,
+      59,
+      60,
+      60
+     ]
+    }
+   ],
+   "discoms": [
+    {
+     "name": "APCPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      92,
+      96,
+      93,
+      85.2012479952882,
+      54
+     ]
+    },
+    {
+     "name": "APEPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      59,
+      47,
+      46,
+      56.27591628669442,
+      62
+     ]
+    },
+    {
+     "name": "APSPDCL",
+     "state": "Andhra Pradesh",
+     "values": [
+      191,
+      154,
+      153,
+      184.18114195990304,
+      153
+     ]
+    },
+    {
+     "name": "Arunachal PD",
+     "state": "Arunachal Pradesh",
+     "values": [
+      null,
+      null,
+      247.14500876305684,
+      275.8853658980869,
+      null
+     ]
+    },
+    {
+     "name": "APDCL",
+     "state": "Assam",
+     "values": [
+      119,
+      91,
+      70,
+      50,
+      46
+     ]
+    },
+    {
+     "name": "NBPDCL",
+     "state": "Bihar",
+     "values": [
+      164,
+      148,
+      144,
+      160,
+      163
+     ]
+    },
+    {
+     "name": "SBPDCL",
+     "state": "Bihar",
+     "values": [
+      309,
+      339,
+      278,
+      293,
+      284
+     ]
+    },
+    {
+     "name": "Chandigarh PD",
+     "state": "Chandigarh",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "CSPDCL",
+     "state": "Chhattisgarh",
+     "values": [
+      191,
+      170,
+      98,
+      96.01889661770656,
+      82
+     ]
+    },
+    {
+     "name": "Daman & Diu PD",
+     "state": "DNH & DD",
+     "values": [
+      42,
+      36,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHPDCL",
+     "state": "DNH & DD",
+     "values": [
+      42,
+      36,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "DNHDDPDCL",
+     "state": "DNH & DD",
+     "values": [
+      null,
+      null,
+      31.782453971330245,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "BRPL",
+     "state": "Delhi",
+     "values": [
+      null,
+      null,
+      15,
+      12.694287642787438,
+      9
+     ]
+    },
+    {
+     "name": "BYPL",
+     "state": "Delhi",
+     "values": [
+      null,
+      null,
+      14,
+      12,
+      9
+     ]
+    },
+    {
+     "name": "TPDDL",
+     "state": "Delhi",
+     "values": [
+      null,
+      null,
+      7,
+      6,
+      5
+     ]
+    },
+    {
+     "name": "Goa PD",
+     "state": "Goa",
+     "values": [
+      null,
+      null,
+      117.89527386424508,
+      110.65964071324433,
+      null
+     ]
+    },
+    {
+     "name": "DGVCL",
+     "state": "Gujarat",
+     "values": [
+      11,
+      13,
+      2,
+      1,
+      1
+     ]
+    },
+    {
+     "name": "MGVCL",
+     "state": "Gujarat",
+     "values": [
+      19,
+      18,
+      19,
+      17.218186081410707,
+      10
+     ]
+    },
+    {
+     "name": "PGVCL",
+     "state": "Gujarat",
+     "values": [
+      27,
+      23,
+      22,
+      12,
+      11
+     ]
+    },
+    {
+     "name": "Torrent Power Ahmedabad",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      30,
+      30,
+      30
+     ]
+    },
+    {
+     "name": "Torrent Power Surat",
+     "state": "Gujarat",
+     "values": [
+      null,
+      null,
+      29,
+      29,
+      29
+     ]
+    },
+    {
+     "name": "UGVCL",
+     "state": "Gujarat",
+     "values": [
+      12,
+      12,
+      12,
+      2,
+      1
+     ]
+    },
+    {
+     "name": "DHBVNL",
+     "state": "Haryana",
+     "values": [
+      51,
+      40,
+      40,
+      64.67446202320224,
+      76
+     ]
+    },
+    {
+     "name": "UHBVNL",
+     "state": "Haryana",
+     "values": [
+      14,
+      8,
+      -10,
+      24,
+      41
+     ]
+    },
+    {
+     "name": "HPSEBL",
+     "state": "Himachal Pradesh",
+     "values": [
+      23,
+      21,
+      20,
+      22,
+      27
+     ]
+    },
+    {
+     "name": "JKPDD",
+     "state": "Jammu and Kashmir",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "JBVNL",
+     "state": "Jharkhand",
+     "values": [
+      449,
+      439,
+      289,
+      281,
+      363
+     ]
+    },
+    {
+     "name": "BESCOM",
+     "state": "Karnataka",
+     "values": [
+      86,
+      82,
+      65,
+      36,
+      43
+     ]
+    },
+    {
+     "name": "CHESCOM",
+     "state": "Karnataka",
+     "values": [
+      194,
+      177,
+      159,
+      58.86402169945325,
+      108
+     ]
+    },
+    {
+     "name": "GESCOM",
+     "state": "Karnataka",
+     "values": [
+      196,
+      167,
+      123,
+      84.06163921371522,
+      144
+     ]
+    },
+    {
+     "name": "HESCOM",
+     "state": "Karnataka",
+     "values": [
+      185,
+      165,
+      145,
+      115.45823394481536,
+      165
+     ]
+    },
+    {
+     "name": "MESCOM",
+     "state": "Karnataka",
+     "values": [
+      71,
+      70,
+      55,
+      49,
+      67
+     ]
+    },
+    {
+     "name": "KSEBL",
+     "state": "Kerala",
+     "values": [
+      62,
+      53,
+      45,
+      48,
+      37
+     ]
+    },
+    {
+     "name": "Ladakh PD",
+     "state": "Ladakh",
+     "values": [
+      null,
+      null,
+      22.32881444344626,
+      37.969658287245835,
+      null
+     ]
+    },
+    {
+     "name": "Lakshadweep ED",
+     "state": "Lakshadweep",
+     "values": [
+      null,
+      null,
+      0,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "MPMaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      272,
+      228,
+      194,
+      235.99191586258524,
+      264
+     ]
+    },
+    {
+     "name": "MPPaKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      132,
+      89,
+      66,
+      85.24014201023114,
+      86
+     ]
+    },
+    {
+     "name": "MPPoKVVCL",
+     "state": "Madhya Pradesh",
+     "values": [
+      206,
+      218,
+      183,
+      199.8169899473188,
+      198
+     ]
+    },
+    {
+     "name": "AEML",
+     "state": "Maharashtra",
+     "values": [
+      null,
+      null,
+      17,
+      15,
+      15
+     ]
+    },
+    {
+     "name": "MSEDCL",
+     "state": "Maharashtra",
+     "values": [
+      231,
+      202,
+      202,
+      200,
+      187
+     ]
+    },
+    {
+     "name": "BEST",
+     "state": "Maharashtra",
+     "values": [
+      null,
+      null,
+      42.75128040826721,
+      45.049483456627286,
+      null
+     ]
+    },
+    {
+     "name": "MSPDCL",
+     "state": "Manipur",
+     "values": [
+      451,
+      425,
+      403,
+      391,
+      432
+     ]
+    },
+    {
+     "name": "MePDCL",
+     "state": "Meghalaya",
+     "values": [
+      233,
+      233,
+      224,
+      195,
+      134
+     ]
+    },
+    {
+     "name": "Mizoram PD",
+     "state": "Mizoram",
+     "values": [
+      null,
+      null,
+      38.44663218823347,
+      81.73170617290981,
+      null
+     ]
+    },
+    {
+     "name": "Nagaland PD",
+     "state": "Nagaland",
+     "values": [
+      null,
+      null,
+      433.617975351275,
+      486.17430036459876,
+      null
+     ]
+    },
+    {
+     "name": "TPNODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      27,
+      16,
+      10
+     ]
+    },
+    {
+     "name": "TPSODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      99,
+      96,
+      63
+     ]
+    },
+    {
+     "name": "TPWODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      34,
+      28,
+      25
+     ]
+    },
+    {
+     "name": "TPCODL",
+     "state": "Odisha",
+     "values": [
+      null,
+      null,
+      33,
+      21,
+      16
+     ]
+    },
+    {
+     "name": "Puducherry PD",
+     "state": "Puducherry",
+     "values": [
+      null,
+      null,
+      200.03846471507723,
+      180.57814074224171,
+      null
+     ]
+    },
+    {
+     "name": "PSPCL",
+     "state": "Punjab",
+     "values": [
+      84,
+      86,
+      88,
+      89.22349199031132,
+      81
+     ]
+    },
+    {
+     "name": "AVVNL",
+     "state": "Rajasthan",
+     "values": [
+      21,
+      16,
+      12,
+      12.099205389663354,
+      13
+     ]
+    },
+    {
+     "name": "JdVVNL",
+     "state": "Rajasthan",
+     "values": [
+      60,
+      61,
+      41,
+      33,
+      49
+     ]
+    },
+    {
+     "name": "JVVNL",
+     "state": "Rajasthan",
+     "values": [
+      64,
+      60,
+      29,
+      30,
+      24
+     ]
+    },
+    {
+     "name": "Sikkim PD",
+     "state": "Sikkim",
+     "values": [
+      null,
+      null,
+      327.168354531778,
+      313.6780496712057,
+      null
+     ]
+    },
+    {
+     "name": "TANGEDCO",
+     "state": "Tamil Nadu",
+     "values": [
+      88,
+      71,
+      55,
+      58.14856440991714,
+      null
+     ]
+    },
+    {
+     "name": "TSNPDCL",
+     "state": "Telangana",
+     "values": [
+      275,
+      267,
+      326,
+      397.3778334670065,
+      461
+     ]
+    },
+    {
+     "name": "TSSPDCL",
+     "state": "Telangana",
+     "values": [
+      168,
+      130,
+      138,
+      168,
+      199
+     ]
+    },
+    {
+     "name": "TSECL",
+     "state": "Tripura",
+     "values": [
+      75,
+      84,
+      96,
+      204,
+      193
+     ]
+    },
+    {
+     "name": "DVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      617,
+      596,
+      449,
+      357,
+      292
+     ]
+    },
+    {
+     "name": "KESCO",
+     "state": "Uttar Pradesh",
+     "values": [
+      417,
+      425,
+      333,
+      248,
+      204
+     ]
+    },
+    {
+     "name": "MVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      569,
+      597,
+      375,
+      280,
+      373
+     ]
+    },
+    {
+     "name": "NPCL",
+     "state": "Uttar Pradesh",
+     "values": [
+      null,
+      null,
+      15,
+      14,
+      15
+     ]
+    },
+    {
+     "name": "PaVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      215,
+      220,
+      148,
+      150.33675029636427,
+      149
+     ]
+    },
+    {
+     "name": "PuVVNL",
+     "state": "Uttar Pradesh",
+     "values": [
+      841,
+      864,
+      700,
+      555,
+      457
+     ]
+    },
+    {
+     "name": "UPCL",
+     "state": "Uttarakhand",
+     "values": [
+      55,
+      17,
+      18,
+      18,
+      21
+     ]
+    },
+    {
+     "name": "CESC",
+     "state": "West Bengal",
+     "values": [
+      null,
+      null,
+      49.43368798907311,
+      0,
+      null
+     ]
+    },
+    {
+     "name": "IPCL",
+     "state": "West Bengal",
+     "values": [
+      null,
+      null,
+      53,
+      56,
+      62
+     ]
+    },
+    {
+     "name": "WBSEDCL",
+     "state": "West Bengal",
+     "values": [
+      72,
+      64,
+      59,
+      60,
+      60
+     ]
+    }
+   ],
+   "india": [
+    159,
+    142,
+    117,
+    113,
+    112
+   ],
+   "file": "https://rdss.powermin.gov.in:8443/dashboard/Receivable%20Days.xlsx"
+  }
+ },
+ "india_tiles": {
+  "sm_physical": 0,
+  "sm_financial": 0,
+  "lr_physical": 0,
+  "lr_financial": 0
+ },
+ "sources": {
+  "annual:atc": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "annual:acs_arr": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "annual:payable": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "annual:receivable": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "tiles": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:cm": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:cm:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:dm": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:dm:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:fm": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:fm:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:bm": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:bm:bihar": {
+   "ok": false,
+   "at": null,
+   "error": "table did not finish loading: https://rdss.powermin.gov.in/all-state-progress?chartfor=state&type=bm&id=5&sectionfor=TableSection"
+  },
+  "progress:LT": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:LT:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:HT": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:HT:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:DTR": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:DTR:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:SUB": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "progress:SUB:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "physical:sm": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "physical:sm:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "physical:ls": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "physical:ls:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "funds:sanctioned_cost": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "funds:sanctioned_cost:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "funds:gbs_sanctioned": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "funds:gbs_sanctioned:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "funds:gbs_released": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  },
+  "funds:gbs_released:bihar": {
+   "ok": true,
+   "at": "2026-11-19T18:24:32.446Z"
+  }
+ },
+ "errors": [
+  "progress:bm:bihar: table did not finish loading: https://rdss.powermin.gov.in/all-state-progress?chartfor=state&type=bm&id=5&sectionfor=TableSection"
+ ],
+ "ok": false
+}

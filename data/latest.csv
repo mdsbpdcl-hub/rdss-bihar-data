@@ -1,0 +1,853 @@
+section,measure,level,name,sanctioned,awarded,done,pct_or_value
+progress,cm,state,Andaman and Nicobar Islands,83573,69080,0,0
+progress,cm,state,Andhra Pradesh,5308345,5671063,3460841,65.2
+progress,cm,state,Arunachal Pradesh,287446,287446,103132,35.88
+progress,cm,state,Assam,6364798,6460098,5899465,92.69
+progress,cm,state,Bihar,2350000,2350000,2161490,91.98
+progress,cm,state,Chhattisgarh,5962115,7070288,4438578,74.45
+progress,cm,state,Goa,741160,741160,37016,4.99
+progress,cm,state,Gujarat,16487100,16471994,5954957,36.12
+progress,cm,state,Haryana,2960768,0,0,0
+progress,cm,state,Himachal Pradesh,2800945,2876187,1130672,40.37
+progress,cm,state,Jammu and Kashmir,1407045,1407046,1216819,86.48
+progress,cm,state,Jharkhand,1341306,1341306,858758,64.02
+progress,cm,state,Karnataka,0,0,0,0
+progress,cm,state,Kerala,13289361,196340,174311,1.31
+progress,cm,state,Madhya Pradesh,12980102,5037575,4039106,31.12
+progress,cm,state,Maharashtra,23564747,24808656,14422890,61.21
+progress,cm,state,Manipur,154400,154400,75415,48.84
+progress,cm,state,Meghalaya,460000,460000,0,0
+progress,cm,state,Mizoram,289383,289383,85151,29.43
+progress,cm,state,Nagaland,317210,317210,60510,19.08
+progress,cm,state,Puducherry,403767,403767,212770,52.7
+progress,cm,state,Punjab,8784807,0,0,0
+progress,cm,state,Rajasthan,14274956,14280085,5419561,37.97
+progress,cm,state,Sikkim,144680,144680,112495,77.75
+progress,cm,state,Tamil Nadu,30000000,0,0,0
+progress,cm,state,Tripura,447489,447489,329112,73.55
+progress,cm,state,Uttar Pradesh,26979055,26979055,10443219,38.71
+progress,cm,state,Uttarakhand,1587870,1587870,727943,45.84
+progress,cm,state,West Bengal,18717969,3714273,638297,3.41
+progress,cm,india,India,198490397,123566451,62002508,31.24
+progress,cm,bihar_discom,NBPDCL,1030000,1030000,927208,90.02
+progress,cm,bihar_discom,SBPDCL,1320000,1320000,1234282,93.51
+progress,dm,state,Andaman and Nicobar Islands,1148,1105,0,0
+progress,dm,state,Andhra Pradesh,293140,293140,147766,50.41
+progress,dm,state,Arunachal Pradesh,10116,10116,1462,14.45
+progress,dm,state,Assam,77547,94907,59043,76.14
+progress,dm,state,Bihar,250726,242534,205286,81.88
+progress,dm,state,Chhattisgarh,210644,267001,145468,69.06
+progress,dm,state,Delhi,766,0,0,0
+progress,dm,state,Goa,8369,8369,5112,61.08
+progress,dm,state,Gujarat,300487,316987,221436,73.69
+progress,dm,state,Haryana,94813,0,0,0
+progress,dm,state,Himachal Pradesh,39012,39826,24919,63.88
+progress,dm,state,Jammu and Kashmir,88037,82196,41991,47.7
+progress,dm,state,Jharkhand,19512,19512,2035,10.43
+progress,dm,state,Kerala,87615,92387,21035,24.01
+progress,dm,state,Madhya Pradesh,419396,424116,221768,52.88
+progress,dm,state,Maharashtra,410905,435205,376156,91.54
+progress,dm,state,Manipur,11451,11451,2396,20.92
+progress,dm,state,Meghalaya,11419,11419,0,0
+progress,dm,state,Mizoram,2300,2300,1518,66
+progress,dm,state,Nagaland,6276,6276,1170,18.64
+progress,dm,state,Puducherry,3105,3105,121,3.9
+progress,dm,state,Punjab,184044,184044,31457,17.09
+progress,dm,state,Rajasthan,434608,434608,54648,12.57
+progress,dm,state,Sikkim,3229,3229,1487,46.05
+progress,dm,state,Tamil Nadu,472500,0,0,0
+progress,dm,state,Tripura,14908,14160,9910,66.47
+progress,dm,state,Uttar Pradesh,1516383,1526801,448082,29.55
+progress,dm,state,Uttarakhand,59212,59212,21247,35.88
+progress,dm,state,West Bengal,305419,305419,103193,33.79
+progress,dm,india,India,5337087,4889425,2148706,40.26
+progress,dm,bihar_discom,NBPDCL,143683,135491,107392,74.74
+progress,dm,bihar_discom,SBPDCL,107043,107043,97894,91.45
+progress,fm,state,Andaman and Nicobar Islands,114,65,0,0
+progress,fm,state,Andhra Pradesh,18292,16591,13950,76.26
+progress,fm,state,Arunachal Pradesh,579,579,274,47.32
+progress,fm,state,Assam,2782,3441,2879,103.49
+progress,fm,state,Bihar,6427,6297,6272,97.59
+progress,fm,state,Chhattisgarh,5670,7773,6148,108.43
+progress,fm,state,Delhi,2695,0,0,0
+progress,fm,state,Goa,827,827,827,100
+progress,fm,state,Haryana,7433,0,0,0
+progress,fm,state,Himachal Pradesh,1269,1737,1645,129.63
+progress,fm,state,Jammu and Kashmir,2608,1485,1472,56.44
+progress,fm,state,Jharkhand,1226,1226,893,72.84
+progress,fm,state,Kerala,3519,3020,2906,82.58
+progress,fm,state,Madhya Pradesh,29708,28828,25994,87.5
+progress,fm,state,Maharashtra,28108,28108,33589,119.5
+progress,fm,state,Manipur,357,357,239,66.95
+progress,fm,state,Meghalaya,904,904,0,0
+progress,fm,state,Mizoram,398,398,256,64.32
+progress,fm,state,Nagaland,368,368,180,48.91
+progress,fm,state,Puducherry,180,180,145,80.56
+progress,fm,state,Punjab,12563,12563,12563,100
+progress,fm,state,Rajasthan,25629,22714,18006,70.26
+progress,fm,state,Sikkim,633,633,460,72.67
+progress,fm,state,Tamil Nadu,16974,10570,9350,55.08
+progress,fm,state,Tripura,473,473,473,100
+progress,fm,state,Uttar Pradesh,27000,20874,27807,102.99
+progress,fm,state,Uttarakhand,2602,2602,2773,106.57
+progress,fm,state,West Bengal,11874,11874,12108,101.97
+progress,fm,india,India,211212,184487,181209,85.79
+progress,fm,bihar_discom,NBPDCL,3806,3676,3651,95.93
+progress,fm,bihar_discom,SBPDCL,2621,2621,2621,100
+progress,bm,state,Andhra Pradesh,767,767,0,0
+progress,bm,state,Arunachal Pradesh,109,109,5,4.59
+progress,bm,state,Bihar,0,0,0,0
+progress,bm,state,Chhattisgarh,1050,542,0,0
+progress,bm,state,Delhi,60,0,0,0
+progress,bm,state,Goa,0,0,0,0
+progress,bm,state,Himachal Pradesh,682,682,0,0
+progress,bm,state,Jammu and Kashmir,0,0,0,0
+progress,bm,state,Kerala,2506,1213,36,1.44
+progress,bm,state,Madhya Pradesh,0,0,0,0
+progress,bm,state,Maharashtra,1106,1106,181,16.37
+progress,bm,state,Meghalaya,420,420,0,0
+progress,bm,state,Nagaland,24,24,0,0
+progress,bm,state,Rajasthan,1499,1499,144,9.61
+progress,bm,state,Sikkim,0,0,0,0
+progress,bm,state,Tamil Nadu,1300,0,0,0
+progress,bm,india,India,9523,6362,366,3.84
+progress,LT,state,Andaman and Nicobar Islands,464,464,0,0
+progress,LT,state,Andhra Pradesh,36737.31,37362.64,12350.81,33.62
+progress,LT,state,Arunachal Pradesh,4899.04,4897.59,1009.71,20.61
+progress,LT,state,Assam,19420.64,19660.38,13734.7,70.72
+progress,LT,state,Bihar,70862.98,70860.42,75976.67,107.22
+progress,LT,state,Chhattisgarh,62269.38,57708.56,35078.13,56.33
+progress,LT,state,Goa,252,252,252.2,100.08
+progress,LT,state,Gujarat,28832,25004.56,7827.18,27.15
+progress,LT,state,Haryana,17673.05,15527.55,7799.05,44.13
+progress,LT,state,Himachal Pradesh,6829.11,6900.95,276.26,4.05
+progress,LT,state,Jammu and Kashmir,31190.34,28482.88,15840.91,50.79
+progress,LT,state,Jharkhand,32955,32955,25643.8,77.81
+progress,LT,state,Karnataka,287.27,142.91,176,61.27
+progress,LT,state,Kerala,11131.99,11117.51,2691.11,24.17
+progress,LT,state,Ladakh,1069.5,1069.5,374.3,35
+progress,LT,state,Madhya Pradesh,39743.09,39288.56,29902.89,75.24
+progress,LT,state,Maharashtra,53805.98,52847.09,41569.07,77.26
+progress,LT,state,Manipur,3912.77,3912.77,699.12,17.87
+progress,LT,state,Meghalaya,6283.36,3622.86,1858.1,29.57
+progress,LT,state,Mizoram,913.8,601.38,505.94,55.37
+progress,LT,state,Nagaland,1468.89,1468.89,382.45,26.04
+progress,LT,state,Puducherry,245.84,255,24.1,9.81
+progress,LT,state,Punjab,7988.62,6514.27,414.66,5.19
+progress,LT,state,Rajasthan,129302.93,92070.34,31574.87,24.42
+progress,LT,state,Sikkim,1159.15,1159.15,376.87,32.51
+progress,LT,state,Tamil Nadu,19577.45,19577.49,465.16,2.38
+progress,LT,state,Tripura,9202.63,7619.41,7578.99,82.36
+progress,LT,state,Uttar Pradesh,182494.48,174054,146704.59,80.39
+progress,LT,state,Uttarakhand,9207.36,9173.82,4175.73,45.35
+progress,LT,state,West Bengal,132919.1,132919,91976,69.2
+progress,LT,india,India,923099.19,857490.61,557239.49,60.37
+progress,LT,bihar_discom,NBPDCL,34735.43,34732.73,37967.76,109.31
+progress,LT,bihar_discom,SBPDCL,36127.55,36127.69,38008.9,105.21
+progress,HT,state,Andaman and Nicobar Islands,513.5,513.5,0,0
+progress,HT,state,Andhra Pradesh,53484.92,54028.72,27345.03,51.13
+progress,HT,state,Arunachal Pradesh,3542,3538.6,765.73,21.62
+progress,HT,state,Assam,11740.52,15696.71,4294.03,36.57
+progress,HT,state,Bihar,43752.46,43932.98,32228.56,73.66
+progress,HT,state,Chhattisgarh,22289.71,20844.65,16463.58,73.86
+progress,HT,state,Delhi,6.59,18.46,0,0
+progress,HT,state,Goa,160.59,160.59,69.15,43.06
+progress,HT,state,Gujarat,26125.02,23818.86,18771.51,71.85
+progress,HT,state,Haryana,16611.93,16833.18,7471.45,44.98
+progress,HT,state,Himachal Pradesh,7440.57,7350.25,80.83,1.09
+progress,HT,state,Jammu and Kashmir,9645.62,8831.74,2478.57,25.7
+progress,HT,state,Jharkhand,8553,8553,2873.55,33.6
+progress,HT,state,Karnataka,234.35,81.01,0,0
+progress,HT,state,Kerala,5406.03,5394.32,2193.53,40.58
+progress,HT,state,Ladakh,1472.48,1463.48,37.6,2.55
+progress,HT,state,Madhya Pradesh,71229.25,68521.35,40220.74,56.47
+progress,HT,state,Maharashtra,96964.92,95252.21,38351.47,39.55
+progress,HT,state,Manipur,1521.54,1521.54,83.6,5.49
+progress,HT,state,Meghalaya,5169.89,4399.03,409.99,7.93
+progress,HT,state,Mizoram,449.49,127.13,116.63,25.95
+progress,HT,state,Nagaland,2179.69,2179.69,563.03,25.83
+progress,HT,state,Puducherry,214.03,192.09,0,0
+progress,HT,state,Punjab,20913.9,17233.41,1287.33,6.16
+progress,HT,state,Rajasthan,242991.8,213218.41,44629.93,18.37
+progress,HT,state,Sikkim,1720.02,1720.02,199.13,11.58
+progress,HT,state,Tamil Nadu,46179.26,46179.22,2562.66,5.55
+progress,HT,state,Tripura,1300.24,1130.03,821.2,63.16
+progress,HT,state,Uttar Pradesh,91151.05,88454,69529.08,76.28
+progress,HT,state,Uttarakhand,6569,6552.89,2868.59,43.67
+progress,HT,state,West Bengal,6876.63,5183.45,1884.71,27.41
+progress,HT,india,India,806410.12,762924.65,318601.35,39.51
+progress,HT,bihar_discom,NBPDCL,23634.87,23783.69,16518.68,69.89
+progress,HT,bihar_discom,SBPDCL,20117.58,20149.28,15709.88,78.09
+progress,DTR,state,Andaman and Nicobar Islands,443,443,0,0
+progress,DTR,state,Andhra Pradesh,50866,57569,21612,42.49
+progress,DTR,state,Arunachal Pradesh,1906,1909,600,31.48
+progress,DTR,state,Assam,9301,8887,5723,61.53
+progress,DTR,state,Bihar,52389,52325,54077,103.22
+progress,DTR,state,Chhattisgarh,19910,19545,11736,58.95
+progress,DTR,state,Goa,459,459,433,94.34
+progress,DTR,state,Gujarat,31555,29040,14077,44.61
+progress,DTR,state,Haryana,7849,5728,3197,40.73
+progress,DTR,state,Himachal Pradesh,10163,10159,951,9.36
+progress,DTR,state,Jammu and Kashmir,21144,19777,9060,42.85
+progress,DTR,state,Jharkhand,5395,5395,4697,87.06
+progress,DTR,state,Karnataka,205,136,0,0
+progress,DTR,state,Kerala,3048,2995,985,32.34
+progress,DTR,state,Ladakh,756,756,0,0
+progress,DTR,state,Madhya Pradesh,45133,43676,24611,54.53
+progress,DTR,state,Maharashtra,40210,38423,18674,46.44
+progress,DTR,state,Manipur,827,820,0,0
+progress,DTR,state,Meghalaya,4534,2595,993,21.9
+progress,DTR,state,Mizoram,325,0,0,0
+progress,DTR,state,Nagaland,1176,1176,356,30.31
+progress,DTR,state,Puducherry,158,158,58,36.71
+progress,DTR,state,Punjab,18190,17678,3557,19.56
+progress,DTR,state,Rajasthan,114614,93799,33863,29.55
+progress,DTR,state,Sikkim,58,58,0,0
+progress,DTR,state,Tamil Nadu,120331,120331,8349,6.94
+progress,DTR,state,Tripura,1067,989,936,87.72
+progress,DTR,state,Uttar Pradesh,27840,19393,10220,36.71
+progress,DTR,state,Uttarakhand,422,404,0,0
+progress,DTR,state,West Bengal,1437,917,477,33.19
+progress,DTR,india,India,591714.96,555541.85,229246.38,38.74
+progress,DTR,bihar_discom,NBPDCL,25570,25562,26259,102.69
+progress,DTR,bihar_discom,SBPDCL,26819,26763,27818,103.72
+progress,SUB,state,Andaman and Nicobar Islands,2,2,0,0
+progress,SUB,state,Arunachal Pradesh,5,5,0,0
+progress,SUB,state,Bihar,167,167,24,14.37
+progress,SUB,state,Gujarat,96,26,26,27.08
+progress,SUB,state,Haryana,157,137,70,44.59
+progress,SUB,state,Himachal Pradesh,48,48,0,0
+progress,SUB,state,Jammu and Kashmir,3,3,0,0
+progress,SUB,state,Kerala,2,1,0,0
+progress,SUB,state,Ladakh,14,14,0,0
+progress,SUB,state,Madhya Pradesh,383,383,362,94.52
+progress,SUB,state,Maharashtra,597,596,322,53.94
+progress,SUB,state,Punjab,180,176,122,67.78
+progress,SUB,state,Rajasthan,238,240,205,86.13
+progress,SUB,state,Sikkim,4,4,0,0
+progress,SUB,state,Uttar Pradesh,2002,2002,47,2.35
+progress,SUB,state,Uttarakhand,6,6,0,0
+progress,SUB,state,West Bengal,82,84,84,102.44
+progress,SUB,india,India,3986,3894,1262,31.66
+progress,SUB,bihar_discom,NBPDCL,91,91,8,8.79
+progress,SUB,bihar_discom,SBPDCL,76,76,16,21.05
+physical,sm,state,Andaman and Nicobar Islands,,,,0
+physical,sm,state,Andhra Pradesh,,,,64.45
+physical,sm,state,Arunachal Pradesh,,,,35.16
+physical,sm,state,Assam,,,,92.49
+physical,sm,state,Bihar,,,,91.02
+physical,sm,state,Chhattisgarh,,,,74.28
+physical,sm,state,Delhi,,,,0
+physical,sm,state,Goa,,,,5.72
+physical,sm,state,Gujarat,,,,36.79
+physical,sm,state,Haryana,,,,0
+physical,sm,state,Himachal Pradesh,,,,40.72
+physical,sm,state,Jammu and Kashmir,,,,84.15
+physical,sm,state,Jharkhand,,,,63.26
+physical,sm,state,Karnataka,,,,0
+physical,sm,state,Kerala,,,,1.48
+physical,sm,state,Madhya Pradesh,,,,31.92
+physical,sm,state,Maharashtra,,,,61.79
+physical,sm,state,Manipur,,,,46.96
+physical,sm,state,Meghalaya,,,,0
+physical,sm,state,Mizoram,,,,29.76
+physical,sm,state,Nagaland,,,,19.1
+physical,sm,state,Puducherry,,,,52.34
+physical,sm,state,Punjab,,,,0.49
+physical,sm,state,Rajasthan,,,,37.27
+physical,sm,state,Sikkim,,,,77.04
+physical,sm,state,Tamil Nadu,,,,0.03
+physical,sm,state,Tripura,,,,73.35
+physical,sm,state,Uttar Pradesh,,,,38.28
+physical,sm,state,Uttarakhand,,,,45.58
+physical,sm,state,West Bengal,,,,3.96
+physical,sm,bihar_discom,NBPDCL,,,,88.18
+physical,sm,bihar_discom,SBPDCL,,,,93.36
+physical,ls,state,Andaman and Nicobar Islands,,,,0
+physical,ls,state,Andhra Pradesh,,,,50.51
+physical,ls,state,Arunachal Pradesh,,,,40.98
+physical,ls,state,Assam,,,,66.28
+physical,ls,state,Bihar,,,,58.37
+physical,ls,state,Chhattisgarh,,,,61.72
+physical,ls,state,Delhi,,,,3.37
+physical,ls,state,Goa,,,,89.68
+physical,ls,state,Gujarat,,,,53.82
+physical,ls,state,Haryana,,,,22.63
+physical,ls,state,Himachal Pradesh,,,,9.32
+physical,ls,state,Jammu and Kashmir,,,,53.61
+physical,ls,state,Jharkhand,,,,66.35
+physical,ls,state,Karnataka,,,,7.45
+physical,ls,state,Kerala,,,,38.83
+physical,ls,state,Ladakh,,,,26.03
+physical,ls,state,Madhya Pradesh,,,,60.27
+physical,ls,state,Maharashtra,,,,47.48
+physical,ls,state,Manipur,,,,26.71
+physical,ls,state,Meghalaya,,,,30.71
+physical,ls,state,Mizoram,,,,59.72
+physical,ls,state,Nagaland,,,,44.92
+physical,ls,state,Puducherry,,,,48.93
+physical,ls,state,Punjab,,,,29.39
+physical,ls,state,Rajasthan,,,,25.38
+physical,ls,state,Sikkim,,,,24.43
+physical,ls,state,Tamil Nadu,,,,20.83
+physical,ls,state,Telangana,,,,5.64
+physical,ls,state,Tripura,,,,60.16
+physical,ls,state,Uttar Pradesh,,,,49.8
+physical,ls,state,Uttarakhand,,,,36.54
+physical,ls,state,West Bengal,,,,68.38
+physical,ls,bihar_discom,NBPDCL,,,,57.66
+physical,ls,bihar_discom,SBPDCL,,,,58.97
+funds,sanctioned_cost,state,Andaman and Nicobar Islands,,,,307.51
+funds,sanctioned_cost,state,Andhra Pradesh,,,,14658.02
+funds,sanctioned_cost,state,Arunachal Pradesh,,,,1225.59
+funds,sanctioned_cost,state,Assam,,,,7444.13
+funds,sanctioned_cost,state,Bihar,,,,12580.65
+funds,sanctioned_cost,state,Chhattisgarh,,,,8125.79
+funds,sanctioned_cost,state,Daman and Diu,,,,0
+funds,sanctioned_cost,state,Delhi,,,,337.02
+funds,sanctioned_cost,state,Goa,,,,716.25
+funds,sanctioned_cost,state,Gujarat,,,,16712.18
+funds,sanctioned_cost,state,Haryana,,,,8861.22
+funds,sanctioned_cost,state,Himachal Pradesh,,,,4115.79
+funds,sanctioned_cost,state,Jammu and Kashmir,,,,6097.59
+funds,sanctioned_cost,state,Jharkhand,,,,4200.69
+funds,sanctioned_cost,state,Karnataka,,,,44.91
+funds,sanctioned_cost,state,Kerala,,,,11337.68
+funds,sanctioned_cost,state,Ladakh,,,,875.79
+funds,sanctioned_cost,state,Lakshadweep,,,,0
+funds,sanctioned_cost,state,Madhya Pradesh,,,,18339.14
+funds,sanctioned_cost,state,Maharashtra,,,,32467.36
+funds,sanctioned_cost,state,Manipur,,,,747.74
+funds,sanctioned_cost,state,Meghalaya,,,,1541.76
+funds,sanctioned_cost,state,Mizoram,,,,503.38
+funds,sanctioned_cost,state,Nagaland,,,,673.68
+funds,sanctioned_cost,state,Odisha,,,,0
+funds,sanctioned_cost,state,Puducherry,,,,335.48
+funds,sanctioned_cost,state,Punjab,,,,9641.9
+funds,sanctioned_cost,state,Rajasthan,,,,28406.85
+funds,sanctioned_cost,state,Sikkim,,,,517.91
+funds,sanctioned_cost,state,Tamil Nadu,,,,28803.67
+funds,sanctioned_cost,state,Telangana,,,,118.64
+funds,sanctioned_cost,state,Tripura,,,,916.7
+funds,sanctioned_cost,state,Uttarakhand,,,,3417.66
+funds,sanctioned_cost,state,Uttar Pradesh,,,,41405.19
+funds,sanctioned_cost,state,West Bengal,,,,19893.05
+funds,sanctioned_cost,india,India,,,,285370.92
+funds,sanctioned_cost,bihar_discom,NBPDCL,,,,5794.81
+funds,sanctioned_cost,bihar_discom,SBPDCL,,,,6785.84
+funds,gbs_sanctioned,state,Andaman and Nicobar Islands,,,,240.79
+funds,gbs_sanctioned,state,Andhra Pradesh,,,,6958.97
+funds,gbs_sanctioned,state,Arunachal Pradesh,,,,979.88
+funds,gbs_sanctioned,state,Assam,,,,3975.56
+funds,gbs_sanctioned,state,Bihar,,,,6642.26
+funds,gbs_sanctioned,state,Chhattisgarh,,,,3000.04
+funds,gbs_sanctioned,state,Daman and Diu,,,,0
+funds,gbs_sanctioned,state,Delhi,,,,196.2
+funds,gbs_sanctioned,state,Goa,,,,219.41
+funds,gbs_sanctioned,state,Gujarat,,,,5264.79
+funds,gbs_sanctioned,state,Haryana,,,,4405.18
+funds,gbs_sanctioned,state,Himachal Pradesh,,,,2503.69
+funds,gbs_sanctioned,state,Jammu and Kashmir,,,,4773.95
+funds,gbs_sanctioned,state,Jharkhand,,,,2087.48
+funds,gbs_sanctioned,state,Karnataka,,,,37.24
+funds,gbs_sanctioned,state,Kerala,,,,3109.01
+funds,gbs_sanctioned,state,Ladakh,,,,788.2
+funds,gbs_sanctioned,state,Lakshadweep,,,,0
+funds,gbs_sanctioned,state,Madhya Pradesh,,,,7003.89
+funds,gbs_sanctioned,state,Maharashtra,,,,12672.92
+funds,gbs_sanctioned,state,Manipur,,,,591.62
+funds,gbs_sanctioned,state,Meghalaya,,,,1179.76
+funds,gbs_sanctioned,state,Mizoram,,,,331.12
+funds,gbs_sanctioned,state,Nagaland,,,,466.97
+funds,gbs_sanctioned,state,Odisha,,,,0
+funds,gbs_sanctioned,state,Puducherry,,,,88.7
+funds,gbs_sanctioned,state,Punjab,,,,3198.99
+funds,gbs_sanctioned,state,Rajasthan,,,,12688.43
+funds,gbs_sanctioned,state,Sikkim,,,,400.72
+funds,gbs_sanctioned,state,Tamil Nadu,,,,8658.66
+funds,gbs_sanctioned,state,Telangana,,,,71.18
+funds,gbs_sanctioned,state,Tripura,,,,611.19
+funds,gbs_sanctioned,state,Uttarakhand,,,,2386.98
+funds,gbs_sanctioned,state,Uttar Pradesh,,,,15951.88
+funds,gbs_sanctioned,state,West Bengal,,,,6255.42
+funds,gbs_sanctioned,india,India,,,,117741.08
+funds,gbs_sanctioned,bihar_discom,NBPDCL,,,,3042.93
+funds,gbs_sanctioned,bihar_discom,SBPDCL,,,,3599.33
+funds,gbs_released,state,Andaman and Nicobar Islands,,,,40.96
+funds,gbs_released,state,Andhra Pradesh,,,,3370.44
+funds,gbs_released,state,Arunachal Pradesh,,,,304.71
+funds,gbs_released,state,Assam,,,,2714.72
+funds,gbs_released,state,Bihar,,,,3978.49
+funds,gbs_released,state,Chhattisgarh,,,,1285.5
+funds,gbs_released,state,Delhi,,,,0
+funds,gbs_released,state,Goa,,,,40.48
+funds,gbs_released,state,Gujarat,,,,2038.62
+funds,gbs_released,state,Haryana,,,,854.77
+funds,gbs_released,state,Himachal Pradesh,,,,520.06
+funds,gbs_released,state,Jammu and Kashmir,,,,2369.15
+funds,gbs_released,state,Jharkhand,,,,598.4
+funds,gbs_released,state,Karnataka,,,,10.14
+funds,gbs_released,state,Kerala,,,,517.78
+funds,gbs_released,state,Ladakh,,,,218.83
+funds,gbs_released,state,Madhya Pradesh,,,,3494.8
+funds,gbs_released,state,Maharashtra,,,,5177.82
+funds,gbs_released,state,Manipur,,,,220.81
+funds,gbs_released,state,Meghalaya,,,,403.97
+funds,gbs_released,state,Mizoram,,,,103.31
+funds,gbs_released,state,Nagaland,,,,210.83
+funds,gbs_released,state,Puducherry,,,,17.4
+funds,gbs_released,state,Punjab,,,,950.09
+funds,gbs_released,state,Rajasthan,,,,4351.59
+funds,gbs_released,state,Sikkim,,,,205.81
+funds,gbs_released,state,Tamil Nadu,,,,1497.71
+funds,gbs_released,state,Telangana,,,,35.65
+funds,gbs_released,state,Tripura,,,,322.73
+funds,gbs_released,state,Uttar Pradesh,,,,7781.76
+funds,gbs_released,state,Uttarakhand,,,,813.75
+funds,gbs_released,state,West Bengal,,,,1893.73
+funds,gbs_released,india,India,,,,46344.82
+funds,gbs_released,bihar_discom,NBPDCL,,,,1788.5
+funds,gbs_released,bihar_discom,SBPDCL,,,,2189.99
+annual FY 2024-25,atc,state,Andaman and Nicobar Islands,,,,24.14
+annual FY 2024-25,atc,state,Andhra Pradesh,,,,7.87
+annual FY 2024-25,atc,state,Arunachal Pradesh,,,,46.2
+annual FY 2024-25,atc,state,Assam,,,,15.44
+annual FY 2024-25,atc,state,Bihar,,,,15.51
+annual FY 2024-25,atc,state,Chandigarh,,,,
+annual FY 2024-25,atc,state,Chhattisgarh,,,,14.25
+annual FY 2024-25,atc,state,DNH & DD,,,,
+annual FY 2024-25,atc,state,Delhi,,,,8.36
+annual FY 2024-25,atc,state,Goa,,,,10.39
+annual FY 2024-25,atc,state,Gujarat,,,,8.25
+annual FY 2024-25,atc,state,Haryana,,,,4.26
+annual FY 2024-25,atc,state,Himachal Pradesh,,,,19.44
+annual FY 2024-25,atc,state,Jammu and Kashmir,,,,
+annual FY 2024-25,atc,state,Jharkhand,,,,28.19
+annual FY 2024-25,atc,state,Karnataka,,,,11.92
+annual FY 2024-25,atc,state,Kerala,,,,6.61
+annual FY 2024-25,atc,state,Ladakh,,,,26.82
+annual FY 2024-25,atc,state,Lakshadweep,,,,
+annual FY 2024-25,atc,state,Madhya Pradesh,,,,22.76
+annual FY 2024-25,atc,state,Maharashtra,,,,17.69
+annual FY 2024-25,atc,state,Manipur,,,,12.9
+annual FY 2024-25,atc,state,Meghalaya,,,,17.52
+annual FY 2024-25,atc,state,Mizoram,,,,32.31
+annual FY 2024-25,atc,state,Nagaland,,,,48.86
+annual FY 2024-25,atc,state,Odisha,,,,
+annual FY 2024-25,atc,state,Puducherry,,,,14.72
+annual FY 2024-25,atc,state,Punjab,,,,19.21
+annual FY 2024-25,atc,state,Rajasthan,,,,15.18
+annual FY 2024-25,atc,state,Sikkim,,,,21.84
+annual FY 2024-25,atc,state,Tamil Nadu,,,,10.96
+annual FY 2024-25,atc,state,Telangana,,,,19.84
+annual FY 2024-25,atc,state,Tripura,,,,29.61
+annual FY 2024-25,atc,state,Uttar Pradesh,,,,19.54
+annual FY 2024-25,atc,state,Uttarakhand,,,,15.08
+annual FY 2024-25,atc,state,West Bengal,,,,17.17
+annual FY 2024-25,atc,discom,Andaman & Nicobar PD,,,,24.14
+annual FY 2024-25,atc,discom,APCPDCL,,,,7.95
+annual FY 2024-25,atc,discom,APEPDCL,,,,7.7
+annual FY 2024-25,atc,discom,APSPDCL,,,,7.99
+annual FY 2024-25,atc,discom,Arunachal PD,,,,46.2
+annual FY 2024-25,atc,discom,APDCL,,,,15.44
+annual FY 2024-25,atc,discom,NBPDCL,,,,14.49
+annual FY 2024-25,atc,discom,SBPDCL,,,,16.35
+annual FY 2024-25,atc,discom,Chandigarh PD,,,,
+annual FY 2024-25,atc,discom,CSPDCL,,,,14.25
+annual FY 2024-25,atc,discom,Daman & Diu PD,,,,
+annual FY 2024-25,atc,discom,DNHPDCL,,,,
+annual FY 2024-25,atc,discom,DNHDDPDCL,,,,
+annual FY 2024-25,atc,discom,NDMC,,,,8.36
+annual FY 2024-25,atc,discom,BRPL,,,,
+annual FY 2024-25,atc,discom,BYPL,,,,
+annual FY 2024-25,atc,discom,TPDDL,,,,
+annual FY 2024-25,atc,discom,Goa PD,,,,10.39
+annual FY 2024-25,atc,discom,DGVCL,,,,4.26
+annual FY 2024-25,atc,discom,MGVCL,,,,8.37
+annual FY 2024-25,atc,discom,PGVCL,,,,12.73
+annual FY 2024-25,atc,discom,Torrent Power Ahmedabad,,,,
+annual FY 2024-25,atc,discom,Torrent Power Surat,,,,
+annual FY 2024-25,atc,discom,UGVCL,,,,8.25
+annual FY 2024-25,atc,discom,DHBVNL,,,,8.37
+annual FY 2024-25,atc,discom,UHBVNL,,,,12.73
+annual FY 2024-25,atc,discom,HPSEBL,,,,19.44
+annual FY 2024-25,atc,discom,JPDCL,,,,
+annual FY 2024-25,atc,discom,KPDCL,,,,
+annual FY 2024-25,atc,discom,JKPDD,,,,
+annual FY 2024-25,atc,discom,JBVNL,,,,28.19
+annual FY 2024-25,atc,discom,BESCOM,,,,12.5
+annual FY 2024-25,atc,discom,CHESCOM,,,,8.76
+annual FY 2024-25,atc,discom,GESCOM,,,,13.48
+annual FY 2024-25,atc,discom,HESCOM,,,,12.14
+annual FY 2024-25,atc,discom,MESCOM,,,,10.02
+annual FY 2024-25,atc,discom,KSEBL,,,,6.61
+annual FY 2024-25,atc,discom,TCED,,,,6.94
+annual FY 2024-25,atc,discom,Ladakh PD,,,,26.82
+annual FY 2024-25,atc,discom,Lakshadweep ED,,,,
+annual FY 2024-25,atc,discom,MPMaKVVCL,,,,29.6
+annual FY 2024-25,atc,discom,MPPaKVVCL,,,,12.78
+annual FY 2024-25,atc,discom,MPPoKVVCL,,,,26.66
+annual FY 2024-25,atc,discom,AEML,,,,
+annual FY 2024-25,atc,discom,MSEDCL,,,,18.09
+annual FY 2024-25,atc,discom,BEST,,,,5.07
+annual FY 2024-25,atc,discom,TPML,,,,
+annual FY 2024-25,atc,discom,MSPDCL,,,,12.9
+annual FY 2024-25,atc,discom,MePDCL,,,,17.52
+annual FY 2024-25,atc,discom,Mizoram PD,,,,32.31
+annual FY 2024-25,atc,discom,Nagaland PD,,,,48.86
+annual FY 2024-25,atc,discom,TPNODL,,,,
+annual FY 2024-25,atc,discom,TPSODL,,,,
+annual FY 2024-25,atc,discom,TPWODL,,,,
+annual FY 2024-25,atc,discom,TPCODL,,,,
+annual FY 2024-25,atc,discom,NESCO Utility,,,,
+annual FY 2024-25,atc,discom,SOUTHCO Utility,,,,
+annual FY 2024-25,atc,discom,WESCO Utility,,,,
+annual FY 2024-25,atc,discom,Puducherry PD,,,,14.72
+annual FY 2024-25,atc,discom,PSPCL,,,,19.21
+annual FY 2024-25,atc,discom,AVVNL,,,,9.22
+annual FY 2024-25,atc,discom,JdVVNL,,,,21.42
+annual FY 2024-25,atc,discom,JVVNL,,,,13.75
+annual FY 2024-25,atc,discom,Sikkim PD,,,,21.84
+annual FY 2024-25,atc,discom,TANGEDCO,,,,
+annual FY 2024-25,atc,discom,TSNPDCL,,,,23.22
+annual FY 2024-25,atc,discom,TSSPDCL,,,,18.51
+annual FY 2024-25,atc,discom,TSECL,,,,29.61
+annual FY 2024-25,atc,discom,DVVNL,,,,19.7
+annual FY 2024-25,atc,discom,KESCO,,,,14.29
+annual FY 2024-25,atc,discom,MVVNL,,,,17.7
+annual FY 2024-25,atc,discom,NPCL,,,,
+annual FY 2024-25,atc,discom,PaVVNL,,,,11.91
+annual FY 2024-25,atc,discom,PuVVNL,,,,30.7
+annual FY 2024-25,atc,discom,UPCL,,,,15.08
+annual FY 2024-25,atc,discom,CESC,,,,
+annual FY 2024-25,atc,discom,IPCL,,,,
+annual FY 2024-25,atc,discom,WBSEDCL,,,,17.17
+annual FY 2024-25,atc,india,India,,,,15.04
+annual FY 2024-25,acs_arr,state,Andaman and Nicobar Islands,,,,2.51
+annual FY 2024-25,acs_arr,state,Andhra Pradesh,,,,-0.88
+annual FY 2024-25,acs_arr,state,Arunachal Pradesh,,,,0
+annual FY 2024-25,acs_arr,state,Assam,,,,-0.21
+annual FY 2024-25,acs_arr,state,Bihar,,,,-0.24
+annual FY 2024-25,acs_arr,state,Chandigarh,,,,
+annual FY 2024-25,acs_arr,state,Chhattisgarh,,,,-0.45
+annual FY 2024-25,acs_arr,state,DNH & DD,,,,
+annual FY 2024-25,acs_arr,state,Delhi,,,,
+annual FY 2024-25,acs_arr,state,Goa,,,,0.03
+annual FY 2024-25,acs_arr,state,Gujarat,,,,-0.42
+annual FY 2024-25,acs_arr,state,Haryana,,,,0.33
+annual FY 2024-25,acs_arr,state,Himachal Pradesh,,,,0.33
+annual FY 2024-25,acs_arr,state,Jammu and Kashmir,,,,
+annual FY 2024-25,acs_arr,state,Jharkhand,,,,0.37
+annual FY 2024-25,acs_arr,state,Karnataka,,,,0.99
+annual FY 2024-25,acs_arr,state,Kerala,,,,
+annual FY 2024-25,acs_arr,state,Ladakh,,,,
+annual FY 2024-25,acs_arr,state,Lakshadweep,,,,
+annual FY 2024-25,acs_arr,state,Madhya Pradesh,,,,0.13
+annual FY 2024-25,acs_arr,state,Maharashtra,,,,0.34
+annual FY 2024-25,acs_arr,state,Manipur,,,,0.82
+annual FY 2024-25,acs_arr,state,Meghalaya,,,,
+annual FY 2024-25,acs_arr,state,Mizoram,,,,
+annual FY 2024-25,acs_arr,state,Nagaland,,,,
+annual FY 2024-25,acs_arr,state,Odisha,,,,
+annual FY 2024-25,acs_arr,state,Puducherry,,,,
+annual FY 2024-25,acs_arr,state,Punjab,,,,
+annual FY 2024-25,acs_arr,state,Rajasthan,,,,0.3
+annual FY 2024-25,acs_arr,state,Sikkim,,,,
+annual FY 2024-25,acs_arr,state,Tamil Nadu,,,,-0.15
+annual FY 2024-25,acs_arr,state,Telangana,,,,1.24
+annual FY 2024-25,acs_arr,state,Tripura,,,,0.74
+annual FY 2024-25,acs_arr,state,Uttar Pradesh,,,,0.3
+annual FY 2024-25,acs_arr,state,Uttarakhand,,,,0.12
+annual FY 2024-25,acs_arr,state,West Bengal,,,,0.06
+annual FY 2024-25,acs_arr,discom,Andaman & Nicobar PD,,,,2.51
+annual FY 2024-25,acs_arr,discom,APCPDCL,,,,-1.14
+annual FY 2024-25,acs_arr,discom,APEPDCL,,,,-0.09
+annual FY 2024-25,acs_arr,discom,APSPDCL,,,,-1.49
+annual FY 2024-25,acs_arr,discom,Arunachal PD,,,,0
+annual FY 2024-25,acs_arr,discom,APDCL,,,,-0.21
+annual FY 2024-25,acs_arr,discom,NBPDCL,,,,-0.33
+annual FY 2024-25,acs_arr,discom,SBPDCL,,,,-0.17
+annual FY 2024-25,acs_arr,discom,Chandigarh PD,,,,
+annual FY 2024-25,acs_arr,discom,CSPDCL,,,,-0.45
+annual FY 2024-25,acs_arr,discom,Daman & Diu PD,,,,
+annual FY 2024-25,acs_arr,discom,DNHPDCL,,,,
+annual FY 2024-25,acs_arr,discom,DNHDDPDCL,,,,
+annual FY 2024-25,acs_arr,discom,NDMC,,,,
+annual FY 2024-25,acs_arr,discom,BRPL,,,,-0.93
+annual FY 2024-25,acs_arr,discom,BYPL,,,,-1
+annual FY 2024-25,acs_arr,discom,TPDDL,,,,-1.59
+annual FY 2024-25,acs_arr,discom,Goa PD,,,,0.03
+annual FY 2024-25,acs_arr,discom,DGVCL,,,,-0.45
+annual FY 2024-25,acs_arr,discom,MGVCL,,,,-0.38
+annual FY 2024-25,acs_arr,discom,PGVCL,,,,-0.46
+annual FY 2024-25,acs_arr,discom,Torrent Power Ahmedabad,,,,
+annual FY 2024-25,acs_arr,discom,Torrent Power Surat,,,,
+annual FY 2024-25,acs_arr,discom,UGVCL,,,,-0.35
+annual FY 2024-25,acs_arr,discom,DHBVNL,,,,0.25
+annual FY 2024-25,acs_arr,discom,UHBVNL,,,,0.46
+annual FY 2024-25,acs_arr,discom,HPSEBL,,,,0.33
+annual FY 2024-25,acs_arr,discom,JPDCL,,,,
+annual FY 2024-25,acs_arr,discom,KPDCL,,,,
+annual FY 2024-25,acs_arr,discom,JKPDD,,,,
+annual FY 2024-25,acs_arr,discom,JBVNL,,,,0.37
+annual FY 2024-25,acs_arr,discom,BESCOM,,,,1.38
+annual FY 2024-25,acs_arr,discom,CHESCOM,,,,0.79
+annual FY 2024-25,acs_arr,discom,GESCOM,,,,0.82
+annual FY 2024-25,acs_arr,discom,HESCOM,,,,0.59
+annual FY 2024-25,acs_arr,discom,MESCOM,,,,0.18
+annual FY 2024-25,acs_arr,discom,KSEBL,,,,-0.29
+annual FY 2024-25,acs_arr,discom,TCED,,,,-0.08
+annual FY 2024-25,acs_arr,discom,Ladakh PD,,,,-0.35
+annual FY 2024-25,acs_arr,discom,Lakshadweep ED,,,,
+annual FY 2024-25,acs_arr,discom,MPMaKVVCL,,,,0.56
+annual FY 2024-25,acs_arr,discom,MPPaKVVCL,,,,-0.29
+annual FY 2024-25,acs_arr,discom,MPPoKVVCL,,,,0.15
+annual FY 2024-25,acs_arr,discom,AEML,,,,
+annual FY 2024-25,acs_arr,discom,MSEDCL,,,,0.37
+annual FY 2024-25,acs_arr,discom,BEST,,,,-0.68
+annual FY 2024-25,acs_arr,discom,TPML,,,,
+annual FY 2024-25,acs_arr,discom,MSPDCL,,,,0.82
+annual FY 2024-25,acs_arr,discom,MePDCL,,,,-0.18
+annual FY 2024-25,acs_arr,discom,Mizoram PD,,,,-0.14
+annual FY 2024-25,acs_arr,discom,Nagaland PD,,,,-0.11
+annual FY 2024-25,acs_arr,discom,TPNODL,,,,
+annual FY 2024-25,acs_arr,discom,TPSODL,,,,
+annual FY 2024-25,acs_arr,discom,TPWODL,,,,
+annual FY 2024-25,acs_arr,discom,TPCODL,,,,
+annual FY 2024-25,acs_arr,discom,NESCO Utility,,,,
+annual FY 2024-25,acs_arr,discom,SOUTHCO Utility,,,,
+annual FY 2024-25,acs_arr,discom,WESCO Utility,,,,
+annual FY 2024-25,acs_arr,discom,Puducherry PD,,,,-0.32
+annual FY 2024-25,acs_arr,discom,PSPCL,,,,-0.31
+annual FY 2024-25,acs_arr,discom,AVVNL,,,,0.8
+annual FY 2024-25,acs_arr,discom,JdVVNL,,,,0.06
+annual FY 2024-25,acs_arr,discom,JVVNL,,,,0.16
+annual FY 2024-25,acs_arr,discom,Sikkim PD,,,,-2.3
+annual FY 2024-25,acs_arr,discom,TANGEDCO,,,,
+annual FY 2024-25,acs_arr,discom,TSNPDCL,,,,1.49
+annual FY 2024-25,acs_arr,discom,TSSPDCL,,,,1.14
+annual FY 2024-25,acs_arr,discom,TSECL,,,,0.74
+annual FY 2024-25,acs_arr,discom,DVVNL,,,,0.16
+annual FY 2024-25,acs_arr,discom,KESCO,,,,0.5
+annual FY 2024-25,acs_arr,discom,MVVNL,,,,0.79
+annual FY 2024-25,acs_arr,discom,NPCL,,,,
+annual FY 2024-25,acs_arr,discom,PaVVNL,,,,-0.24
+annual FY 2024-25,acs_arr,discom,PuVVNL,,,,0.59
+annual FY 2024-25,acs_arr,discom,UPCL,,,,0.12
+annual FY 2024-25,acs_arr,discom,CESC,,,,
+annual FY 2024-25,acs_arr,discom,IPCL,,,,
+annual FY 2024-25,acs_arr,discom,WBSEDCL,,,,0.06
+annual FY 2024-25,acs_arr,india,India,,,,0.07
+annual FY 2024-25,payable,state,Andaman and Nicobar Islands,,,,
+annual FY 2024-25,payable,state,Andhra Pradesh,,,,105
+annual FY 2024-25,payable,state,Arunachal Pradesh,,,,
+annual FY 2024-25,payable,state,Assam,,,,62
+annual FY 2024-25,payable,state,Bihar,,,,97
+annual FY 2024-25,payable,state,Chandigarh,,,,
+annual FY 2024-25,payable,state,Chhattisgarh,,,,82
+annual FY 2024-25,payable,state,DNH & DD,,,,
+annual FY 2024-25,payable,state,Delhi,,,,263
+annual FY 2024-25,payable,state,Goa,,,,
+annual FY 2024-25,payable,state,Gujarat,,,,4
+annual FY 2024-25,payable,state,Haryana,,,,46
+annual FY 2024-25,payable,state,Himachal Pradesh,,,,80
+annual FY 2024-25,payable,state,Jammu and Kashmir,,,,
+annual FY 2024-25,payable,state,Jharkhand,,,,384
+annual FY 2024-25,payable,state,Karnataka,,,,137
+annual FY 2024-25,payable,state,Kerala,,,,69
+annual FY 2024-25,payable,state,Ladakh,,,,
+annual FY 2024-25,payable,state,Lakshadweep,,,,
+annual FY 2024-25,payable,state,Madhya Pradesh,,,,208
+annual FY 2024-25,payable,state,Maharashtra,,,,94
+annual FY 2024-25,payable,state,Manipur,,,,74
+annual FY 2024-25,payable,state,Meghalaya,,,,193
+annual FY 2024-25,payable,state,Mizoram,,,,
+annual FY 2024-25,payable,state,Nagaland,,,,
+annual FY 2024-25,payable,state,Odisha,,,,57
+annual FY 2024-25,payable,state,Puducherry,,,,
+annual FY 2024-25,payable,state,Punjab,,,,45
+annual FY 2024-25,payable,state,Rajasthan,,,,51
+annual FY 2024-25,payable,state,Sikkim,,,,
+annual FY 2024-25,payable,state,Tamil Nadu,,,,78
+annual FY 2024-25,payable,state,Telangana,,,,295
+annual FY 2024-25,payable,state,Tripura,,,,91
+annual FY 2024-25,payable,state,Uttar Pradesh,,,,159
+annual FY 2024-25,payable,state,Uttarakhand,,,,72
+annual FY 2024-25,payable,state,West Bengal,,,,172
+annual FY 2024-25,payable,discom,Andaman & Nicobar PD,,,,
+annual FY 2024-25,payable,discom,APCPDCL,,,,83
+annual FY 2024-25,payable,discom,APEPDCL,,,,113
+annual FY 2024-25,payable,discom,APSPDCL,,,,109
+annual FY 2024-25,payable,discom,Arunachal PD,,,,
+annual FY 2024-25,payable,discom,APDCL,,,,62
+annual FY 2024-25,payable,discom,NBPDCL,,,,69
+annual FY 2024-25,payable,discom,SBPDCL,,,,121
+annual FY 2024-25,payable,discom,Chandigarh PD,,,,
+annual FY 2024-25,payable,discom,CSPDCL,,,,82
+annual FY 2024-25,payable,discom,Daman & Diu PD,,,,
+annual FY 2024-25,payable,discom,DNHPDCL,,,,
+annual FY 2024-25,payable,discom,DNHDDPDCL,,,,
+annual FY 2024-25,payable,discom,BRPL,,,,280
+annual FY 2024-25,payable,discom,BYPL,,,,596
+annual FY 2024-25,payable,discom,TPDDL,,,,29
+annual FY 2024-25,payable,discom,Goa PD,,,,
+annual FY 2024-25,payable,discom,DGVCL,,,,2
+annual FY 2024-25,payable,discom,MGVCL,,,,8
+annual FY 2024-25,payable,discom,PGVCL,,,,5
+annual FY 2024-25,payable,discom,Torrent Power Ahmedabad,,,,25
+annual FY 2024-25,payable,discom,Torrent Power Surat,,,,41
+annual FY 2024-25,payable,discom,UGVCL,,,,2
+annual FY 2024-25,payable,discom,DHBVNL,,,,50
+annual FY 2024-25,payable,discom,UHBVNL,,,,40
+annual FY 2024-25,payable,discom,HPSEBL,,,,80
+annual FY 2024-25,payable,discom,JKPDD,,,,
+annual FY 2024-25,payable,discom,JBVNL,,,,384
+annual FY 2024-25,payable,discom,BESCOM,,,,134
+annual FY 2024-25,payable,discom,CHESCOM,,,,145
+annual FY 2024-25,payable,discom,GESCOM,,,,61
+annual FY 2024-25,payable,discom,HESCOM,,,,181
+annual FY 2024-25,payable,discom,MESCOM,,,,154
+annual FY 2024-25,payable,discom,KSEBL,,,,69
+annual FY 2024-25,payable,discom,Ladakh PD,,,,
+annual FY 2024-25,payable,discom,Lakshadweep ED,,,,
+annual FY 2024-25,payable,discom,MPMaKVVCL,,,,323
+annual FY 2024-25,payable,discom,MPPaKVVCL,,,,39
+annual FY 2024-25,payable,discom,MPPoKVVCL,,,,298
+annual FY 2024-25,payable,discom,AEML,,,,25
+annual FY 2024-25,payable,discom,MSEDCL,,,,94
+annual FY 2024-25,payable,discom,BEST,,,,
+annual FY 2024-25,payable,discom,MSPDCL,,,,74
+annual FY 2024-25,payable,discom,MePDCL,,,,193
+annual FY 2024-25,payable,discom,Mizoram PD,,,,
+annual FY 2024-25,payable,discom,Nagaland PD,,,,
+annual FY 2024-25,payable,discom,TPNODL,,,,56
+annual FY 2024-25,payable,discom,TPSODL,,,,41
+annual FY 2024-25,payable,discom,TPWODL,,,,64
+annual FY 2024-25,payable,discom,TPCODL,,,,54
+annual FY 2024-25,payable,discom,Puducherry PD,,,,
+annual FY 2024-25,payable,discom,PSPCL,,,,45
+annual FY 2024-25,payable,discom,AVVNL,,,,52
+annual FY 2024-25,payable,discom,JdVVNL,,,,57
+annual FY 2024-25,payable,discom,JVVNL,,,,46
+annual FY 2024-25,payable,discom,Sikkim PD,,,,
+annual FY 2024-25,payable,discom,TANGEDCO,,,,78
+annual FY 2024-25,payable,discom,TSNPDCL,,,,280
+annual FY 2024-25,payable,discom,TSSPDCL,,,,302
+annual FY 2024-25,payable,discom,TSECL,,,,91
+annual FY 2024-25,payable,discom,DVVNL,,,,228
+annual FY 2024-25,payable,discom,KESCO,,,,171
+annual FY 2024-25,payable,discom,MVVNL,,,,198
+annual FY 2024-25,payable,discom,NPCL,,,,40
+annual FY 2024-25,payable,discom,PaVVNL,,,,20
+annual FY 2024-25,payable,discom,PuVVNL,,,,240
+annual FY 2024-25,payable,discom,UPCL,,,,72
+annual FY 2024-25,payable,discom,CESC,,,,
+annual FY 2024-25,payable,discom,IPCL,,,,108
+annual FY 2024-25,payable,discom,WBSEDCL,,,,172
+annual FY 2024-25,payable,india,India,,,,113
+annual FY 2024-25,receivable,state,Andaman and Nicobar Islands,,,,
+annual FY 2024-25,receivable,state,Andhra Pradesh,,,,91
+annual FY 2024-25,receivable,state,Arunachal Pradesh,,,,
+annual FY 2024-25,receivable,state,Assam,,,,46
+annual FY 2024-25,receivable,state,Bihar,,,,227
+annual FY 2024-25,receivable,state,Chandigarh,,,,
+annual FY 2024-25,receivable,state,Chhattisgarh,,,,82
+annual FY 2024-25,receivable,state,DNH & DD,,,,
+annual FY 2024-25,receivable,state,Delhi,,,,8
+annual FY 2024-25,receivable,state,Goa,,,,
+annual FY 2024-25,receivable,state,Gujarat,,,,6
+annual FY 2024-25,receivable,state,Haryana,,,,61
+annual FY 2024-25,receivable,state,Himachal Pradesh,,,,27
+annual FY 2024-25,receivable,state,Jammu and Kashmir,,,,
+annual FY 2024-25,receivable,state,Jharkhand,,,,363
+annual FY 2024-25,receivable,state,Karnataka,,,,76
+annual FY 2024-25,receivable,state,Kerala,,,,37
+annual FY 2024-25,receivable,state,Ladakh,,,,
+annual FY 2024-25,receivable,state,Lakshadweep,,,,
+annual FY 2024-25,receivable,state,Madhya Pradesh,,,,174
+annual FY 2024-25,receivable,state,Maharashtra,,,,187
+annual FY 2024-25,receivable,state,Manipur,,,,432
+annual FY 2024-25,receivable,state,Meghalaya,,,,134
+annual FY 2024-25,receivable,state,Mizoram,,,,
+annual FY 2024-25,receivable,state,Nagaland,,,,
+annual FY 2024-25,receivable,state,Odisha,,,,23
+annual FY 2024-25,receivable,state,Puducherry,,,,
+annual FY 2024-25,receivable,state,Punjab,,,,81
+annual FY 2024-25,receivable,state,Rajasthan,,,,26
+annual FY 2024-25,receivable,state,Sikkim,,,,
+annual FY 2024-25,receivable,state,Tamil Nadu,,,,56
+annual FY 2024-25,receivable,state,Telangana,,,,257
+annual FY 2024-25,receivable,state,Tripura,,,,193
+annual FY 2024-25,receivable,state,Uttar Pradesh,,,,295
+annual FY 2024-25,receivable,state,Uttarakhand,,,,21
+annual FY 2024-25,receivable,state,West Bengal,,,,60
+annual FY 2024-25,receivable,discom,APCPDCL,,,,54
+annual FY 2024-25,receivable,discom,APEPDCL,,,,62
+annual FY 2024-25,receivable,discom,APSPDCL,,,,153
+annual FY 2024-25,receivable,discom,Arunachal PD,,,,
+annual FY 2024-25,receivable,discom,APDCL,,,,46
+annual FY 2024-25,receivable,discom,NBPDCL,,,,163
+annual FY 2024-25,receivable,discom,SBPDCL,,,,284
+annual FY 2024-25,receivable,discom,Chandigarh PD,,,,
+annual FY 2024-25,receivable,discom,CSPDCL,,,,82
+annual FY 2024-25,receivable,discom,Daman & Diu PD,,,,
+annual FY 2024-25,receivable,discom,DNHPDCL,,,,
+annual FY 2024-25,receivable,discom,DNHDDPDCL,,,,
+annual FY 2024-25,receivable,discom,BRPL,,,,9
+annual FY 2024-25,receivable,discom,BYPL,,,,9
+annual FY 2024-25,receivable,discom,TPDDL,,,,5
+annual FY 2024-25,receivable,discom,Goa PD,,,,
+annual FY 2024-25,receivable,discom,DGVCL,,,,1
+annual FY 2024-25,receivable,discom,MGVCL,,,,10
+annual FY 2024-25,receivable,discom,PGVCL,,,,11
+annual FY 2024-25,receivable,discom,Torrent Power Ahmedabad,,,,30
+annual FY 2024-25,receivable,discom,Torrent Power Surat,,,,29
+annual FY 2024-25,receivable,discom,UGVCL,,,,1
+annual FY 2024-25,receivable,discom,DHBVNL,,,,76
+annual FY 2024-25,receivable,discom,UHBVNL,,,,41
+annual FY 2024-25,receivable,discom,HPSEBL,,,,27
+annual FY 2024-25,receivable,discom,JKPDD,,,,
+annual FY 2024-25,receivable,discom,JBVNL,,,,363
+annual FY 2024-25,receivable,discom,BESCOM,,,,43
+annual FY 2024-25,receivable,discom,CHESCOM,,,,108
+annual FY 2024-25,receivable,discom,GESCOM,,,,144
+annual FY 2024-25,receivable,discom,HESCOM,,,,165
+annual FY 2024-25,receivable,discom,MESCOM,,,,67
+annual FY 2024-25,receivable,discom,KSEBL,,,,37
+annual FY 2024-25,receivable,discom,Ladakh PD,,,,
+annual FY 2024-25,receivable,discom,Lakshadweep ED,,,,
+annual FY 2024-25,receivable,discom,MPMaKVVCL,,,,264
+annual FY 2024-25,receivable,discom,MPPaKVVCL,,,,86
+annual FY 2024-25,receivable,discom,MPPoKVVCL,,,,198
+annual FY 2024-25,receivable,discom,AEML,,,,15
+annual FY 2024-25,receivable,discom,MSEDCL,,,,187
+annual FY 2024-25,receivable,discom,BEST,,,,
+annual FY 2024-25,receivable,discom,MSPDCL,,,,432
+annual FY 2024-25,receivable,discom,MePDCL,,,,134
+annual FY 2024-25,receivable,discom,Mizoram PD,,,,
+annual FY 2024-25,receivable,discom,Nagaland PD,,,,
+annual FY 2024-25,receivable,discom,TPNODL,,,,10
+annual FY 2024-25,receivable,discom,TPSODL,,,,63
+annual FY 2024-25,receivable,discom,TPWODL,,,,25
+annual FY 2024-25,receivable,discom,TPCODL,,,,16
+annual FY 2024-25,receivable,discom,Puducherry PD,,,,
+annual FY 2024-25,receivable,discom,PSPCL,,,,81
+annual FY 2024-25,receivable,discom,AVVNL,,,,13
+annual FY 2024-25,receivable,discom,JdVVNL,,,,49
+annual FY 2024-25,receivable,discom,JVVNL,,,,24
+annual FY 2024-25,receivable,discom,Sikkim PD,,,,
+annual FY 2024-25,receivable,discom,TANGEDCO,,,,
+annual FY 2024-25,receivable,discom,TSNPDCL,,,,461
+annual FY 2024-25,receivable,discom,TSSPDCL,,,,199
+annual FY 2024-25,receivable,discom,TSECL,,,,193
+annual FY 2024-25,receivable,discom,DVVNL,,,,292
+annual FY 2024-25,receivable,discom,KESCO,,,,204
+annual FY 2024-25,receivable,discom,MVVNL,,,,373
+annual FY 2024-25,receivable,discom,NPCL,,,,15
+annual FY 2024-25,receivable,discom,PaVVNL,,,,149
+annual FY 2024-25,receivable,discom,PuVVNL,,,,457
+annual FY 2024-25,receivable,discom,UPCL,,,,21
+annual FY 2024-25,receivable,discom,CESC,,,,
+annual FY 2024-25,receivable,discom,IPCL,,,,62
+annual FY 2024-25,receivable,discom,WBSEDCL,,,,60
+annual FY 2024-25,receivable,india,India,,,,112
