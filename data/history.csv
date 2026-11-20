@@ -55,7 +55,7 @@ date,measure,entity,value,bihar_rank,of
 2026-11-20,LT,Bihar,107.22,1,30
 2026-11-20,LT,SBPDCL,105.21,,
 2026-11-20,LT,NBPDCL,109.31,,
-2026-11-20,LT,India,60.37,,
+2026-11-20,LT,India,60.39,,
 2026-11-20,HT,Bihar,73.66,3,31
 2026-11-20,HT,SBPDCL,78.09,,
 2026-11-20,HT,NBPDCL,69.89,,
@@ -63,7 +63,7 @@ date,measure,entity,value,bihar_rank,of
 2026-11-20,DTR,Bihar,103.22,1,30
 2026-11-20,DTR,SBPDCL,103.72,,
 2026-11-20,DTR,NBPDCL,102.69,,
-2026-11-20,DTR,India,38.74,,
+2026-11-20,DTR,India,38.77,,
 2026-11-20,SUB,Bihar,14.37,8,17
 2026-11-20,SUB,SBPDCL,21.05,,
 2026-11-20,SUB,NBPDCL,8.79,,
@@ -77,5 +77,5 @@ date,measure,entity,value,bihar_rank,of
 2026-11-20,phys_sm,India,31.53,,
 2026-11-20,phys_ls,India,47.33,,
 2026-11-20,gbs_release_pct,Bihar,59.9,2,32
-2026-11-20,gbs_release_pct,India,39.36,,
+2026-11-20,gbs_release_pct,India,39.37,,
 2026-11-20,gbs_released,Bihar,3978.49,,
