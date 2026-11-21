@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-21T02:20:42.598Z",
+ "fetched_at": "2026-11-21T14:16:16.424Z",
  "source": "https://rdss.powermin.gov.in/dashboard",
  "progress": {
   "cm": {
@@ -69,8 +69,8 @@
      "id": 11,
      "sanctioned": 16487100,
      "awarded": 16471994,
-     "done": 5961112,
-     "pct": 36.16
+     "done": 5970854,
+     "pct": 36.22
     },
     {
      "name": "Haryana",
@@ -197,8 +197,8 @@
      "id": 29,
      "sanctioned": 144680,
      "awarded": 144680,
-     "done": 112495,
-     "pct": 77.75
+     "done": 113095,
+     "pct": 78.17
     },
     {
      "name": "Tamil Nadu",
@@ -246,8 +246,8 @@
     "id": 999999999,
     "sanctioned": 198490394,
     "awarded": 123566451,
-    "done": 62013924,
-    "pct": 31.24
+    "done": 62024266,
+    "pct": 31.25
    },
    "bihar_discoms": [
     {
@@ -962,8 +962,8 @@
     {
      "name": "Arunachal Pradesh",
      "id": 3,
-     "sanctioned": 4899.03,
-     "awarded": 4897.58,
+     "sanctioned": 4899.04,
+     "awarded": 4897.59,
      "done": 1027.35,
      "pct": 20.97
     },
@@ -971,7 +971,7 @@
      "name": "Assam",
      "id": 4,
      "sanctioned": 19420.64,
-     "awarded": 19660.38,
+     "awarded": 19660.37,
      "done": 13734.7,
      "pct": 70.72
     },
@@ -1074,7 +1074,7 @@
     {
      "name": "Maharashtra",
      "id": 20,
-     "sanctioned": 53805.98,
+     "sanctioned": 53805.97,
      "awarded": 52847.09,
      "done": 41569.07,
      "pct": 77.26
@@ -1082,15 +1082,15 @@
     {
      "name": "Manipur",
      "id": 21,
-     "sanctioned": 3912.78,
-     "awarded": 3912.78,
+     "sanctioned": 3912.77,
+     "awarded": 3912.77,
      "done": 699.12,
      "pct": 17.87
     },
     {
      "name": "Meghalaya",
      "id": 22,
-     "sanctioned": 6283.36,
+     "sanctioned": 6283.37,
      "awarded": 3622.86,
      "done": 1858.1,
      "pct": 29.57
@@ -1122,7 +1122,7 @@
     {
      "name": "Punjab",
      "id": 27,
-     "sanctioned": 7988.61,
+     "sanctioned": 7988.62,
      "awarded": 6514.27,
      "done": 418.21,
      "pct": 5.24
@@ -1132,7 +1132,7 @@
      "id": 28,
      "sanctioned": 129302.93,
      "awarded": 92070.34,
-     "done": 31728.53,
+     "done": 31735.53,
      "pct": 24.54
     },
     {
@@ -1156,7 +1156,7 @@
      "id": 33,
      "sanctioned": 9202.63,
      "awarded": 7619.41,
-     "done": 75799,
+     "done": 75795.4,
      "pct": 82.36
     },
     {
@@ -1189,7 +1189,7 @@
     "id": 999999999,
     "sanctioned": 923099.19,
     "awarded": 857490.61,
-    "done": 557448.55,
+    "done": 557455.55,
     "pct": 60.39
    },
    "bihar_discoms": [
@@ -1252,7 +1252,7 @@
     {
      "name": "Bihar",
      "id": 5,
-     "sanctioned": 43752.45,
+     "sanctioned": 43752.46,
      "awarded": 43932.98,
      "done": 32228.56,
      "pct": 73.66
@@ -1292,7 +1292,7 @@
     {
      "name": "Haryana",
      "id": 12,
-     "sanctioned": 16611.94,
+     "sanctioned": 16611.93,
      "awarded": 16833.17,
      "done": 7471.45,
      "pct": 44.98
@@ -1310,7 +1310,7 @@
      "id": 14,
      "sanctioned": 9645.62,
      "awarded": 8831.74,
-     "done": 2478.57,
+     "done": 2478.58,
      "pct": 25.7
     },
     {
@@ -1373,14 +1373,14 @@
      "name": "Meghalaya",
      "id": 22,
      "sanctioned": 5169.88,
-     "awarded": 4399.02,
-     "done": 410,
+     "awarded": 4399.03,
+     "done": 4101.1,
      "pct": 7.93
     },
     {
      "name": "Mizoram",
      "id": 23,
-     "sanctioned": 449.48,
+     "sanctioned": 449.49,
      "awarded": 127.13,
      "done": 116.63,
      "pct": 25.95
@@ -1404,7 +1404,7 @@
     {
      "name": "Punjab",
      "id": 27,
-     "sanctioned": 20913.9,
+     "sanctioned": 20913.91,
      "awarded": 17233.41,
      "done": 1287.33,
      "pct": 6.16
@@ -1414,14 +1414,14 @@
      "id": 28,
      "sanctioned": 242991.8,
      "awarded": 213218.41,
-     "done": 44625.28,
-     "pct": 18.36
+     "done": 44750.78,
+     "pct": 18.42
     },
     {
      "name": "Sikkim",
      "id": 29,
-     "sanctioned": 1720.02,
-     "awarded": 1720.02,
+     "sanctioned": 1720.01,
+     "awarded": 1720.01,
      "done": 199.13,
      "pct": 11.58
     },
@@ -1436,7 +1436,7 @@
     {
      "name": "Tripura",
      "id": 33,
-     "sanctioned": 1300.24,
+     "sanctioned": 1300.23,
      "awarded": 1130.03,
      "done": 821.2,
      "pct": 63.16
@@ -1471,8 +1471,8 @@
     "id": 999999999,
     "sanctioned": 806410.12,
     "awarded": 762924.65,
-    "done": 318644.3,
-    "pct": 39.51
+    "done": 318769.8,
+    "pct": 39.53
    },
    "bihar_discoms": [
     {
@@ -1486,7 +1486,7 @@
     {
      "name": "SBPDCL",
      "id": 53,
-     "sanctioned": 20117.58,
+     "sanctioned": 20117.57,
      "awarded": 20149.28,
      "done": 15709.88,
      "pct": 78.09
@@ -1632,8 +1632,8 @@
      "id": 20,
      "sanctioned": 40210,
      "awarded": 38423,
-     "done": 18674,
-     "pct": 46.44
+     "done": 18704,
+     "pct": 46.52
     },
     {
      "name": "Manipur",
@@ -1688,8 +1688,8 @@
      "id": 28,
      "sanctioned": 114614,
      "awarded": 93799,
-     "done": 33949,
-     "pct": 29.62
+     "done": 33968,
+     "pct": 29.64
     },
     {
      "name": "Sikkim",
@@ -1745,8 +1745,8 @@
     "id": 999999999,
     "sanctioned": 591714.96,
     "awarded": 555541.85,
-    "done": 229393.38,
-    "pct": 38.77
+    "done": 229442.38,
+    "pct": 38.78
    },
    "bihar_discoms": [
     {
@@ -2011,7 +2011,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 36.83
+     "pct": 36.89
     },
     {
      "name": "Haryana",
@@ -2139,7 +2139,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 77.04
+     "pct": 77.45
     },
     {
      "name": "Tamil Nadu",
@@ -2233,7 +2233,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 66.28
+     "pct": 66.52
     },
     {
      "name": "Bihar",
@@ -2401,7 +2401,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 25.4
+     "pct": 25.46
     },
     {
      "name": "Sikkim",
@@ -2417,7 +2417,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 20.89
+     "pct": 20.92
     },
     {
      "name": "Telangana",
@@ -2449,7 +2449,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 36.92
+     "pct": 37.04
     },
     {
      "name": "West Bengal",
@@ -8201,131 +8201,131 @@
   }
  },
  "india_tiles": {
-  "sm_physical": 31.53,
+  "sm_physical": 31.54,
   "sm_financial": 14.18,
-  "lr_physical": 47.33,
+  "lr_physical": 47.36,
   "lr_financial": 44.87
  },
  "sources": {
   "annual:atc": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "annual:acs_arr": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "annual:payable": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "annual:receivable": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "tiles": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:cm": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:cm:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:dm": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:dm:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:fm": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:fm:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:bm": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:LT": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:LT:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:HT": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:HT:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:DTR": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:DTR:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:SUB": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "progress:SUB:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "physical:sm": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "physical:sm:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "physical:ls": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "physical:ls:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "funds:sanctioned_cost": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "funds:sanctioned_cost:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "funds:gbs_sanctioned": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "funds:gbs_sanctioned:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "funds:gbs_released": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   },
   "funds:gbs_released:bihar": {
    "ok": true,
-   "at": "2026-11-21T02:20:42.598Z"
+   "at": "2026-11-21T14:16:16.424Z"
   }
  },
  "errors": [],
