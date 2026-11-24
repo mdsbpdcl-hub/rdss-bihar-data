@@ -127,7 +127,7 @@ progress,LT,state,Karnataka,287.27,142.91,176,61.27
 progress,LT,state,Kerala,11131.99,11117.51,2691.57,24.18
 progress,LT,state,Ladakh,1069.5,1069.5,374.3,35
 progress,LT,state,Madhya Pradesh,39743.09,39288.56,29902.89,75.24
-progress,LT,state,Maharashtra,53805.98,52847.09,41569.07,77.26
+progress,LT,state,Maharashtra,53805.98,52847.09,41571.62,77.26
 progress,LT,state,Manipur,3912.77,3912.77,720.9,18.42
 progress,LT,state,Meghalaya,6283.36,3622.86,1858.1,29.57
 progress,LT,state,Mizoram,913.8,601.38,505.94,55.37
@@ -137,11 +137,11 @@ progress,LT,state,Punjab,7988.62,6514.27,418.21,5.24
 progress,LT,state,Rajasthan,129302.93,92070.34,31735.53,24.54
 progress,LT,state,Sikkim,1159.14,1159.14,395.07,34.08
 progress,LT,state,Tamil Nadu,19577.45,19577.5,475.14,2.43
-progress,LT,state,Tripura,9202.63,7619.41,7578.99,82.36
+progress,LT,state,Tripura,9202.63,7619.41,75795.4,82.36
 progress,LT,state,Uttar Pradesh,182494.48,174054,146704.59,80.39
-progress,LT,state,Uttarakhand,9207.37,9173.82,4175.73,45.35
+progress,LT,state,Uttarakhand,9207.36,9173.82,4175.73,45.35
 progress,LT,state,West Bengal,132919.1,132919,91976,69.2
-progress,LT,india,India,923099.19,857490.61,557903.96,60.44
+progress,LT,india,India,923099.19,857490.61,557906.51,60.44
 progress,LT,bihar_discom,NBPDCL,34735.43,34732.73,37967.76,109.31
 progress,LT,bihar_discom,SBPDCL,36127.56,36127.7,38316.61,106.06
 progress,HT,state,Andaman and Nicobar Islands,513.5,513.5,0,0
@@ -169,9 +169,9 @@ progress,HT,state,Nagaland,2179.69,2179.69,579.51,26.59
 progress,HT,state,Puducherry,214.03,192.09,0,0
 progress,HT,state,Punjab,20913.91,17233.41,1287.33,6.16
 progress,HT,state,Rajasthan,242991.8,213218.41,45218.28,18.61
-progress,HT,state,Sikkim,1720.01,1720.01,211.48,12.3
+progress,HT,state,Sikkim,1720.02,1720.02,211.48,12.3
 progress,HT,state,Tamil Nadu,46179.26,46179.22,2645.31,5.73
-progress,HT,state,Tripura,1300.24,1130.03,821.2,63.16
+progress,HT,state,Tripura,1300.23,1130.04,821.2,63.16
 progress,HT,state,Uttar Pradesh,91151.05,88454,69529.08,76.28
 progress,HT,state,Uttarakhand,6569,6552.89,2872.48,43.73
 progress,HT,state,West Bengal,6876.63,5183.45,1884.71,27.41
@@ -280,7 +280,7 @@ physical,ls,state,Karnataka,,,,7.45
 physical,ls,state,Kerala,,,,38.84
 physical,ls,state,Ladakh,,,,26.03
 physical,ls,state,Madhya Pradesh,,,,60.27
-physical,ls,state,Maharashtra,,,,47.87
+physical,ls,state,Maharashtra,,,,47.88
 physical,ls,state,Manipur,,,,27.21
 physical,ls,state,Meghalaya,,,,30.71
 physical,ls,state,Mizoram,,,,59.72

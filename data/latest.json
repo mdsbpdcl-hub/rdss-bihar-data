@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-23T14:35:55.936Z",
+ "fetched_at": "2026-11-24T02:27:16.086Z",
  "source": "https://rdss.powermin.gov.in/dashboard",
  "progress": {
   "cm": {
@@ -1076,7 +1076,7 @@
      "id": 20,
      "sanctioned": 53805.98,
      "awarded": 52847.09,
-     "done": 41569.07,
+     "done": 41571.62,
      "pct": 77.26
     },
     {
@@ -1156,7 +1156,7 @@
      "id": 33,
      "sanctioned": 9202.63,
      "awarded": 7619.41,
-     "done": 7578.99,
+     "done": 75795.4,
      "pct": 82.36
     },
     {
@@ -1170,7 +1170,7 @@
     {
      "name": "Uttarakhand",
      "id": 34,
-     "sanctioned": 9207.37,
+     "sanctioned": 9207.36,
      "awarded": 9173.82,
      "done": 4175.73,
      "pct": 45.35
@@ -1189,7 +1189,7 @@
     "id": 999999999,
     "sanctioned": 923099.19,
     "awarded": 857490.61,
-    "done": 557903.96,
+    "done": 557906.51,
     "pct": 60.44
    },
    "bihar_discoms": [
@@ -1420,8 +1420,8 @@
     {
      "name": "Sikkim",
      "id": 29,
-     "sanctioned": 1720.01,
-     "awarded": 1720.01,
+     "sanctioned": 1720.02,
+     "awarded": 1720.02,
      "done": 211.48,
      "pct": 12.3
     },
@@ -1436,8 +1436,8 @@
     {
      "name": "Tripura",
      "id": 33,
-     "sanctioned": 1300.24,
-     "awarded": 1130.03,
+     "sanctioned": 1300.23,
+     "awarded": 1130.04,
      "done": 821.2,
      "pct": 63.16
     },
@@ -2345,7 +2345,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 47.87
+     "pct": 47.88
     },
     {
      "name": "Manipur",
@@ -8209,123 +8209,123 @@
  "sources": {
   "annual:atc": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "annual:acs_arr": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "annual:payable": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "annual:receivable": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "tiles": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:cm": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:cm:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:dm": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:dm:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:fm": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:fm:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:bm": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:LT": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:LT:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:HT": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:HT:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:DTR": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:DTR:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:SUB": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "progress:SUB:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "physical:sm": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "physical:sm:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "physical:ls": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "physical:ls:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "funds:sanctioned_cost": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "funds:sanctioned_cost:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "funds:gbs_sanctioned": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "funds:gbs_sanctioned:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "funds:gbs_released": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   },
   "funds:gbs_released:bihar": {
    "ok": true,
-   "at": "2026-11-23T14:35:55.936Z"
+   "at": "2026-11-24T02:27:16.086Z"
   }
  },
  "errors": [],
