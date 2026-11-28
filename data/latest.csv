@@ -8,7 +8,7 @@ progress,cm,state,Chhattisgarh,5962115,7070288,4450321,74.64
 progress,cm,state,Goa,741160,741160,38599,5.21
 progress,cm,state,Gujarat,16487100,16471994,6013314,36.47
 progress,cm,state,Haryana,2960768,0,0,0
-progress,cm,state,Himachal Pradesh,2800945,2876187,1165009,41.59
+progress,cm,state,Himachal Pradesh,2800945,2876187,1189860,42.48
 progress,cm,state,Jammu and Kashmir,1407045,1407046,1222041,86.85
 progress,cm,state,Jharkhand,1341306,1341306,858758,64.02
 progress,cm,state,Karnataka,0,0,0,0
@@ -24,11 +24,11 @@ progress,cm,state,Punjab,8784807,0,0,0
 progress,cm,state,Rajasthan,14274956,14280085,5463424,38.27
 progress,cm,state,Sikkim,144680,144680,114120,78.88
 progress,cm,state,Tamil Nadu,30000000,0,0,0
-progress,cm,state,Tripura,447489,447489,330555,73.87
+progress,cm,state,Tripura,447489,447489,330967,73.96
 progress,cm,state,Uttar Pradesh,26979055,26979055,10507851,38.95
 progress,cm,state,Uttarakhand,1587870,1587870,763889,48.11
 progress,cm,state,West Bengal,18717969,3714273,640948,3.42
-progress,cm,india,India,198490394,123566451,62508864,31.49
+progress,cm,india,India,198490394,123566451,62534127,31.5
 progress,cm,bihar_discom,NBPDCL,1030000,1030000,928412,90.14
 progress,cm,bihar_discom,SBPDCL,1320000,1320000,1235920,93.63
 progress,dm,state,Andaman and Nicobar Islands,1148,1105,0,0
@@ -41,7 +41,7 @@ progress,dm,state,Delhi,766,0,0,0
 progress,dm,state,Goa,8369,8369,5693,68.02
 progress,dm,state,Gujarat,300487,316987,222234,73.96
 progress,dm,state,Haryana,94813,0,0,0
-progress,dm,state,Himachal Pradesh,39012,39826,24919,63.88
+progress,dm,state,Himachal Pradesh,39012,39826,24930,63.9
 progress,dm,state,Jammu and Kashmir,88037,82196,42192,47.93
 progress,dm,state,Jharkhand,19512,19512,2035,10.43
 progress,dm,state,Kerala,87615,92387,41475,47.34
@@ -60,7 +60,7 @@ progress,dm,state,Tripura,14908,14160,9929,66.6
 progress,dm,state,Uttar Pradesh,1516383,1526801,450167,29.69
 progress,dm,state,Uttarakhand,59212,59212,26755,45.19
 progress,dm,state,West Bengal,305419,305419,103917,34.02
-progress,dm,india,India,5337087,4889425,2186850,40.97
+progress,dm,india,India,5337087,4889425,2186861,40.97
 progress,dm,bihar_discom,NBPDCL,143683,135491,107392,74.74
 progress,dm,bihar_discom,SBPDCL,107043,107043,97948,91.5
 progress,fm,state,Andaman and Nicobar Islands,114,65,0,0
@@ -133,15 +133,15 @@ progress,LT,state,Meghalaya,6283.37,3622.86,1858.09,29.57
 progress,LT,state,Mizoram,913.8,601.38,505.94,55.37
 progress,LT,state,Nagaland,1468.89,1468.89,391.65,26.66
 progress,LT,state,Puducherry,245.84,255,24.1,9.81
-progress,LT,state,Punjab,7988.62,6514.27,418.21,5.24
+progress,LT,state,Punjab,7988.61,6514.27,418.21,5.24
 progress,LT,state,Rajasthan,129302.93,92070.34,31735.53,24.54
 progress,LT,state,Sikkim,1159.14,1159.14,395.07,34.08
-progress,LT,state,Tamil Nadu,19577.45,19577.5,494.69,2.53
-progress,LT,state,Tripura,9202.63,7619.41,75799,82.36
-progress,LT,state,Uttar Pradesh,182494.48,174054,146178.05,80.1
+progress,LT,state,Tamil Nadu,19577.46,19577.49,494.68,2.53
+progress,LT,state,Tripura,9202.63,7619.41,7579,82.36
+progress,LT,state,Uttar Pradesh,182494.48,174054,146186.55,80.1
 progress,LT,state,Uttarakhand,9207.36,9173.82,4175.73,45.35
 progress,LT,state,West Bengal,132919.1,132919,91976,69.2
-progress,LT,india,India,923099.19,857490.61,558081.31,60.46
+progress,LT,india,India,923099.19,857490.61,558089.81,60.46
 progress,LT,bihar_discom,NBPDCL,34735.43,34732.73,37967.76,109.31
 progress,LT,bihar_discom,SBPDCL,36127.55,36127.69,38696.57,107.11
 progress,HT,state,Andaman and Nicobar Islands,513.5,513.5,0,0
@@ -170,12 +170,12 @@ progress,HT,state,Puducherry,214.03,192.09,0,0
 progress,HT,state,Punjab,20913.9,17233.41,1287.33,6.16
 progress,HT,state,Rajasthan,242991.8,213218.41,45229.73,18.61
 progress,HT,state,Sikkim,1720.02,1720.02,211.48,12.3
-progress,HT,state,Tamil Nadu,46179.26,46179.22,2719.9,5.89
+progress,HT,state,Tamil Nadu,46179.26,46179.22,2723.12,5.9
 progress,HT,state,Tripura,1300.23,1130.03,821.2,63.16
-progress,HT,state,Uttar Pradesh,91151.05,88454,69631.82,76.39
+progress,HT,state,Uttar Pradesh,91151.05,88454,69632.64,76.39
 progress,HT,state,Uttarakhand,6569,6552.89,2872.48,43.73
 progress,HT,state,West Bengal,6876.63,5183.45,1884.71,27.41
-progress,HT,india,India,806410.12,762924.65,319931.53,39.67
+progress,HT,india,India,806410.12,762924.65,319935.57,39.67
 progress,HT,bihar_discom,NBPDCL,23634.87,23783.69,16518.68,69.89
 progress,HT,bihar_discom,SBPDCL,20117.57,20149.28,15787.81,78.48
 progress,DTR,state,Andaman and Nicobar Islands,443,443,0,0
@@ -203,12 +203,12 @@ progress,DTR,state,Puducherry,158,158,58,36.71
 progress,DTR,state,Punjab,18190,17678,3561,19.58
 progress,DTR,state,Rajasthan,114614,93799,33978,29.65
 progress,DTR,state,Sikkim,169,169,0,0
-progress,DTR,state,Tamil Nadu,120331,120331,8937,7.43
+progress,DTR,state,Tamil Nadu,120331,120331,8950,7.44
 progress,DTR,state,Tripura,1067,989,936,87.72
-progress,DTR,state,Uttar Pradesh,27840,19393,10220,36.71
+progress,DTR,state,Uttar Pradesh,27840,19393,10229,36.74
 progress,DTR,state,Uttarakhand,422,404,0,0
 progress,DTR,state,West Bengal,1437,917,477,33.19
-progress,DTR,india,India,591825.96,555652.85,230361.38,38.92
+progress,DTR,india,India,591825.96,555652.85,230383.38,38.93
 progress,DTR,bihar_discom,NBPDCL,25570,25562,26259,102.69
 progress,DTR,bihar_discom,SBPDCL,26819,26763,27914,104.08
 progress,SUB,state,Andaman and Nicobar Islands,2,2,0,0
@@ -225,10 +225,10 @@ progress,SUB,state,Maharashtra,597,596,362,60.64
 progress,SUB,state,Punjab,180,176,122,67.78
 progress,SUB,state,Rajasthan,238,240,205,86.13
 progress,SUB,state,Sikkim,4,4,0,0
-progress,SUB,state,Uttar Pradesh,2002,2002,47,2.35
+progress,SUB,state,Uttar Pradesh,2002,2002,48,2.4
 progress,SUB,state,Uttarakhand,6,6,0,0
 progress,SUB,state,West Bengal,82,84,84,102.44
-progress,SUB,india,India,3986,3894,1313,32.94
+progress,SUB,india,India,3986,3894,1314,32.97
 progress,SUB,bihar_discom,NBPDCL,91,91,8,8.79
 progress,SUB,bihar_discom,SBPDCL,76,76,26,34.21
 physical,sm,state,Andaman and Nicobar Islands,,,,0
@@ -241,7 +241,7 @@ physical,sm,state,Delhi,,,,0
 physical,sm,state,Goa,,,,6.01
 physical,sm,state,Gujarat,,,,37.14
 physical,sm,state,Haryana,,,,0
-physical,sm,state,Himachal Pradesh,,,,41.93
+physical,sm,state,Himachal Pradesh,,,,42.8
 physical,sm,state,Jammu and Kashmir,,,,84.51
 physical,sm,state,Jharkhand,,,,63.26
 physical,sm,state,Karnataka,,,,0
@@ -257,7 +257,7 @@ physical,sm,state,Punjab,,,,0.5
 physical,sm,state,Rajasthan,,,,37.57
 physical,sm,state,Sikkim,,,,78.14
 physical,sm,state,Tamil Nadu,,,,0.03
-physical,sm,state,Tripura,,,,73.66
+physical,sm,state,Tripura,,,,73.75
 physical,sm,state,Uttar Pradesh,,,,38.52
 physical,sm,state,Uttarakhand,,,,48.1
 physical,sm,state,West Bengal,,,,3.98
@@ -272,7 +272,7 @@ physical,ls,state,Chhattisgarh,,,,61.72
 physical,ls,state,Delhi,,,,3.37
 physical,ls,state,Goa,,,,89.68
 physical,ls,state,Gujarat,,,,53.88
-physical,ls,state,Haryana,,,,23.22
+physical,ls,state,Haryana,,,,25.38
 physical,ls,state,Himachal Pradesh,,,,9.62
 physical,ls,state,Jammu and Kashmir,,,,53.61
 physical,ls,state,Jharkhand,,,,66.4
@@ -289,10 +289,10 @@ physical,ls,state,Puducherry,,,,48.93
 physical,ls,state,Punjab,,,,29.45
 physical,ls,state,Rajasthan,,,,25.6
 physical,ls,state,Sikkim,,,,24.53
-physical,ls,state,Tamil Nadu,,,,21.45
+physical,ls,state,Tamil Nadu,,,,21.47
 physical,ls,state,Telangana,,,,5.64
 physical,ls,state,Tripura,,,,60.16
-physical,ls,state,Uttar Pradesh,,,,49.86
+physical,ls,state,Uttar Pradesh,,,,49.9
 physical,ls,state,Uttarakhand,,,,37.1
 physical,ls,state,West Bengal,,,,68.38
 physical,ls,bihar_discom,NBPDCL,,,,57.66
