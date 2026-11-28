@@ -1,5 +1,5 @@
 {
- "fetched_at": "2026-11-27T14:29:28.834Z",
+ "fetched_at": "2026-11-28T02:25:35.416Z",
  "source": "https://rdss.powermin.gov.in/dashboard",
  "progress": {
   "cm": {
@@ -1276,8 +1276,8 @@
     {
      "name": "Goa",
      "id": 10,
-     "sanctioned": 160.6,
-     "awarded": 160.6,
+     "sanctioned": 160.59,
+     "awarded": 160.59,
      "done": 69.15,
      "pct": 43.06
     },
@@ -2289,7 +2289,7 @@
      "sanctioned": null,
      "awarded": null,
      "done": null,
-     "pct": 9.41
+     "pct": 9.62
     },
     {
      "name": "Jammu and Kashmir",
@@ -8209,123 +8209,123 @@
  "sources": {
   "annual:atc": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "annual:acs_arr": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "annual:payable": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "annual:receivable": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "tiles": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:cm": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:cm:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:dm": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:dm:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:fm": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:fm:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:bm": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:LT": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:LT:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:HT": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:HT:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:DTR": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:DTR:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:SUB": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "progress:SUB:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "physical:sm": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "physical:sm:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "physical:ls": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "physical:ls:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "funds:sanctioned_cost": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "funds:sanctioned_cost:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "funds:gbs_sanctioned": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "funds:gbs_sanctioned:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "funds:gbs_released": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   },
   "funds:gbs_released:bihar": {
    "ok": true,
-   "at": "2026-11-27T14:29:28.834Z"
+   "at": "2026-11-28T02:25:35.416Z"
   }
  },
  "errors": [],

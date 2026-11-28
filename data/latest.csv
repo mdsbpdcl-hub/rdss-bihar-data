@@ -151,7 +151,7 @@ progress,HT,state,Assam,11740.52,15696.71,4328.22,36.87
 progress,HT,state,Bihar,43752.45,43932.98,32306.5,73.84
 progress,HT,state,Chhattisgarh,22289.71,20844.65,16463.58,73.86
 progress,HT,state,Delhi,6.59,18.46,0,0
-progress,HT,state,Goa,160.6,160.6,69.15,43.06
+progress,HT,state,Goa,160.59,160.59,69.15,43.06
 progress,HT,state,Gujarat,26125.02,23818.86,18773.09,71.86
 progress,HT,state,Haryana,16611.93,16833.18,7735.22,46.56
 progress,HT,state,Himachal Pradesh,7440.57,7350.25,90.03,1.21
@@ -273,7 +273,7 @@ physical,ls,state,Delhi,,,,3.37
 physical,ls,state,Goa,,,,89.68
 physical,ls,state,Gujarat,,,,53.88
 physical,ls,state,Haryana,,,,23.22
-physical,ls,state,Himachal Pradesh,,,,9.41
+physical,ls,state,Himachal Pradesh,,,,9.62
 physical,ls,state,Jammu and Kashmir,,,,53.61
 physical,ls,state,Jharkhand,,,,66.4
 physical,ls,state,Karnataka,,,,7.45
